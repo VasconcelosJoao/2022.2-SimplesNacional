@@ -1,13 +1,13 @@
-# Relato dos Resultados Do Prototipo de Papel
+# Relato dos Resultados Do Protótipo de Papel
 
 ## <a>Histórico de Versão</a>
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|11/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)|
+|11/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|
 
 ## Introdução 
-Este documento contempla o relato dos resultados do Prototipo de Papel, onde foi utilizado a metodologia de entrevista(s), onde em uma chamada online ao vivo,
+Este documento contempla o relato dos resultados do Protótipo de Papel, onde foi utilizado a metodologia de entrevista(s), onde em uma chamada online ao vivo,
 se mostra um questionario de perguntas referentes ao que se pretende avaliar. Este documento está seguindo o template  especificado no 
 [Planejamento](PlanejamentoProtPapel.md) do mesmo. 
 
