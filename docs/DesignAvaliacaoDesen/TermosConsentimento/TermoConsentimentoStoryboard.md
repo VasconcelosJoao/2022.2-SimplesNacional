@@ -3,7 +3,7 @@
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
-|10/01/2022|11/01/2022|1.0|Criação do Termo de Consentimento| [Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)
+|10/01/2022|11/01/2022|1.0|Criação do Termo de Consentimento| [Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)
 
 ## <a>Termo de Consentimento Livre e Esclarecido</a>
 
@@ -14,7 +14,7 @@
 **Nome do(s) Pesquisadores assistentes/alunos**: Thiago Oliveira Cunha
 
 1.	**Natureza da pesquisa**: O senhor(a) está sendo convidado(a) a participar desta pesquisa que tem como finalidade coletar dados acerca da exatidão do Storyboard realizado pelo grupo 3.
-2.	**Participantes da pesquisa**: 3 participante, com foco em perfis semelhantes ao [Perfil do Usuário](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/perfilUsuario/).
+2.	**Participantes da pesquisa**: 3 participante, com foco em perfis semelhantes ao [Perfil do Usuário](../../Tarefas/perfilUsuario.md).
 3.	**Envolvimento na pesquisa**: Ao participar deste estudo o senhor(a) permitirá que o(a) pesquisador(a) colete e utilize todos os dados falados durante a entrevista para pesquisa e 
 Melhora do site do Simples Nacional. O senhor(a) tem liberdade de se recusar a participar e ainda se recusar a continuar participando em qualquer fase da pesquisa, 
 sem qualquer prejuízo para o senhor(a). Sempre que quiser, poderá pedir mais informações sobre a pesquisa através do email do(a) pesquisador(a) do projeto.
