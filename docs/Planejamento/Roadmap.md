@@ -179,17 +179,17 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | --- | --- | --- | --- | --- |
 | Planejamento da Avaliação - Protótipo de Alta Fidelidade | Ana | 05/01/2023 | 06/01/2023  | Eduardo |
 | Planejamento da Avaliação - Protótipo de Papel | Ana | 01/01/2023 | 02/01/2023 | Thiago |
-| Planejamento de relato de resultados - Protótipo de Alta Fidelidade | João |  |  |  |
-| Planejamento de relato de resultados - Protótipo de Papel | João |  |  |  |
+| Planejamento de relato de resultados - Protótipo de Alta Fidelidade | João |05/01/2023|06/01/2023| Thiago |
+| Planejamento de relato de resultados - Protótipo de Papel | João | 05/01/2023 | 06/01/2023 | Thiago |
 | Avaliação - Protótipo de Papel | Pedro, Arthur |  |  | |
 | Gravação de Avaliação - Storyboard | Pedro, Arthur |  |  | |
 | Gravação de Avaliação - Análise de Tarefas | Pedro, Arthur |  |  | |
 | Desenvolvimento do Protótipo de Papel | Ana | 03/01/2023 | 03/01/2023 | Arthur, João, Thiago |
-| Teste piloto - Protótipo de Papel | Eduardo |  |  |  |
-| Teste piloto - Protótipo de Alta Fidelidade | Eduardo |  |  |  |
-| Relato dos Resultados - Protótipo de Papel | Thiago |  |  |  |
-| Relato dos Resultados - Storyboard | Thiago |  |  |  |
-| Relato dos Resultados - Análise de Tarefas | Thiago |  |  |  |
+| Teste piloto - Protótipo de Papel | Eduardo, Thiago | 05/01/2023 | 06/01/2023 | Arthur |
+| Teste piloto - Storyboard e Análise de Tarefas | Eduardo, Thiago | 05/01/2023 | 06/01/2023 | João |
+| Relato dos Resultados - Protótipo de Papel | Thiago | 11/02/2023 | 11/02/2023 | Eduardo |
+| Relato dos Resultados - Storyboard | Thiago | 11/02/2023 | 11/02/2023 | Ana |
+| Relato dos Resultados - Análise de Tarefas | Thiago | 11/02/2023 | 11/02/2023 | Arthur |
 | Ajustes no Planejamento de Relato dos Resultados - Storyboard | Ana | 05/01/2023 | 06/01/2023 | Eduardo |
 
 *Tabela 12 - Tarefas executadas para a entrega 6*<br><br>

@@ -1,28 +1,29 @@
-# Relato dos Resultados Da Analise de Tarefas
+# Relato dos Resultados Do Storyboard
 
 ## <a>Histórico de Versão</a>
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|11/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)|
+|11/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)|
 
 ## Introdução 
-Este documento contempla o relato dos resultados do Storyboard, onde foi utilizado a metodologia de entrevista(s), onde em uma chamada online ao vivo,
-se mostra um questionario de perguntas referentes ao que se pretende avaliar. Este documento está seguindo o template  especificado no 
-[Planejamento](PlanejamentoResAnaliseTarefas.md) do mesmo. 
+Este documento contempla o relato dos resultados do Storyboard, onde foi utilizado a metodologia de entrevistas realizadas em uma chamada online ao vivo.
+Foi mostrado um questionario de perguntas referentes ao que se pretende avaliar. Este documento está seguindo o template especificado no 
+[Planejamento](PlanejamentoRelatoResuStoryboard.md) do mesmo. 
 
 
 ## <a>Objetivos</a>
-O relato dos resultados, tem como objetivo principal relatar e organizar os resultados e anotações obtidas a partir de uma ou mais entrevistas com um ou mais usuários,
-dependendo da necessidade da ocasião, portanto neste documento se contempla os resultados que o grupo 3(Simples Nacional) tiveram ao entrevistar três usuários
-recorrentes do site Simples Nacional, com tais entrevistas tendo alcançado seus objetivos de coleta de informações concretas e confiáveis, podendo ser utilizada
-principalmente para verificar a necessidade de alteração no Storyboard.
+O relato dos resultados, tem como objetivo principal relatar e organizar os resultados e anotações obtidas a partir das entrevistas com os usuários. Neste documento se contempla os resultados que o grupo 3 (Simples Nacional) teve ao entrevistar três usuários
+recorrentes do site Simples Nacional, com tais entrevistas tendo alcançado seus objetivos de coleta de informações concretas e confiáveis, podendo ser utilizada principalmente para verificar a necessidade de alteração no Storyboard.
 
 ## <a>Participantes</a>
-Para uma das entrevistas presente neste documento tivemos 2 participantes, o entrevistador e o entrevistado, onde o entrevistador
+Para as entrevistas presentes neste documento, tivemos 2 participantes, o entrevistador e o entrevistado. O entrevistador
 iria entrevistar e ao mesmo tempo tomar notas sobre o que está sendo falado, com a entrevista restante tendo 3 participantes
-sendo desses 3 apenas 2 ativos, com 1 entrevistador, 1 entrevistado e 1 integrante auxiliar
-para tomar notas de toda a entrevista no geral, para que após seja possivel organizar os dados coletados da entrevista, abaixo segue o nome dos participantes:
+sendo desses 3 apenas 2 ativos, com 1 entrevistador, 1 entrevistado e 1 integrante responsável por realizar as anotações necessárias devido a um empecilho do entrevistador para isso.
+Com essa organização torna-se possivel organizar os dados coletados da entrevista. 
+
+Abaixo segue o nome dos participantes:
+
 #### Entrevistador:
 - Pedro Lucas S. Fernandes
 #### Entrevistados:
@@ -33,17 +34,11 @@ para tomar notas de toda a entrevista no geral, para que após seja possivel org
 - Thiago Oliveira Cunha
 
 ## <a>Metodologia da Avaliação</a>
-Para realizar a avaliação do Storyboard foi utilizado o método de entrevistas, tendo um entrevistador participante com o objetivo de  entrevistar o usuário e tomar notas
-caso não se tenha um Auxiliar de Notas para ajuda-lo,
-e em uma das entrevistas, um Auxiliar de Notas, com o objetivo de tomar notas sobre o que está sendo falado na entrevista.
+Como já mencionado, foi utilizado o método de entrevistas.
 
-Antes do questionário é preciso se mostrar o [Termo de Consentimento](TermoConsentimentoStoryboard.md)
-para o entrevistado, e ter total certeza da concordancia do mesmo com os termos, e também a assinatura do entrevistador e do entrevistado.
+Antes do questionário, é preciso apresentar o [Termo de Consentimento](TermoConsentimentoStoryboard.md) para o entrevistado, e ter total certeza da concordância do mesmo com os termos, e também a assinatura do entrevistador e do entrevistado.
 
-No questionario mostrado para o usuário possui perguntas apenas de cunho especifico que serão as utilizadas para avaliar o Storyboard, 
-as perguntas foram acerca do tema do Storyboard em si, se perguntando sobre sua semelhança com a realidade no que diz respeito aos elementos do storyboard,
-como Ator, ambientes e tarefas, e também sobre a semelhança com o que o storyboard representa, como pontos fortes e fracos do sistema, modificações no design e no
-sistema interativo, feitos a partir do Storyboard do Simples nacional pelo grupo 3.
+No questionário realizado, há perguntas de cunho especifico que serão as utilizadas para avaliar o Storyboard. As perguntas em questão focam em pegar dados referentes à semelhança do Storyboard com a realidade dos usuários, perguntando sobre sua semelhança com a realidade no que diz respeito aos elementos apresentados, como Ator, ambientes e tarefas, e também sobre a semelhança com o que o storyboard representa, como pontos fortes e fracos do sistema e modificações no design do sistema interativo que podem inclusive ser sugeridas pelo usuário.
 
 ## <a>Entrevista(s) e Anotações</a>
 
@@ -158,26 +153,26 @@ Anotações retiradas da entrevista:
 ## <a>Problemas</a>
 
 De acordo com as entrevistas e com as anotações relativas às entrevistas, nota-se alguns problemas:
-- Não mostrar onde o ator teve que ir para buscar o codigo de acesso presencialmente
-- Não mostrar descontentamento em ter que ir prsencialmente pegar o codigo, e na fila do banco
-- O codigo de emissão do boleto para pagamento do DAS, que existe na realidade, nao foi mostrado
-- Não é totalmente intuitivo pois a parte de ir buscar o codigo de acesso com o SEBRAE nao é intuitivo
-- Faltou representar a dificuldade do atraso do pagamento, e os problemas com realação ao atraso ou falha do pagamento(outro storyboard).
+
+- Não mostrar onde o ator teve que ir para buscar o codigo de acesso presencialmente;
+- Não mostrar descontentamento em ter que ir prsencialmente pegar o codigo, e na fila do banco;
+- O codigo de emissão do boleto para pagamento do DAS, que existe na realidade, nao foi mostrado;
+- Não é totalmente intuitivo pois a parte de ir buscar o codigo de acesso com o SEBRAE nao é intuitivo;
+- Faltou representar a dificuldade do atraso do pagamento, e os problemas com realação ao atraso ou falha do pagamento (outro storyboard).
 
 ## <a>Sugestões</a>
 
 De acordo com as entrevistas e com as anotações relativas às entrevistas, nota-se algumas sugestões feitas pelos usuários:
-- Dividir os storyboard em duas tarefas ou dois storyboards para cada tarefa já que o ator presente realiza duas tarefas.
-- Realizar um storyboard separada para cadastro do débito automatico.
-- Separar um storyboard para pagamento do DAS e outro de Emição de boleto para pagamento do DAS
+
+- Dividir os storyboard em duas tarefas ou dois storyboards para cada tarefa já que o ator presente realiza duas tarefas;
+- Realizar um storyboard separada para cadastro do débito automatico;
+- Separar um storyboard para pagamento do DAS e outro de Emição de boleto para pagamento do DAS;
 - Deveria representar a dificuldade do atraso do pagamento e os problemas relacionados ao mesmo, ou falha do pagamento.
 
 ## <a>Conclusão</a>
-A partir da Analise dos relatos dos resultados presentes neste documento, pode se perceber que tiveram quantidades bem parecidas de acertos e erros por parte do nosso
-grupo na criação do Storyboard,levando com certo o que nao se encontra nem em erros ou sugestões, 
-e levando como de maior importancia os problemas e sugestoes listados acima, os quais devem ser corrigidos/implementados o mais rapido
-possivel.
+A partir da Análise dos relatos dos resultados presentes neste documento, pode-se perceber que tiveram quantidades bem parecidas de acertos e erros por parte do nosso grupo na criação do Storyboard, levando como certo o que não se encontra nem em erros ou sugestões, 
+e levando como de maior importancia os problemas e as sugestões listados acima, os quais devem ser corrigidos/implementados em novas versões do storyboard.
 
 ## Bibliografia
-[1]Grupo Lichess do semestre 2022.2 da disciplina de IHC - https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise/<br></br>
-[2] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
