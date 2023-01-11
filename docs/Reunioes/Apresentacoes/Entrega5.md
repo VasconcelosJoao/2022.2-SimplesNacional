@@ -3,7 +3,7 @@
 ## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|21/12/2022|21/12/2022|1.0|Gravação da Terceira Entrega| [João Lucas](https://github.com/Hackairos)| [Ana Luiza](https://github.com/AnHoff) |
+|21/12/2022|21/12/2022|1.0|Gravação da Quinta Entrega| [João Lucas](https://github.com/Hackairos)| [-](https://github.com/) |
 
 ## <a>Local e horário</a>
 
