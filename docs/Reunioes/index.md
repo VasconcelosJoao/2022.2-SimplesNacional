@@ -1,6 +1,6 @@
 <center>
 
-# <a>Reuniões da equipe</a>
+# <a>Apresentações/Reuniões</a>
 
 Nesta seção podem ser encontrados todas as Entregas e atas de Reunião da Equipe 3 de Interação Humano Computador, Projeto <a>Simples Nacional</a>.
 
