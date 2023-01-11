@@ -12,7 +12,7 @@ Sistemas interativos de qualidade precisam passar por avaliações de interaçã
 
 ## <a>Cronograma</a>
 
-Será seguido um cronograma para realizar as atividades que serão apresentadas; a quantidade de usuários avaliados será 2, ambos usuários reais, além da realização do teste piloto com um integrante da equipe. Esse número se mostra o suficiente para representar usuários com diferentes visões do Simples Nacional.
+Será seguido um cronograma para realizar as atividades que serão apresentadas; a quantidade de usuários avaliados será 3, todos usuários reais, além da realização do teste piloto com um integrante da equipe. Esse número se mostra o suficiente para representar usuários com diferentes visões do Simples Nacional e, com base em Krug (2000), com 3 ou 4 usuários a maior parte dos problemas pode ser detectada, sendo possível fazer a análise no mesmo dia.
 
 Confira na tabela 1 abaixo o horário, local e participantes.
 
@@ -20,9 +20,10 @@ Confira na tabela 1 abaixo o horário, local e participantes.
 
 |Data|Hora|Local|Avaliador|Usuário|Avaliação|
 |---|---|---|---|---|---|
-|11/06/2023|16:00|Online - Microsoft Teams|Pedro, Eduardo|Thiago|Teste Piloto|
-|14/01/2023|19:00|Presencial - a definir|Pedro, Thiago|Renan|Teste de Usabilidade|
-|16/01/2023|20:00|Online - Microsoft Teams|Thiago, Pedro|*A confirmar*|Teste de Usabilidade|
+|16/06/2023|16:00|Online - Microsoft Teams|Pedro, Eduardo|Thiago|Teste Piloto|
+|17/01/2023|19:00|Presencial - a definir|Pedro, Thiago|Renan|Teste de Usabilidade|
+|18/01/2023|20:00|Online - Microsoft Teams|Thiago, Pedro|*A confirmar*|Teste de Usabilidade|
+|18/01/2023|21:00|Online - Microsoft Teams|Thiago, Pedro|*A confirmar*|Teste de Usabilidade|
 
 *Tabela 1 - Cronograma das avaliações*
 
@@ -30,9 +31,9 @@ Confira na tabela 1 abaixo o horário, local e participantes.
 
 ## <a>Protótipo de Alta Fidelidade</a>
 
-Um protótipo de alta fidelidade apresenta um produto parecido com o produto final, 
+Um protótipo de alta fidelidade requer materiais que você espera encontrar no produto final, assim, esse protótipo é semelhante ao produto finalizado. Além disso, ele é útil para vender ideias e para testar questões mais técnicas. Nesse projeto, utiliza-se a prototipação vertical, pois ela promove o maior detalhamento de poucas funções e, como o Simples Nacional apresenta serviços muito semelhantes, esse tipo de prototipação se mostra ideal para representar o site.
 
-A utilização desse tipo de prototipagem possui benefícios como: .
+A utilização desse tipo de prototipagem possui benefícios como: apresentação de funcionalidades completas, é totalmente interativo, define claramente o esquema de navegação e é utilizado como ferramenta de venda e marketing.
 
 A confecção do protótipo de alta fidelidade se deu em algumas etapas que podem ser conferidas na tabela 2 abaixo.
 <br><br>
@@ -42,8 +43,8 @@ A confecção do protótipo de alta fidelidade se deu em algumas etapas que pode
 |Data|Descrição|Responsáveis|Revisores|
 |---|---|---|---|
 |06/01/2023|Decidir tarefas abordadas no Protótipo de Alta Fidelidade|Thiago, João, Ana, Eduardo|Arthur, Pedro|
-|09/01/2023|Confecção do Protótipo de Alta Fidelidade|João|Ana, Thiago|
-|10/01/2023|Adaptações com base no feedback dos revisores|João|Arthur, Pedro|
+|13/01/2023|Confecção do Protótipo de Alta Fidelidade|João|Ana, Thiago|
+|14/01/2023|Adaptações com base no feedback dos revisores|João|Arthur, Pedro|
 
 *Tabela 2 - Planejamento do Protótipo de Alta Fidelidade*
 
@@ -73,6 +74,33 @@ O Framework DECIDE [1] será utilizado na montagem do planejamento, visto que el
 * **E**valuate: deve-se avaliar (*evaluate*), interpretar e apresentar os dados coletados.
 
 O método de avaliação escolhido para lidar com o protótipo de alta fidelidade foi o teste de usabilidade, uma forma de avaliação por observação. Esse método irá promover dados a partir do ponto de vista do usuário.
+
+O teste de usabilidade por sua vez, tem como objetivo principal melhorar a facilidade de uso de um produto. A partir dele, é possível ver se as pessoas realmente compreendem o design da forma como era esperado. Além disso, durante um processo de desenvolvimento, quanto mais cedo os testes forem aplicados, menores serão os custos e melhores serão os resultados.
+
+### <a>Características do teste de usabilidade</a>
+
+Testes de usabilidade compartilham, por padrão, 5 características:
+
+1. Objetivo principal;
+2. Os participantes representam usuários reais;
+3. Os participantes representam tarefas reais;
+4. É observado e registrado o que os participantes fazem;
+5. Os dados são analisados para diagnosticar problemas reais e propor recomendações para consertar os problemas identificados.
+
+O desempenho do usuário será avaliado de acordo com o número de erros e o tempo necessário para realizar cada tarefa.
+
+#### <a>Processo de condução</a>
+
+O teste piloto requer as seguintes etapas para ser conduzido:
+
+1. **Site**: Simples Nacional (protótipo que reformula o design original, propondo melhorias de usabilidade);
+2. **Script do teste**: apresentado no presente documento;
+3. **Local**: o usuário e o avaliador devem estar em salas silenciosas com boa conexão à internet e devem possuir bons microfones. De preferência, deve-se deixar a câmera aberta durante o uso do protótipo. Será utilizada a plataforma Microsoft Teams para isso e apenas as pessoas requisitadas estarão presentes na reunião;
+4. **Teste Piloto**: será realizado em breve e estará presente [aqui](testepiloto.md);
+5. **Recrutamento do usuário**: os usuários recrutados podem ser conferidos no cronograma desse documento;
+6. **Condução do teste**;
+7. **Análise dos resultados**: foca em revisar problemas encontrados, priorizar problemas baseados em frequência e severidade, identificar possíveis soluções;
+8. **Correção do site**: fazer as alterações necessárias e testar novamente. [2]
 
 ## <a>Objetivos</a>
 
@@ -123,10 +151,14 @@ Os usuários deverão realizar uma tarefa, sendo ela "ativar débito automático
 2. Clicar em "Ver Serviços", no card explicativo sobre o SIMEI;
 3. Escolher "Código de Acesso" como modo de login;
 4. Realizar login;
-5. Selecionar a opção "Solicitar restituição";
-6. Preencher dados de cobrança;
-7. Confirmar formulário;
-8. Clicar no check de confirmação final.
+5. Selecionar a opção "Restituição";
+6. Selecionar a opção "Solicitar Restituição";
+7. Inserir dados necessários para encontrar o documento a ser restituído;
+8. Preencher valor de restituição e dados para pagamento;
+9. Confirmar formulário;
+10. Clicar no check de confirmação final.
+
+Vale lembrar que o protótipo de alta fidelidade possui semelhanças com o de baixa fidelidade, porém seu intuito é apresentar melhorias com base nos primeiros feedbacks dos usuários.
 
 ## <a>Método de Avaliação</a>
 
@@ -206,4 +238,4 @@ Os resultados obtidos a partir das avaliações propostas no cronograma serão a
 
 ## <a>Bibliografia</a>
 
-[1] BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA , **Interação Humano-Computador**, 1ª Edição, Editora Campus, 2010 
+[2] BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA , **Interação Humano-Computador**, 1ª Edição, Editora Campus, 2010 

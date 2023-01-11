@@ -22,7 +22,7 @@ Confira na tabela 1 abaixo o horário, local e participantes.
 |---|---|---|---|---|---|
 |05/01/2023|16:00|Online - Microsoft Teams|Pedro|Thiago|Teste Piloto|
 |06/01/2023|19:00|Presencial - a definir|Pedro|Renan|Entrevista|
-|06/01/2023|20:00|Online - Microsoft Teams|Thiago|*A confirmar*|Entrevista|
+|10/01/2023|20:00|Online - Microsoft Teams|Thiago, Pedro|Nicolas|Entrevista|
 
 *Tabela 1 - Cronograma das avaliações*
 
@@ -53,7 +53,7 @@ A confecção do protótipo de papel se deu em algumas etapas que podem ser conf
 
 <br>
 
-No protótipo de papel confeccionado, tem-se 1 tarefa disponível para ser realizada: ativar débito automático; essa tarefa pode ser conferida detalhadamente [aqui](../../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e, em seguida, será questionado sobre sua experiência.
+No protótipo de papel confeccionado, tem-se 2 tarefas disponíveis para serem realizadas: ativar débito automático e solicitar restituição; essa tarefa pode ser conferida detalhadamente [aqui](../../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e, em seguida, será questionado sobre sua experiência.
 
 O protótipo confeccionado pode ser conferido em [PDF](../../../assets/protpapel/protpapel.pdf).
 
@@ -81,7 +81,7 @@ Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, 
 
 ## <a>Tarefas</a>
 
-Os usuários deverão realizar uma das tarefas mais procuradas por quem acessa o Simples Nacional, sendo ela ativar débito automático. Para isso, haverão alguns passos a serem seguidos.
+Os usuários deverão realizar as tarefas mais procuradas por quem acessa o Simples Nacional. Para isso, haverão alguns passos a serem seguidos.
 
 ### <a>A1: Ativar Débito Automático</a>
 
@@ -103,6 +103,28 @@ Os usuários deverão realizar uma das tarefas mais procuradas por quem acessa o
 7. Preencher dados de cobrança;
 8. Confirmar formulário;
 9. Clicar no check de confirmação final.
+
+### <a>A2: Solicitar Restituição</a>
+
+**Dados necessários:**
+
+* CNPJ;
+* CPF do responsável;
+* Código de acesso;
+* Dados de pagamento.
+
+**Caminho a ser seguido:**
+
+1. Acessar a página inicial do Simples Nacional;
+2. Clicar em "Ver Serviços", no card explicativo sobre o SIMEI;
+3. Escolher "Código de Acesso" como modo de login;
+4. Realizar login;
+5. Selecionar a opção "Restituição";
+6. Selecionar a opção "Solicitar Restituição";
+7. Inserir dados necessários para encontrar o documento a ser restituído;
+8. Preencher valor de restituição e dados para pagamento;
+9. Confirmar formulário;
+10. Clicar no check de confirmação final.
 
 ## <a>Método de Avaliação</a>
 
