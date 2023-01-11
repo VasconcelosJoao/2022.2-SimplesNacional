@@ -57,15 +57,13 @@ A confecção do storyboard se deu em algumas etapas que podem ser conferidas na
 
 <br>
 
-No storyboard confeccionado, tem-se um ator fictício, baseado em um perfil real, que deseja realizar a tarefa de [Ativar Débito Automático](../../Tarefas/Analise.md). O ator encontra alguns problemas do mundo real, como filas e burocracias, e procura, a partir do uso do site, conseguir ativar o débito automático de seus boletos. Assim, o objetivo final do ator é evitar a necessidade de ir até agências físicas para realizar um processo tão essencial para seu empreendimento.
+No storyboard confeccionado, tem-se um ator fictício, baseado em um perfil real, que deseja realizar a tarefa de [Ativar Débito Automático](../../../Tarefas/Analise.md). O ator encontra alguns problemas do mundo real, como filas e burocracias, e procura, a partir do uso do site, conseguir ativar o débito automático de seus boletos. Assim, o objetivo final do ator é evitar a necessidade de ir até agências físicas para realizar um processo tão essencial para seu empreendimento.
 
-O storyboard confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../../assets/storyboard/storyboard.pdf).
+O storyboard confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../../../assets/storyboard/storyboard.pdf).
 
 <center>
 
-<img src="../../../assets/storyboard/story.jpg">
-
-*Figura 1 - Storyboard (elaboração própria: Eduardo)*
+<img src="../../../../assets/storyboard/story.jpg"><br>*Figura 1 - Storyboard*</img>
 
 </center>
 
@@ -129,7 +127,7 @@ O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser c
 
 ## <a>Aspectos Éticos</a>
 
-Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Storyboard e foi elaborado levando em consideração os [Aspectos Éticos](../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Storyboard e foi elaborado levando em consideração os [Aspectos Éticos](../../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
 
 ## <a>Interpretação</a>
 

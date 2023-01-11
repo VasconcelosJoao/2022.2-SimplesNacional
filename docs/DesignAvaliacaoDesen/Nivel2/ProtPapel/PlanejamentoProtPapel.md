@@ -53,9 +53,9 @@ A confecção do protótipo de papel se deu em algumas etapas que podem ser conf
 
 <br>
 
-No protótipo de papel confeccionado, tem-se 1 tarefa disponível para ser realizada: ativar débito automático; essa tarefa pode ser conferida detalhadamente [aqui](../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e, em seguida, será questionado sobre sua experiência.
+No protótipo de papel confeccionado, tem-se 1 tarefa disponível para ser realizada: ativar débito automático; essa tarefa pode ser conferida detalhadamente [aqui](../../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e, em seguida, será questionado sobre sua experiência.
 
-O protótipo confeccionado pode ser conferido em [PDF](../../assets/protpapel/protpapel.pdf).
+O protótipo confeccionado pode ser conferido em [PDF](../../../assets/protpapel/protpapel.pdf).
 
 ## <a>Metodologia</a>
 
@@ -140,7 +140,7 @@ O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser c
 
 ## <a>Aspectos Éticos</a>
 
-Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel e foi elaborado levando em consideração os [Aspectos Éticos](../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel e foi elaborado levando em consideração os [Aspectos Éticos](../../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
 
 ## <a>Interpretação</a>
 

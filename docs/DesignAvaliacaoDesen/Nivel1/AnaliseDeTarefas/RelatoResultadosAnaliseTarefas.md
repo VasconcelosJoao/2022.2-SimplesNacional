@@ -4,12 +4,12 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|10/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)|
+|10/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|
 
 ## Introdução 
 Este documento contempla o relato dos resultados da analise de tarefas, onde foi utilizado a metodologia de entrevista(s), onde em uma chamada online ao vivo,
 se mostra um questionario de perguntas referentes ao que se pretende avaliar. Este documento está seguindo o template  especificado no 
-[Planejamento](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/Avaliacoes/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md) 
+[Planejamento](PlanejamentoResAnaliseTarefas.md) 
 do mesmo. 
 
 
@@ -59,7 +59,7 @@ Anotações retiradas da entrevista:
 - Falta uma opção clara para visualizar os cálculos, no lugar de entrar em débito automático. A impressor traz o erro, pq é para imprimir
 - Pagamento online dentro do Débito automatico não faz sentido. Computador != Pagamento, falta descrição
 - Tem uma parte é legal, deveria ser mais padrão para ser intuitivo. Não é Intuitivo ter o "PA" sem descrição
-- Desativar: Poderia ser excluida
+- Desativar: Poderia ser excluir
 - Consultar: É Condizente 
 
 ## <a>Problemas</a>

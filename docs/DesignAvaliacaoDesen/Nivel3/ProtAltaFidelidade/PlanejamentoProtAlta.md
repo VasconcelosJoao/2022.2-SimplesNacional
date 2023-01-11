@@ -51,13 +51,13 @@ A confecção do protótipo de alta fidelidade se deu em algumas etapas que pode
 
 <br>
 
-No protótipo de alta fidelidade, tem-se 2 tarefas disponíveis para serem realizadas: ativar débito automático e solicitar restituição; essas tarefas podem ser conferidas [aqui](../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e comentando em voz alta o que passa em sua mente durante a realização das tarefas.
+No protótipo de alta fidelidade, tem-se 2 tarefas disponíveis para serem realizadas: ativar débito automático e solicitar restituição; essas tarefas podem ser conferidas [aqui](../../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e comentando em voz alta o que passa em sua mente durante a realização das tarefas.
 
-<!-- O protótipo confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../../assets/protalta/protalta.pdf).
+<!-- O protótipo confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../../../assets/protalta/protalta.pdf).
 
 <center>
 
-<img src="../../assets/protalta/protalta.jpg">*Figura 1 - Protótipo de Alta Fidelidade (Elaboração própria: )*<img>
+<img src="../../../assets/protalta/protalta.jpg">*Figura 1 - Protótipo de Alta Fidelidade (Elaboração própria: )*<img>
 
 </center> -->
 
@@ -188,7 +188,7 @@ Os questionários serão desenvolvidos no Microsoft Forms e podem ser conferidos
 
 ## <a>Aspectos Éticos</a>
 
-Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel e foi elaborado levando em consideração os [Aspectos Éticos](../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel e foi elaborado levando em consideração os [Aspectos Éticos](../../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
 
 ## <a>Interpretação</a>
 

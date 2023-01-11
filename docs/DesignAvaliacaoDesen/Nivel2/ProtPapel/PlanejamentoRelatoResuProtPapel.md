@@ -26,7 +26,7 @@ O objetivo da avaliação deve estar descrito no documento e, não menos importa
 
 ### <a>Participantes</a>
 
-Os participantes da entrevista devem ser listados e não ultrapassar um máximo de 2 envolvidos, sendo 1 entrevistador e 1 entrevistado. Deve-se levar em consideração que o participante não deve ter nenhum vínculo com o projeto e deve se encaixar no [perfil de usuário](../../Tarefas/perfilUsuario.md) definido.
+Os participantes da entrevista devem ser listados e não ultrapassar um máximo de 2 envolvidos, sendo 1 entrevistador e 1 entrevistado. Deve-se levar em consideração que o participante não deve ter nenhum vínculo com o projeto e deve se encaixar no [perfil de usuário](../../../Tarefas/perfilUsuario.md) definido.
 
 ### <a>Metodologia da Avaliação</a>
 
@@ -42,7 +42,7 @@ A interpretação dos dados deve ser feita para garantir um bom relato de result
 
 ### <a>Problemas</a>
 
-Os problemas encontrados pelo usuário, seja na aplicação prática do sistema presente no Prototipo de papel ou na formulação do Protótipo de papel em si, devem ser listados.
+Os problemas encontrados pelo usuário, seja na aplicação prática do sistema presente no protótipo de papel ou na formulação do Protótipo de papel em si, devem ser listados.
 
 ### <a>Sugestões</a>
 

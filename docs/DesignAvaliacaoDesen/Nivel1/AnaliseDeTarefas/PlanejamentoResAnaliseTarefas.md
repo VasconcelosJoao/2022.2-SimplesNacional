@@ -5,7 +5,7 @@
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |14/12/2022|14/12/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|
-|10/01/2022|11/01/2022|2.0|Mudança na estrutura do documento para estar condizente com o planejamento da avaliação da analise de tarefas|[Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)|
+|10/01/2022|11/01/2022|2.0|Mudança na estrutura do documento para estar condizente com o planejamento da avaliação da analise de tarefas|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|
 
 ## <a>Introdução</a>
 Neste documento será apresentado os pontos que foram levantados para a entrevista e para o percurso cognitivo, 
@@ -19,14 +19,14 @@ tendo com o intuito de ter uma visão extremamente detalhada podendo ser de uma 
 de entrevista, e também ter uma gama maior de resultados, por serem utilizados dois métodos, conseguindo assim uma maior fidelidade dos resultados com o projeto.
 ### <a>Participantes</a>
 Para realizar o método de entrevista, será selecionado(a) pelo grupo um(a) ou mais participantes que sejam o mais fiel possivel com o 
-[perfil do usuário](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/perfilUsuario/) levantado no
+[perfil do usuário](../../../Tarefas/perfilUsuario.md) levantado no
 projeto, e a partir dai, realizar as perguntas confeccionadas para tal método e tomar notas de acordo com as respostas obtidas, já no método de percurso cognitivo
 o(s) participante(s) deste método seria(m) o(s) próprio(s) pesquisador(es), onde ele se coloca no lugar do usuário e faz o traçado de todas as tarefas realizadas pelo mesmo.
 ## <a>Roteiro das Questões para Avaliação da Analise de Tarefas</a>
 Antes de iniciar a avaliação, é necessário que o Entrevistador mostre para o entrevistado o documento de 
-[Aspectos Éticos](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/AspectosEticos/), onde se encontra todos os termos éticos
+[Aspectos Éticos](../../../Tarefas/AspectosEticos.md), onde se encontra todos os termos éticos
 que devem ser seguidos pelo projeto e pelos pesquisadores, e também o próprio termo de consentimento que terá que ser elaborado para a fase de analise de tarefas
-com base no [Modelo do Termo de Consentimento](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/ModeloTermoConsentimento/), e disponibilizado
+com base no [Modelo do Termo de Consentimento](../../../Tarefas/ModeloTermoConsentimento.md), e disponibilizado
 para o Entrevistado.
 As perguntas a serem realizadas na Entrevista poderão ser visualizadas a seguir na *tabela 1*:
 <center>
@@ -81,7 +81,7 @@ O objetivo da avaliação deve estar descrito no documento e, não menos importa
 
 ### <a>Participantes</a>
 
-Os participantes da entrevista devem ser listados e não ultrapassar um máximo de 2 envolvidos, sendo 1 entrevistador e 1 entrevistado. Deve-se levar em consideração que o participante não deve ter nenhum vínculo com o projeto e deve se encaixar no [perfil de usuário](../../Tarefas/perfilUsuario.md) definido.
+Os participantes da entrevista devem ser listados e não ultrapassar um máximo de 2 envolvidos, sendo 1 entrevistador e 1 entrevistado. Deve-se levar em consideração que o participante não deve ter nenhum vínculo com o projeto e deve se encaixar no [perfil de usuário](../../../Tarefas/perfilUsuario.md) definido.
 
 ### <a>Metodologia da Avaliação</a>
 
@@ -93,11 +93,11 @@ As tarefas a serem realizadas pelo(s) participante(s) devem estar também esclar
 
 ### <a>Interpretação</a>
 
-A interpretação dos dados deve ser feita para garantir um bom relato de resultados. Tópicos sugeridos para realizar essa etapa se encontram no documento de [planejamento](PlanejamentoProtPapel.md).
+A interpretação dos dados deve ser feita para garantir um bom relato de resultados. Tópicos sugeridos para realizar essa etapa se encontram no documento de [planejamento](PlanejamentoResAnaliseTarefas.md).
 
 ### <a>Problemas</a>
 
-Os problemas encontrados pelo usuário, seja na aplicação prática do sistema presente no Prototipo de papel ou na formulação do Protótipo de papel em si, devem ser listados.
+Os problemas encontrados pelo usuário, seja na aplicação prática do sistema presente no protótipo de papel ou na formulação do Protótipo de papel em si, devem ser listados.
 
 ### <a>Sugestões</a>
 
