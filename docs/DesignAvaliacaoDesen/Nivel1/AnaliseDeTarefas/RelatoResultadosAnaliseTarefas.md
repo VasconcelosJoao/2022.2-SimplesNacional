@@ -48,18 +48,18 @@ da analise de tarefas em si, se perguntando se os diagramas feitos a partir da a
 </center><br></br>
 
 
-Anotações retiradas da entrevista: 
-- Guilherme Brito
-- 20
-- Ensino Superior - Cursando
-- Desenvolvedor
-- Sim, o PGMEI, utiliza paga pagar o DAS através do código de barras
-- CNPJ
-- Não Utilizou, mas descreve o pouco que pesquisou
-- Falta uma opção clara para visualizar os cálculos, no lugar de entrar em débito automático. A impressor traz o erro, pq é para imprimir
-- Pagamento online dentro do Débito automatico não faz sentido. Computador != Pagamento, falta descrição
-- Tem uma parte é legal, deveria ser mais padrão para ser intuitivo. Não é Intuitivo ter o "PA" sem descrição
-- Desativar: Poderia ser excluir
+Anotações retiradas da entrevista:<br> 
+- Guilherme Brito<br>
+- 20<br>
+- Ensino Superior - Cursando<br>
+- Desenvolvedor<br>
+- Sim, o PGMEI, utiliza paga pagar o DAS através do código de barras<br>
+- CNPJ<br>
+- Não Utilizou, mas descreve o pouco que pesquisou<br>
+- Falta uma opção clara para visualizar os cálculos, no lugar de entrar em débito automático. A impressor traz o erro, pq é para imprimir<br>
+- Pagamento online dentro do Débito automatico não faz sentido. Computador != Pagamento, falta descrição<br>
+- Tem uma parte é legal, deveria ser mais padrão para ser intuitivo. Não é Intuitivo ter o "PA" sem descrição<br>
+- Desativar: Poderia ser excluir<br>
 - Consultar: É Condizente 
 
 ## <a>Problemas</a>
