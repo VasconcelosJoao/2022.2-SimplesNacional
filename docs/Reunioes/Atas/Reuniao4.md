@@ -29,7 +29,7 @@ Definir o site a ser utilizado como objeto de trabalho da disciplina, confecçã
 
 ## <a>Definições</a>
 
-###<a> Artefatos e Responsaveis</a>
+### <a> Artefatos e Responsaveis</a>
 Os artefatos e seus respectivos responsáveis podem ser conferidos na tabela 1:
 
 <center>
