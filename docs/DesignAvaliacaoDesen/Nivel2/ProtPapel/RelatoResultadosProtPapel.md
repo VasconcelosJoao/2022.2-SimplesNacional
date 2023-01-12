@@ -208,6 +208,7 @@ Nao teve nenhum problema em alcançar seu objetivo, nenhum obstaculo
 ## <a>Problemas</a>
 
 De acordo com as entrevistas e com as anotações relativas às entrevistas, nota-se alguns problemas, listados abaixo:
+
 - Nomes não muito intuitivos na barra superior da tela 1
 - Não possuir uma aba de serviços na barra superior da primeira tela, tornando assim menos intuitivo.
 - Não ser muito facil de distinguir os botos de confirmar e cancelar.
@@ -220,6 +221,7 @@ De acordo com as entrevistas e com as anotações relativas às entrevistas, not
 ## <a>Sugestões</a>
 
 De acordo com as entrevistas e com as anotações relativas às entrevistas, nota-se algumas sugestões feitas pelos usuários, listadas abaixo:
+
 - Descrição embaixo do que é SIMEI e Simples Nacional
 - Ser menos técnico, separando os serviços em por exemplo: serviços para empresas e serviços para empreendedores.
 - Uma aba mostrando os "Serviços mais utilizados", 
