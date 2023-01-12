@@ -78,6 +78,7 @@ nav:
     - Termo de consentimento: Tarefas/ModeloTermoConsentimento.md
   - Design, Avaliação e Desenvolvimento:
     - 1º Nível:
+      - introdução: DesignAvaliacaoDesen/index.md
       - Análise de Tarefas:
         - Planejamento da Avaliação: DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md
         - Planejamento do Relato : DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md
