@@ -6,7 +6,7 @@
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |10/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|
 
-## Introdução 
+## <a>Introdução </a>
 Este documento contempla o relato dos resultados da analise de tarefas, onde foi utilizado a metodologia de entrevista(s), onde em uma chamada online ao vivo,
 se mostra um questionario de perguntas referentes ao que se pretende avaliar. Este documento está seguindo o template  especificado no 
 [Planejamento](PlanejamentoResAnaliseTarefas.md) 
@@ -22,11 +22,11 @@ principalmente para verificar a necessidade de alteração nas analises de taref
 ## <a>Participantes</a>
 Para a entrevista presente neste documento tivemos 3 participantes, sendo desses apenas 2 ativos, sendo 1 entrevistador, 1 entrevistado e 1 integrante auxiliar
 para tomar notas de toda a entrevista no geral, para que após seja possivel organizar os dados coletados da entrevista, abaixo segue o nome dos participantes:
-#### Entrevistador:
+#### <a>Entrevistador</a>
 - Pedro Lucas S. Fernandes
-#### Entrevistado:
+#### <a>Entrevistado</a>
 - Guilherme Brito
-#### Auxiliar de Notas:
+#### <a>Auxiliar de Notas</a>
 - Thiago Oliveira Cunha
 
 ## <a>Metodologia da Avaliação</a>
@@ -44,7 +44,7 @@ da analise de tarefas em si, se perguntando se os diagramas feitos a partir da a
 ## <a>Entrevista(s) e Anotações</a>
 
 <center>
-<iframe width="800" height="400" src="https://youtu.be/np24GEJtxnc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/np24GEJtxnc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center><br></br>
 
 
@@ -81,6 +81,6 @@ A partir da Analise dos relatos dos resultados presentes neste documento, pode s
 grupo na criação das analises de tarefas, levando como de maior importancia os problemas e sugestoes listados acima, os quais devem ser corrigidos/implementados o mais rapido
 possivel.
 
-## Bibliografia
+## <a>Bibliografia</a>
 [1]Grupo Lichess do semestre 2022.2 da disciplina de IHC - https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise/<br></br>
 [2] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

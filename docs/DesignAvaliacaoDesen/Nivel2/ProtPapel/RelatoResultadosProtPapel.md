@@ -6,7 +6,7 @@
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |11/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|
 
-## Introdução 
+## <a>Introdução </a>
 Este documento contempla o relato dos resultados do Protótipo de Papel, onde foi utilizado a metodologia de entrevista(s), onde em uma chamada online ao vivo,
 se mostra um questionario de perguntas referentes ao que se pretende avaliar. Este documento está seguindo o template  especificado no 
 [Planejamento](PlanejamentoProtPapel.md) do mesmo. 
@@ -21,12 +21,12 @@ principalmente para verificar a necessidade de alteração no Prototipo de Papel
 ## <a>Participantes</a>
 Para ambas as entrevistas presente neste documento tivemos 3 participantessendo desses 3 apenas 2 ativos, com 1 entrevistador, 1 entrevistado e 1 integrante auxiliar
 para tomar notas de toda a entrevista no geral, para que após seja possivel organizar os dados coletados da entrevista, abaixo segue o nome dos participantes:
-#### Entrevistador:
+#### <a>Entrevistador</a>
 - Pedro Lucas S. Fernandes
-#### Entrevistados:
+#### <a>Entrevistados</a>
 - Guilherme Brito
 - Nicolas
-#### Auxiliares de Notas:
+#### <a>Auxiliares de Notas</a>
 - Thiago Oliveira Cunha
 - João Lucas
 
@@ -44,9 +44,9 @@ sistema interativo, feitos a partir do Prototipo de Papel do Simples nacional de
 
 ## <a>Entrevista(s) e Anotações</a>
 
-#### Entrevista e Anotações Nicolas
+#### <a>Entrevista e Anotações Nicolas</a>
 <center>
-<iframe width="800" height="400" src="https://youtu.be/por7x_U_YRU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/por7x_U_YRU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center><br></br>
 
 
@@ -110,9 +110,9 @@ Só chutou o simples e o simei por nao ter a descrição, de resto foi bem efici
 	Pergunta 15:<br>
 Não, nada que possa impedir de finalizar o caminho.
 
-#### Entrevista e Anotações Guilherme
+#### <a>Entrevista e Anotações Guilherme</a>
 <center>
-<iframe width="800" height="400" src="https://youtu.be/PDNIoAaZCO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/PDNIoAaZCO0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center><br></br>
 
 
@@ -252,6 +252,6 @@ os elogios dos usuários entrevistados no que diz respeito á facil visualizaç�
 das telas no geral, porém levamos como de maior importancia os problemas e sugestoes listados acima, os quais devem ser corrigidos/implementados o mais rapido
 possivel.
 
-## Bibliografia
+## <a>Bibliografia</a>
 [1]Grupo Lichess do semestre 2022.2 da disciplina de IHC - https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise/<br></br>
 [2] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.

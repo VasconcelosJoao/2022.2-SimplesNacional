@@ -6,7 +6,7 @@
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |11/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)|
 
-## Introdução 
+## <a>Introdução </a>
 Este documento contempla o relato dos resultados do Storyboard, onde foi utilizado a metodologia de entrevistas realizadas em uma chamada online ao vivo.
 Foi mostrado um questionario de perguntas referentes ao que se pretende avaliar. Este documento está seguindo o template especificado no 
 [Planejamento](PlanejamentoRelatoResuStoryboard.md) do mesmo. 
@@ -24,13 +24,13 @@ Com essa organização torna-se possivel organizar os dados coletados da entrevi
 
 Abaixo segue o nome dos participantes:
 
-#### Entrevistador:
+#### <a>Entrevistador</a>
 - Pedro Lucas S. Fernandes
-#### Entrevistados:
+#### <a>Entrevistados</a>
 - Guilherme Brito
 - Renan Almeida de Souza
 - Nicolas
-#### Auxiliar de Notas:
+#### <a>Auxiliar de Notas</a>
 - Thiago Oliveira Cunha
 
 ## <a>Metodologia da Avaliação</a>
@@ -42,9 +42,9 @@ No questionário realizado, há perguntas de cunho especifico que serão as util
 
 ## <a>Entrevista(s) e Anotações</a>
 
-#### Entrevista e Anotações Nicolas
+#### <a>Entrevista e Anotações Nicolas</a>
 <center>
-<iframe width="800" height="400" src="https://youtu.be/EaglXgTJUEY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/EaglXgTJUEY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center><br></br>
 
 
@@ -106,9 +106,9 @@ Pergunta 12
 do site, no problema do codigo para emitir o DAS.
 
 
-#### Entrevista e Anotações Renan
+#### <a>Entrevista e Anotações Renan</a>
 <center>
-<iframe width="800" height="400" src="https://youtu.be/MqAMxyakpoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/MqAMxyakpoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center><br></br>
 
 
@@ -129,9 +129,9 @@ Anotações retiradas da entrevista:
 13-Deixa<br>
 14-Sim<br>
 
-#### Entrevista e Anotações Guilherme
+#### <a>Entrevista e Anotações Guilherme</a>
 <center>
-<iframe width="800" height="400" src="https://youtu.be/E0FEMBB2-e0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/E0FEMBB2-e0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center><br></br>
 
 
@@ -173,6 +173,6 @@ De acordo com as entrevistas e com as anotações relativas às entrevistas, not
 A partir da Análise dos relatos dos resultados presentes neste documento, pode-se perceber que tiveram quantidades bem parecidas de acertos e erros por parte do nosso grupo na criação do Storyboard, levando como certo o que não se encontra nem em erros ou sugestões, 
 e levando como de maior importancia os problemas e as sugestões listados acima, os quais devem ser corrigidos/implementados em novas versões do storyboard.
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
