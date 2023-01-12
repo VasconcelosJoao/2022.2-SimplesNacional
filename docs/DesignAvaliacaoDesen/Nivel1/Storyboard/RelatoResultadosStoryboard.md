@@ -36,7 +36,7 @@ Abaixo segue o nome dos participantes:
 ## <a>Metodologia da Avaliação</a>
 Como já mencionado, foi utilizado o método de entrevistas.
 
-Antes do questionário, é preciso apresentar o [Termo de Consentimento](TermoConsentimentoStoryboard.md) para o entrevistado, e ter total certeza da concordância do mesmo com os termos, e também a assinatura do entrevistador e do entrevistado.
+Antes do questionário, é preciso apresentar o [Termo de Consentimento](../../TermosConsentimento/TermoConsentimentoStoryboard.md) para o entrevistado, e ter total certeza da concordância do mesmo com os termos, e também a assinatura do entrevistador e do entrevistado.
 
 No questionário realizado, há perguntas de cunho especifico que serão as utilizadas para avaliar o Storyboard. As perguntas em questão focam em pegar dados referentes à semelhança do Storyboard com a realidade dos usuários, perguntando sobre sua semelhança com a realidade no que diz respeito aos elementos apresentados, como Ator, ambientes e tarefas, e também sobre a semelhança com o que o storyboard representa, como pontos fortes e fracos do sistema e modificações no design do sistema interativo que podem inclusive ser sugeridas pelo usuário.
 

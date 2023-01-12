@@ -2,9 +2,9 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|05/01/2023|06/01/2023|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
+| Data de Realização | Data Prevista de Revisão | Versão |        Descrição        |                 Autor                  |                Revisor                |
+| :----------------: | :----------------------: | :----: | :---------------------: | :------------------------------------: | :-----------------------------------: |
+|     05/01/2023     |        06/01/2023        |  1.0   | Criação do planejamento | [Ana Luiza](https://github.com/AnHoff) | [Eduardo](https://github.com/edudsan) |
 
 ## <a>Introdução</a>
 
@@ -18,12 +18,12 @@ Confira na tabela 1 abaixo o horário, local e participantes.
 
 <center>
 
-|Data|Hora|Local|Avaliador|Usuário|Avaliação|
-|---|---|---|---|---|---|
-|16/06/2023|16:00|Online - Microsoft Teams|Pedro, Eduardo|Thiago|Teste Piloto|
-|17/01/2023|19:00|Presencial - a definir|Pedro, Thiago|Renan|Teste de Usabilidade|
-|18/01/2023|20:00|Online - Microsoft Teams|Thiago, Pedro|*A confirmar*|Teste de Usabilidade|
-|18/01/2023|21:00|Online - Microsoft Teams|Thiago, Pedro|*A confirmar*|Teste de Usabilidade|
+| Data       | Hora  | Local                    | Avaliador      | Usuário       | Avaliação            |
+| ---------- | ----- | ------------------------ | -------------- | ------------- | -------------------- |
+| 16/06/2023 | 16:00 | Online - Microsoft Teams | Pedro, Eduardo | Thiago        | Teste Piloto         |
+| 17/01/2023 | 19:00 | Presencial - a definir   | Pedro, Thiago  | Renan         | Teste de Usabilidade |
+| 18/01/2023 | 20:00 | Online - Microsoft Teams | Thiago, Pedro  | *A confirmar* | Teste de Usabilidade |
+| 18/01/2023 | 21:00 | Online - Microsoft Teams | Thiago, Pedro  | *A confirmar* | Teste de Usabilidade |
 
 *Tabela 1 - Cronograma das avaliações*
 
@@ -40,11 +40,11 @@ A confecção do protótipo de alta fidelidade se deu em algumas etapas que pode
 
 <center>
 
-|Data|Descrição|Responsáveis|Revisores|
-|---|---|---|---|
-|06/01/2023|Decidir tarefas abordadas no Protótipo de Alta Fidelidade|Thiago, João, Ana, Eduardo|Arthur, Pedro|
-|13/01/2023|Confecção do Protótipo de Alta Fidelidade|João|Ana, Thiago|
-|14/01/2023|Adaptações com base no feedback dos revisores|João|Arthur, Pedro|
+| Data       | Descrição                                                 | Responsáveis               | Revisores     |
+| ---------- | --------------------------------------------------------- | -------------------------- | ------------- |
+| 06/01/2023 | Decidir tarefas abordadas no Protótipo de Alta Fidelidade | Thiago, João, Ana, Eduardo | Arthur, Pedro |
+| 13/01/2023 | Confecção do Protótipo de Alta Fidelidade                 | João                       | Ana, Thiago   |
+| 14/01/2023 | Adaptações com base no feedback dos revisores             | João                       | Arthur, Pedro |
 
 *Tabela 2 - Planejamento do Protótipo de Alta Fidelidade*
 
@@ -174,45 +174,45 @@ Os questionários serão desenvolvidos no Microsoft Forms e podem ser conferidos
 
 **Avaliadores designados:** Pedro, Arthur, Eduardo
 
-| ID | Descrição |
-| :--: | :-------: |
-|01|Você (usuário) está de acordo com o termo de consentimento apresentado?|
-|02|Você (usuário) se sente bem para realizar o teste de usabilidade?|
-|03|Qual o seu nível escolaridade?|
-|04|Quantos anos o sr(a). tem?|
-|05|Já precisou de algum tipo de ajuda para utilizar o sistema?|
-|06|Você (usuário) utiliza o Simples Nacional com qual frequência?|
-|07|Você (usuário) acredita que o site atual tem um design agradável?|
-|08|Você (usuário) acredita que o site atual é intuitivo?|
-|09|Você (usuário) possui necessidades e/ou desejos não atendidos pelo site atual?|
-|10|Você (usuário) encontra obstáculos durante o uso do site atual?|
-|11|Você (usuário) possui acesso a internet e dispositivos compatíveis com o site?|
-|12|Qual parte do sistema atual mais te agrada? E qual mais te desagrada?|
-|13|Em sua opinião, o site atual possui um bom suporte ao usuário? Por quê?|
-|14|Você (usuário) consegue atingir seus objetivos?|
-|15|Você (usuário) tem alguma sugestão de melhoria relacionada ao site atual?|
+|  ID   |                                   Descrição                                    |
+| :---: | :----------------------------------------------------------------------------: |
+|  01   |    Você (usuário) está de acordo com o termo de consentimento apresentado?     |
+|  02   |       Você (usuário) se sente bem para realizar o teste de usabilidade?        |
+|  03   |                         Qual o seu nível escolaridade?                         |
+|  04   |                           Quantos anos o sr(a). tem?                           |
+|  05   |          Já precisou de algum tipo de ajuda para utilizar o sistema?           |
+|  06   |         Você (usuário) utiliza o Simples Nacional com qual frequência?         |
+|  07   |       Você (usuário) acredita que o site atual tem um design agradável?        |
+|  08   |             Você (usuário) acredita que o site atual é intuitivo?              |
+|  09   | Você (usuário) possui necessidades e/ou desejos não atendidos pelo site atual? |
+|  10   |        Você (usuário) encontra obstáculos durante o uso do site atual?         |
+|  11   | Você (usuário) possui acesso a internet e dispositivos compatíveis com o site? |
+|  12   |     Qual parte do sistema atual mais te agrada? E qual mais te desagrada?      |
+|  13   |    Em sua opinião, o site atual possui um bom suporte ao usuário? Por quê?     |
+|  14   |                Você (usuário) consegue atingir seus objetivos?                 |
+|  15   |   Você (usuário) tem alguma sugestão de melhoria relacionada ao site atual?    |
 
 *Tabela 3 - Questionário pré-teste*
 
 **Avaliadores designados:** Pedro, Arthur, Eduardo
 
-| ID | Descrição | Objetivo |
-| :--: | :-------: | :------: |
-|01|O protótipo apresenta tarefas condizentes com a realidade?|Verificar a conformidade com um padrão|
-|02|O protótipo apresenta uma sequência de tarefas condizente com a realidade?|Verificar a conformidade com um padrão|
-|03|De que maneira o usuário utiliza o sistema? Em que difere do planejado?|Analisar a apropriação da tecnologia|
-|04|O quanto os usuários são motivados a explorar novas funcionalidades?|Analisar a apropriação da tecnologia|
-|05|Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?|Analisar a apropriação da tecnologia|
-|06|Os objetivos dos usuários podem ser alcançados facilmente através do sistema? Quais necessidades e desejos foram ou não atendidos?|Analisar a apropriação da tecnologia|
-|07|O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho?|Analisar a apropriação da tecnologia|
-|08|A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?|Analisar a apropriação da tecnologia|
-|09|Há alternativas de design mais eficientes? Mais fáceis de aprender?|Comparar ideias e alternativas de design|
-|10|(Caso a pergunta 09 seja respondida) Qual das alternativas de design (a versão atual do site ou a proposta no protótipo) os usuários preferem? Por quê?|Comparar ideias e alternativas de design|
-|11|O usuário consegue operar o sistema?|Identificar problemas na interação e interface|
-|12|Que parte da interface e da interação deixa o usuário insatisfeito?|Identificar problemas na interação e interface|
-|13|O usuário entende para que serve cada elemento de interface?|Identificar problemas na interação e interface|
-|14|Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?|Identificar problemas na interação e interface|
-|15|Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?|Identificar problemas na interação e interface|
+|  ID   |                                                                        Descrição                                                                        |                    Objetivo                    |
+| :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
+|  01   |                                               O protótipo apresenta tarefas condizentes com a realidade?                                                |     Verificar a conformidade com um padrão     |
+|  02   |                                       O protótipo apresenta uma sequência de tarefas condizente com a realidade?                                        |     Verificar a conformidade com um padrão     |
+|  03   |                                         De que maneira o usuário utiliza o sistema? Em que difere do planejado?                                         |      Analisar a apropriação da tecnologia      |
+|  04   |                                          O quanto os usuários são motivados a explorar novas funcionalidades?                                           |      Analisar a apropriação da tecnologia      |
+|  05   |                                        Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?                                         |      Analisar a apropriação da tecnologia      |
+|  06   |           Os objetivos dos usuários podem ser alcançados facilmente através do sistema? Quais necessidades e desejos foram ou não atendidos?            |      Analisar a apropriação da tecnologia      |
+|  07   |                             O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho?                             |      Analisar a apropriação da tecnologia      |
+|  08   |                A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?                 |      Analisar a apropriação da tecnologia      |
+|  09   |                                           Há alternativas de design mais eficientes? Mais fáceis de aprender?                                           |    Comparar ideias e alternativas de design    |
+|  10   | (Caso a pergunta 09 seja respondida) Qual das alternativas de design (a versão atual do site ou a proposta no protótipo) os usuários preferem? Por quê? |    Comparar ideias e alternativas de design    |
+|  11   |                                                          O usuário consegue operar o sistema?                                                           | Identificar problemas na interação e interface |
+|  12   |                                           Que parte da interface e da interação deixa o usuário insatisfeito?                                           | Identificar problemas na interação e interface |
+|  13   |                                              O usuário entende para que serve cada elemento de interface?                                               | Identificar problemas na interação e interface |
+|  14   |                              Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?                               | Identificar problemas na interação e interface |
+|  15   |                                    Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?                                     | Identificar problemas na interação e interface |
 
 *Tabela 4 - Questionário pós-teste*
 

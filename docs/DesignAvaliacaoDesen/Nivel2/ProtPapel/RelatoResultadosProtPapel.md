@@ -34,7 +34,7 @@ para tomar notas de toda a entrevista no geral, para que após seja possivel org
 Para realizar a avaliação do Prototipo de Papel foi utilizado o método de entrevistas, tendo um entrevistador participante com o objetivo de apenas
 entrevistar o usuário, e um Auxiliar de Notas, com o objetivo de auxiliar o entrevistador tomando notas sobre o que está sendo falado na entrevista.
 
-Antes do questionário é preciso se mostrar o [Termo de Consentimento](TermoConsentimentoProtPapel.md)
+Antes do questionário é preciso se mostrar o [Termo de Consentimento](../../TermosConsentimento/TermoConsentimentoProtPapel.md)
 para o entrevistado, e ter total certeza da concordancia do mesmo com os termos, e também a assinatura do entrevistador e do entrevistado.
 
 No questionario mostrado para o usuário possui perguntas apenas de cunho especifico que serão as utilizadas para avaliar o Prototipo de Papel, 
