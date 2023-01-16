@@ -6,8 +6,6 @@
 | :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
 |12/01/2023|13/01/2023|1.0|Criação da ata de reunião 08/01/2023| [Arthur Taylor](https://github.com/Eruel6)| - |
 
-
-
 ## <a>Local e horário</a>
 
 A reunião foi realizada de forma remota na plataforma Microsoft Teams, teve início as 20:45h e teve termino as 21:11.
@@ -26,7 +24,9 @@ Definir tarefas dos membros do grupo para serem realizadas para a próxima entre
 
 ## <a>Gravação</a>
 
-
+<center>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/uRLzCmLpQoQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 ## <a>Definições</a>
 
