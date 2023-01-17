@@ -109,3 +109,5 @@ nav:
       - Avaliação da Analise de Tarefas: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoAnaliseTarefas.md
       - Avaliação do Storyboard: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoStoryboard.md
       - Avaliação do protótipo de Papel: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtPapel.md
+  - Verificação:
+    - Termo de Consentimento: Verificacao/termoConsentimento.md
