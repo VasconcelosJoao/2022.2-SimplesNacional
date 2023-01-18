@@ -112,6 +112,7 @@ nav:
   - Verificação:
     - Introdução: Verificacao/index.md
     - Planejamento:
+      - Modelo de Design: Verificacao/Planejamento/modeloDesign.md
       - Aspectos Éticos: Verificacao/Planejamento/aspectosEticos.md
       - Termo de Consentimento: Verificacao/Planejamento/termoConsentimento.md
     - Análise de Requisitos:
