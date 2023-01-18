@@ -2,21 +2,17 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                     Autor                      |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :----------------------------------------: |
-| 15/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Thiago Oliveira](https://github.com/Thiab394) | [-](https://github.com/) |
+| 15/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Thiago Oliveira](https://github.com/Thiab394) | [Ana Luiza](https://github.com/AnHoff) |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Cenários](../../../Tarefas/Cenario.md), 
-produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.1 e, portanto, espera-se que futuras versões 
-apresentem os apontamentos presentes na verificação corrigidos.
+O presente documento tem como objetivo realizar a verificação do artefato [Cenários](../../../Tarefas/Cenario.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.1 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
 
 A técnica de inspeção será utilizada para realizar esse processo. [1]
 
 ## <a>Metodologia</a>
-Para a verificação em questão, será utilizada a técnica de inspeção. Para a aplicação dessa técnica, haverá o uso de uma 
-tabela com perguntas que visam avaliar se o artefato foi feito da maneira demandada pela disciplina. 
+Para a verificação em questão, será utilizada a técnica de inspeção. Para a aplicação dessa técnica, haverá o uso de uma tabela com perguntas que visam avaliar se o artefato foi feito da maneira demandada pela disciplina. 
 
-Para a realização da inspeção, será utilizada uma checklist com o objetivo de avaliar se o artefato foi feito da
-maneira demandada pela disciplina. Com isso, torna-se fácil visualizar se o mesmo está correto. O checklist será preenchido de acordo com as seguintes classificações:
+Para a realização da inspeção, será utilizada uma checklist com o objetivo de avaliar se o artefato foi feito de acordo com o que foi exigido. Com isso, torna-se fácil visualizar se o mesmo está correto. O checklist será preenchido de acordo com as seguintes classificações:
 
 * 🟢: o tópico está completamente satisfeito;
 * 🟡: o tópico está incompleto;
@@ -27,44 +23,51 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 
 <center>
   
-|  ID   |                           Questão                           | Geral |  C1   |  C2   |  C3   |  C4   |  C5   |  C6   |  C7   |  C8   |  C9   |  C10  |
-| :---: | :---------------------------------------------------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|   1   |                  O Cenário Possui Título?                   |       |       |       |       |       |       |       |       |       |       |       |
-|   2   |                O Cenário Possui Objetivo(s)?                |       |       |       |       |       |       |       |       |       |       |       |
-|   3   |                 O Cenário Possui Contexto?                  |       |       |       |       |       |       |       |       |       |       |       |
-|   4   |                  O Cenário Possui Recurso?                  |       |       |       |       |       |       |       |       |       |       |       |
-|   5   |                 O cenário Possui Episódios?                 |       |       |       |       |       |       |       |       |       |       |       |
-|   6   |                  O cenário Possui Exceção?                  |       |       |       |       |       |       |       |       |       |       |       |
-|   7   |          É possível associar o título ao objetivo?          |       |       |       |       |       |       |       |       |       |       |       |
-|   8   |                O contexto foi bem definido?                 |       |       |       |       |       |       |       |       |       |       |       |
-|   9   |            Os atores foram colocados no cenário?            |       |       |       |       |       |       |       |       |       |       |       |
-|  10   |     Os episódios ajudam a atingir o objetivo descrito?      |       |       |       |       |       |       |       |       |       |       |       |
-|  11   |           Os recursos são realmente necessários?            |       |       |       |       |       |       |       |       |       |       |       |
-|  12   |                Os Recursos Estão Presentes?                 |       |       |       |       |       |       |       |       |       |       |       |
-|  13   |               O Documento Possui Introdução?                |       |       |       |       |       |       |       |       |       |       |       |
-|  14   |               O Documento Possui Metodologia?               |       |       |       |       |       |       |       |       |       |       |       |
-|  15   | O Documento Possui um modelo de representação dos cenários? |       |       |       |       |       |       |       |       |       |       |       |
-  
+|  ID   |                           Questão                           | Avaliação |
+| :---: | :---------------------------------------------------------: | :---: | 
+|   1   |                  O Cenário possui Título?                   | 
+|   2   |                O Cenário possui Objetivo(s)?                | 
+|   3   |                 O Cenário possui Contexto?                  |  
+|   4   |                  O Cenário possui Recurso?                  |  
+|   5   |                 O cenário possui Episódios?                 |  
+|   6   |                  O cenário possui Exceção?                  |  
+|   7   |                  O cenário possui Restrição?                |  
+|   8   |          É possível associar o título ao objetivo?          |  
+|   9   |                O contexto foi bem definido?                 |  
+|   10  |            Os atores foram colocados no cenário?            |  
+|  11   |     Os episódios ajudam a atingir o objetivo descrito?      |  
+|  12   |     As exceções realmente condizem com o cenário da mesma?  |  
+|  13   |    As restrições realmente condizem com o cenário da mesma? |  
+|  14   |           Os recursos são realmente necessários?            |  
+|  15   |               O Documento possui Introdução?                | 
+|  16   |               O Documento possui Metodologia?               | 
+|  17   | O Documento possui um modelo de representação dos cenários? | 
+|  18   | O Documento possui um link para a elicitação/priorização de requisitos? |  
+|  19   | O documento apresenta histórico de versão de acordo com o padrão utilizado no projeto?|   |
+|  20   | O documento apresenta bibliografia correta?|   |
+|  21   | Tabelas são chamadas dentro do texto?|   |
+|  22   | Tabelas possuem legenda?|   |
+
 *Tabela 1 - Checklist planejado*
 
 </center>
 
 ## <a>Inspeção</a>
 
-Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
+Na tabela 2, há o checklist efetivado do artefato na versão 1.1:
 
 <center>
 
   
 |  ID   |                           Questão                           | Geral |  C1   |  C2   |  C3   |  C4   |  C5   |  C6   |  C7   |  C8   |  C9   |  C10  |
 | :---: | :---------------------------------------------------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|   1   |                  O Cenário Possui Título?                   |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   2   |                O Cenário Possui Objetivo(s)?                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   3   |                 O Cenário Possui Contexto?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   4   |                  O Cenário Possui Recurso?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   5   |                 O cenário Possui Episódios?                 |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   6   |                  O cenário Possui Exceção?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   7   |                  O cenário Possui Restrição?                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   1   |                  O Cenário possui Título?                   |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   2   |                O Cenário possui Objetivo(s)?                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   3   |                 O Cenário possui Contexto?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   4   |                  O Cenário possui Recurso?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   5   |                 O cenário possui Episódios?                 |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   6   |                  O cenário possui Exceção?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   7   |                  O cenário possui Restrição?                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   8   |          É possível associar o título ao objetivo?          |  N/A  |   🟢   |   🟢   |   🟢   |   🟡   |   🟢   |   🔴   |   🟢   |   🟢   |   🟢   |   🔴   |
 |   9   |                O contexto foi bem definido?                 |  N/A  |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |
 |   10  |            Os atores foram colocados no cenário?            |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
@@ -72,10 +75,14 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |  12   |     As exceções realmente condizem com o cenário da mesma?  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |  13   |    As restrições realmente condizem com o cenário da mesma? |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |  14   |           Os recursos são realmente necessários?            |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|  15   |               O Documento Possui Introdução?                |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  16   |               O Documento Possui Metodologia?               |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  17   | O Documento Possui um modelo de representação dos cenários? |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  18   | O Documento Possui um link para a elicitação/priorização de requisitos? |   🔴   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  15   |               O Documento possui Introdução?                |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  16   |               O Documento possui Metodologia?               |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  17   | O Documento possui um modelo de representação dos cenários? |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  18   | O Documento possui um link para a elicitação/priorização de requisitos? |   🔴   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  19   | O documento apresenta histórico de versão de acordo com o padrão utilizado no projeto?|   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  20   | O documento apresenta bibliografia correta?|   🟡   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  21   | Tabelas são chamadas dentro do texto?|   🟢  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  22   | Tabelas possuem legenda?|   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
   
 *Tabela 2 - Checklist efetivado*
 
@@ -91,17 +98,18 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 * No C4, faltou colocar que o usuario clica na opçao de emitir DAS, nas opções principais, e após isso ele clica em gerar estado.
 * No C5 faltou colocar que o usuario clica na opçao de consultar CNPJ, e depois escolhe o mês para consultar o CNPJ
 * No C6, faltou colocar que o usuario clica na opçao de consultar CNPJ, e depois escolhe o mes e depois emite o PDF com o relatorio.
+* A bibliografia não segue o padrão do projeto e não é referenciada no texto;
 
 ## <a>Resultados</a>
 <a>**Calculo Aproveitamento**</a>: ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento
 
 Através dos checklists realizados podemos observar que:
 
-* 127/144 exigências são atendidas;
-* 15/144 exigências estão incompletas;
-* 2/144 exigências estão erradas ou não foram contempladas.
+* 131/148 exigências são atendidas;
+* 14/148 exigências estão incompletas;
+* 3/148 exigências estão erradas ou não foram contempladas.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 93.40%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 93.24%.
 
 ## <a>Bibliografia</a>
 

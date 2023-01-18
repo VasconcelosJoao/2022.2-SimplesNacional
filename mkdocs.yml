@@ -72,7 +72,7 @@ nav:
       - Questionário e Perfis de Usuarios: Tarefas/perfilUsuario.md
       - Personas: Tarefas/personas.md
     - Aspectos Éticos: Tarefas/AspectosEticos.md
-    - Cenários: Tarefas/Cenarios.md
+    - Cenários: Tarefas/Cenario.md
     - Metas de Usabilidade: Tarefas/MetasUsabilidade.md
     - Caracteristicas da Plataforma: Tarefas/CaracteristicasPlataforma.md
     - Princípios Gerais: Tarefas/PrincipiosGerais.md
@@ -112,3 +112,4 @@ nav:
   - Verificação:
     - Aspectos Éticos: Verificacao/aspectosEticos.md
     - Termo de Consentimento: Verificacao/termoConsentimento.md
+    - Cenários: Verificacao/VerificacaoCenarios.md
