@@ -96,12 +96,12 @@ O teste piloto requer as seguintes etapas para ser conduzido:
 1. **Site**: Simples Nacional (protótipo que reformula o design original, propondo melhorias de usabilidade);
 2. **Script do teste**: apresentado no presente documento;
 3. **Local**: o usuário e o avaliador devem estar em salas silenciosas com boa conexão à internet e devem possuir bons microfones. De preferência, deve-se deixar a câmera aberta durante o uso do protótipo. Será utilizada a plataforma Microsoft Teams para isso e apenas as pessoas requisitadas estarão presentes na reunião;
-4. **Teste Piloto**: será realizado em breve e estará presente [aqui](../../TestesPiloto/TestePilotoProtAlta.md);
+4. **Teste Piloto**: será realizado em breve e estará presente <!-- [aqui](../../TestesPiloto/TestePilotoProtAlta.md);-->
 5. **Recrutamento do usuário**: os usuários recrutados podem ser conferidos no cronograma desse documento;
 6. **Condução do teste**;
 7. **Análise dos resultados**: foca em revisar problemas encontrados, priorizar problemas baseados em frequência e severidade, identificar possíveis soluções;
 8. **Correção do site**: fazer as alterações necessárias e testar novamente. [2]
-
+   
 ## <a>Objetivos</a>
 
 Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, são:
@@ -220,7 +220,7 @@ Os questionários serão desenvolvidos no Microsoft Forms e podem ser conferidos
 
 ## <a>Aspectos Éticos</a>
 
-Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel e foi elaborado levando em consideração os [Aspectos Éticos](../../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../../Planejamento/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel e foi elaborado levando em consideração os [Aspectos Éticos](../../../Planejamento/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
 
 ## <a>Interpretação</a>
 

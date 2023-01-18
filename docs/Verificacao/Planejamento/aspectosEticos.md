@@ -5,7 +5,7 @@
 | 16/01/2023 |        17/01/2023        |  1.0   | Criação do documento | [Ana Luiza](https://github.com/AnHoff) | - |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Aspectos Éticos](../Tarefas/AspectosEticos.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
+O presente documento tem como objetivo realizar a verificação do artefato [Aspectos Éticos](../../Planejamento/AspectosEticos.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
 
 A técnica de inspeção será utilizada para realizar esse processo. [1]
 

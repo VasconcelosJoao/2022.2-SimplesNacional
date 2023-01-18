@@ -5,7 +5,7 @@
 | 17/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Eduardo](https://github.com/edudsan) | [-](https://github.com/) |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Guia de Estilo](../Tarefas/GuiaDeEstilo.md), 
+O presente documento tem como objetivo realizar a verificação do artefato [Guia de Estilo](../../Tarefas/GuiaDeEstilo.md), 
 produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões 
 apresentem os apontamentos presentes na verificação corrigidos.
 

@@ -42,13 +42,15 @@ nav:
     - Heatmap: Planejamento/Heatmap.md
     - Roadmap: Planejamento/Roadmap.md
     - Políticas:
-      - Código de Conduta Para Colaboradores: Politicas/CodigoDeConduta.md
-      - Política de Contribuição: Politicas/PolitcaDeContribuicao.md
-      - Política de Issue: Politicas/PolitcaDeIssue.md
-      - Política de Branch: Politicas/PolitcaDeBranch.md
-      - Política de Commit: Politicas/PolitcaDeCommit.md
-      - Política de Pull Request: Politicas/PolitcaDePR.md
-      - Política de Segurança: Politicas/PolitcaDeSeguranca.md
+      - Código de Conduta Para Colaboradores: Planejamento/Politicas/CodigoDeConduta.md
+      - Política de Contribuição: Planejamento/Politicas/PolitcaDeContribuicao.md
+      - Política de Issue: Planejamento/Politicas/PolitcaDeIssue.md
+      - Política de Branch: Planejamento/Politicas/PolitcaDeBranch.md
+      - Política de Commit: Planejamento/Politicas/PolitcaDeCommit.md
+      - Política de Pull Request: Planejamento/Politicas/PolitcaDePR.md
+      - Política de Segurança: Planejamento/Politicas/PolitcaDeSeguranca.md
+    - Aspectos Éticos: Planejamento/AspectosEticos.md
+    - Termo de consentimento: Planejamento/ModeloTermoConsentimento.md
   - Apresentações/Reuniões:
     - Reunioes: Reunioes/index.md
     - Apresentações:
@@ -71,13 +73,11 @@ nav:
     - Perfil de Usúario:
       - Questionário e Perfis de Usuarios: Tarefas/perfilUsuario.md
       - Personas: Tarefas/personas.md
-    - Aspectos Éticos: Tarefas/AspectosEticos.md
     - Cenários: Tarefas/Cenario.md
     - Metas de Usabilidade: Tarefas/MetasUsabilidade.md
     - Caracteristicas da Plataforma: Tarefas/CaracteristicasPlataforma.md
     - Princípios Gerais: Tarefas/PrincipiosGerais.md
     - Guia de Estilo: Tarefas/GuiaDeEstilo.md
-    - Termo de consentimento: Tarefas/ModeloTermoConsentimento.md
   - Design, Avaliação e Desenvolvimento:
     - introdução: DesignAvaliacaoDesen/index.md
     - 1º Nível:
@@ -110,6 +110,10 @@ nav:
       - Avaliação do Storyboard: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoStoryboard.md
       - Avaliação do protótipo de Papel: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtPapel.md
   - Verificação:
-    - Aspectos Éticos: Verificacao/aspectosEticos.md
-    - Termo de Consentimento: Verificacao/termoConsentimento.md
-    - Cenários: Verificacao/VerificacaoCenarios.md
+    - Planejamento:
+      - Aspectos Éticos: Verificacao/Planejamento/aspectosEticos.md
+      - Termo de Consentimento: Verificacao/Planejamento/termoConsentimento.md
+    - Análise de Requisitos:
+      - Cenários: Verificacao/Tarefas/VerificacaoCenarios.md
+    - Design, Avaliação e Desenvolvimento:
+      - 2º Nível: Verificacao/DesignAvaliacaoDesen/VerificacaoNivel2.md

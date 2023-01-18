@@ -24,9 +24,9 @@ projeto, e a partir dai, realizar as perguntas confeccionadas para tal método e
 o(s) participante(s) deste método seria(m) o(s) próprio(s) pesquisador(es), onde ele se coloca no lugar do usuário e faz o traçado de todas as tarefas realizadas pelo mesmo.
 ## <a>Roteiro das Questões para Avaliação da Analise de Tarefas</a>
 Antes de iniciar a avaliação, é necessário que o Entrevistador mostre para o entrevistado o documento de 
-[Aspectos Éticos](../../../Tarefas/AspectosEticos.md), onde se encontra todos os termos éticos
+[Aspectos Éticos](../../../Planejamento/AspectosEticos.md), onde se encontra todos os termos éticos
 que devem ser seguidos pelo projeto e pelos pesquisadores, e também o próprio termo de consentimento que terá que ser elaborado para a fase de analise de tarefas
-com base no [Modelo do Termo de Consentimento](../../../Tarefas/ModeloTermoConsentimento.md), e disponibilizado
+com base no [Modelo do Termo de Consentimento](../../../Planejamento/ModeloTermoConsentimento.md), e disponibilizado
 para o Entrevistado.
 As perguntas a serem realizadas na Entrevista poderão ser visualizadas a seguir na *tabela 1*:
 <center>

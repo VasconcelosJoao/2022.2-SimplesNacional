@@ -162,7 +162,7 @@ O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser c
 
 ## <a>Aspectos Éticos</a>
 
-Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../../Tarefas/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel e foi elaborado levando em consideração os [Aspectos Éticos](../../../Tarefas/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../../Planejamento/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel e foi elaborado levando em consideração os [Aspectos Éticos](../../../Planejamento/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
 
 ## <a>Interpretação</a>
 
