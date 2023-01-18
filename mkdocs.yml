@@ -125,3 +125,6 @@ nav:
       - Guia de Estilo: Verificacao/Tarefas/verificacaoGuiaDeEstilo.md
     - Design, Avaliação e Desenvolvimento:
       - 2º Nível: Verificacao/DesignAvaliacaoDesen/VerificacaoNivel2.md
+      - 3º Nível:
+        - Protótipo de Alta Fidelidade:
+          - Planejamento do Relato: Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoRelato.md
