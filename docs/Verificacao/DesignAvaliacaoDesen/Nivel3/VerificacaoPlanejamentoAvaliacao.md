@@ -1,4 +1,4 @@
-# Verificação do 
+# Verificação do Planejamento da Avaliação do Protótipo de Alta Fidelidade
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
