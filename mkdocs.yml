@@ -117,6 +117,7 @@ nav:
     - Análise de Requisitos:
       - Perfil de Usúario: Verificacao/Tarefas/VerificacaoPerfilUsuario.md
       - Cenários: Verificacao/Tarefas/VerificacaoCenarios.md
+      - Princípios Gerais: Verificacao/Tarefas/principiosGerais.md
       - Metas de Usabilidade: Verificacao/Tarefas/verificacaoMetasDeUsabilidade.md
       - Características da Plataforma: Verificacao/Tarefas/VerificacaoCaracteristicasPlataforma.md
       - Guia de Estilo: Verificacao/Tarefas/verificacaoGuiaDeEstilo.md
