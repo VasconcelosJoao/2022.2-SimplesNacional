@@ -110,6 +110,7 @@ nav:
       - Avaliação do Storyboard: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoStoryboard.md
       - Avaliação do Protótipo de Papel: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtPapel.md
   - Verificação:
+    - Introdução: Verificacao/index.md
     - Planejamento:
       - Aspectos Éticos: Verificacao/Planejamento/aspectosEticos.md
       - Termo de Consentimento: Verificacao/Planejamento/termoConsentimento.md
