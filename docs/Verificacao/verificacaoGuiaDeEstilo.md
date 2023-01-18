@@ -37,6 +37,8 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |   6   |    O artefato possui uma descrição sobre a visualização de informações do site?                  |          |
 |   7   |    Possui referência das figuras no texto?          |          |
 |   8   |    As figuras possuem legendas?                 |          |
+|   9   |    Possui bibliografia?                 |          |
+|   10   |   Possui histórico de versão?                 |          | 
   
 *Tabela 1 - Checklist planejado*
 
@@ -58,7 +60,8 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |   6   |    O artefato possui uma descrição sobre a visualização de informações do site?                  |     🔴     |
 |   7   |    Possui referência das figuras no texto?          |     🟢     |
 |   8   |    As figuras possuem legendas?                 |     🟢     |
-
+|   9   |    Possui bibliografia?                 |     🟢     |
+|   10   |   Possui histórico de versão?                 |     🟢     | 
   
 *Tabela 2 - Checklist efetivado*
 
@@ -74,9 +77,9 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 Através dos checklists realizados podemos observar que:
 
-* 02/08 exigências são atendidas;
-* 01/08 exigências estão incompletas;
-* 05/08 exigências estão erradas ou não foram contempladas.
+* 04/10 exigências são atendidas;
+* 01/10 exigências estão incompletas;
+* 05/10 exigências estão erradas ou não foram contempladas.
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 62.50%.
 
