@@ -1,13 +1,11 @@
-# Verificação do 
+# Verificação do Planejamento do Relato de Resultados do Storyboard
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
 | 16/01/2023 |        17/01/2023        |  1.0   | Criação do documento | [João Lucas](https://github.com/HacKairos) | [-](https://github.com/) |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Analise de Tarefas](../../Tarefas/Analise.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
-
-A técnica de inspeção será utilizada para realizar esse processo. [1]
+O presente documento tem como objetivo realizar a verificação do artefato [Planejamento do Relato de Resultados do Storyboard](../../../../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
 
 ## <a>Metodologia</a>
 Para a verificação em questão, será utilizada a técnica de inspeção. Para a aplicação dessa técnica, haverá o uso de uma tabela com perguntas que visam avaliar se o artefato foi feito da maneira demandada pela disciplina.
@@ -30,13 +28,12 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |   3   |                 Há uma introdução para o artefato?                 |          |
 |   4   |            Há chamada e legendas para imagens e tabelas            |          |
 |   5   |             Os textos estão ortograficamente corretos?             |          |
-|   6   |                  Cada tarefa possui um diagrama?                   |          |
-|   7   |         Cada diagrama possui uma tabela de especificação?          |          |
-|   8   |                    Os objetivos estão corretos?                    |          |
-|   9   |                    As operações estão corretas?                    |          |
-|  10   |                O nível dos objetivos estã corretos?                |          |
-|  11   |             Os níveis dos subobjetivos estã corretos?              |          |
-|  12   |         As relações entre os subobjetivos estão corretos?          |          |
+|   6   |            Existe um guia para o relato dos objetivos?             |          |
+|   7   |          Existe um guia para o relato dos participantes?           |          |
+|   8   |            Existe um guia para o relato da metodologia?            |          |
+|   9   |           Existe um guia para o relato da interpretação?           |          |
+|  10   |            Existe um guia para o relato dos problemas?             |          |
+|  11   |            Existe um guia para o relato das sugestões?             |          |
 
   
 *Tabela 1 - Checklist planejado*
@@ -56,14 +53,12 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |   3   |                 Há uma introdução para o artefato?                 |    🟢     |
 |   4   |            Há chamada e legendas para imagens e tabelas            |    🟢     |
 |   5   |             Os textos estão ortograficamente corretos?             |    🟢     |
-|   6   |                  Cada tarefa possui um diagrama?                   |    🟢     |
-|   7   |         Cada diagrama possui uma tabela de especificação?          |    🟢     |
-|   8   |                    Os objetivos estão corretos?                    |    🟢     |
-|   9   |                    As operações estão corretas?                    |    🟢     |
-|  10   |                O nível dos objetivos estã corretos?                |    🟢     |
-|  11   |             Os níveis dos subobjetivos estã corretos?              |    🟢     |
-|  12   |         As relações entre os subobjetivos estão corretos?          |    🟢     |
-
+|   6   |            Existe um guia para o relato dos objetivos?             |    🟢     |
+|   7   |          Existe um guia para o relato dos participantes?           |    🟢     |
+|   8   |            Existe um guia para o relato da metodologia?            |    🟢     |
+|   9   |           Existe um guia para o relato da interpretação?           |    🟢     |
+|  10   |            Existe um guia para o relato dos problemas?             |    🟢     |
+|  11   |            Existe um guia para o relato das sugestões?             |    🟢     |
 
   
 *Tabela 2 - Checklist efetivado*
@@ -71,6 +66,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 </center>
 
 ## <a>Comentários</a>
+
 Não foi possivel encontrar falhas chamativas no documento.
 
 ## <a>Resultados</a>
@@ -78,7 +74,7 @@ Não foi possivel encontrar falhas chamativas no documento.
 
 Através dos checklists realizados podemos observar que:
 
-* 12/12 exigências são atendidas;
+* 11/11 exigências são atendidas;
 * 0/0 exigências estão incompletas;
 * 0/0 exigências estão erradas ou não foram contempladas.
 

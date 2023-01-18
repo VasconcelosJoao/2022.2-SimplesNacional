@@ -124,7 +124,11 @@ nav:
       - Características da Plataforma: Verificacao/Tarefas/VerificacaoCaracteristicasPlataforma.md
       - Guia de Estilo: Verificacao/Tarefas/verificacaoGuiaDeEstilo.md
     - Design, Avaliação e Desenvolvimento:
+      - 1º Nível:
+        - Storyboard:
+          - Planejamento do Relato: Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoPlanejamentoRelato.md
       - 2º Nível: Verificacao/DesignAvaliacaoDesen/VerificacaoNivel2.md
       - 3º Nível:
         - Protótipo de Alta Fidelidade:
+          - Planejamento da Avalição: Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoAvaliacao.md
           - Planejamento do Relato: Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoRelato.md
