@@ -4,7 +4,7 @@
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |09/12/2022|10/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
-|18/01/2023|20/12/2022|1.1|Adição dos Cenários que estavam com erros| [Pedro Lucas](https://github.com/PedroLSF) | |
+|18/01/2023|20/12/2022|1.1|Adição dos Cenários que estavam com erros| [Pedro Lucas](https://github.com/PedroLSF) |[Thiago Oliveira](https://github.com/Thiab394) |
 
 ## <a>Introdução</a>
 Cenários são representações do contexto do sistema por meio de histórias de pessoas realizando atividades e são específicos e ricos em detalhes de contexto de uso do aplicativo, incluindo usuários, processos e dados reais ou potenciais. , texto ou narrativa visual. Os cenários não são apenas poderosos, mas também são uma ferramenta importante no processo geral de design de HCI porque representam um investimento de custo e tempo menor em comparação com os protótipos.
@@ -85,6 +85,7 @@ Tabela 4 - Cenário 003<br></br><br>
 | **Episódios**   | _Usuário acessa a opção PGMEI<br>Usúario acessa o site com o CNPJ<br>Usuário clica no botão de Gerar PDF._ |
 | **Restrição**   | _Internet indisponível._ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone/computador<br>Internet indisponivel._ |
+
 Tabela 5 - Cenário 004<br></br><br>
 
 | **Cenário**     | **005** |
@@ -110,6 +111,7 @@ Tabela 6 - Cenário 005<br></br><br>
 | **Episódios**   | _Usuário acessa a tela de Consulta Optantes<br>Usuário acessa o app com o CNPJ<br>Usuário clica em Gerar PDF._ |
 | **Restrição**   | _Internet indisponível._ |
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone/computador<br>Internet indisponivel._ |
+
 Tabela 7 - Cenário 006<br></br><br>
 
 | **Cenário**     | **007** |
