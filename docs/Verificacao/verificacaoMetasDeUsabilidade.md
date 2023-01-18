@@ -29,12 +29,14 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
   
 |  ID   |                           Questão                           | Inspeção |
 | :---: | :---------------------------------------------------------: | :------: |
-|   1   |    A metodologia está bem definida?            |          |
-|   2   |    O artefato deixa ecidente os seus objetivos?                |          |
-|   3   |    É apresentado as metas de usabilidade do site?                  |          |
-|   4   |    É apresentado o objetivos da usabilidade?                  |          |
-|   5   |    Possui requisitos de usabilidade?                 |          |
-|   6   |    Possui metas a serem cumpridas?                  |          |
+|   1   |    A metodologia está bem definida?                         |          |
+|   2   |    O artefato deixa ecidente os seus objetivos?             |          |
+|   3   |    É apresentado as metas de usabilidade do site?           |          |
+|   4   |    É apresentado o objetivos da usabilidade?                |          |
+|   5   |    Possui requisitos de usabilidade?                        |          |
+|   6   |    Possui metas a serem cumpridas?                          |          |
+|   7   |    Possui histórico de versão?                              |          |
+|   8   |    Possui bibliografia?                                     |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -48,13 +50,14 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 |  ID   |                           Questão                           | Inspeção |
 | :---: | :---------------------------------------------------------: | :------: |
-|   1   |    A metodologia está bem definida?            |    🟢      |
-|   2   |    O artefato deixa ecidente os seus objetivos?                |    🟢      |
-|   3   |    É apresentado as metas de usabilidade do site?                  |   🟢       |
-|   4   |    É apresentado o objetivos da usabilidade?                  |     🟢     |
-|   5   |    Possui requisitos de usabilidade?                 |    🟢      |
-|   6   |    Possui metas a serem cumpridas?                  |    🟢      |
-
+|   1   |    A metodologia está bem definida?                         |    🟢     |
+|   2   |    O artefato deixa ecidente os seus objetivos?             |    🟢     |
+|   3   |    É apresentado as metas de usabilidade do site?           |    🟢     |
+|   4   |    É apresentado o objetivos da usabilidade?                |    🟢     |
+|   5   |    Possui requisitos de usabilidade?                        |    🟢     |
+|   6   |    Possui metas a serem cumpridas?                          |    🟢     |
+|   7   |    Possui histórico de versão?                              |    🟢     |
+|   8   |    Possui bibliografia?                                     |    🟢     |
   
 *Tabela 2 - Checklist efetivado*
 
@@ -69,7 +72,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 Através dos checklists realizados podemos observar que:
 
-* 06/06 exigências são atendidas;
+* 08/08 exigências são atendidas;
 
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 100%.
