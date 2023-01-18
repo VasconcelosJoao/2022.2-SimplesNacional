@@ -5,8 +5,8 @@
 | 15/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Thiago Oliveira](https://github.com/Thiab394) | [-](https://github.com/) |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Cenários](../../../Modelagem/Cenarios.md), 
-produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões 
+O presente documento tem como objetivo realizar a verificação do artefato [Cenários](../../../Tarefas/Cenario.md), 
+produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.1 e, portanto, espera-se que futuras versões 
 apresentem os apontamentos presentes na verificação corrigidos.
 
 A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -64,14 +64,18 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |   4   |                  O Cenário Possui Recurso?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   5   |                 O cenário Possui Episódios?                 |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
 |   6   |                  O cenário Possui Exceção?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   7   |          É possível associar o título ao objetivo?          |  N/A  |   🟢   |   🟢   |   🟢   |   🟡   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   8   |                O contexto foi bem definido?                 |  N/A  |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |
-|   9   |            Os atores foram colocados no cenário?            |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|  10   |     Os episódios ajudam a atingir o objetivo descrito?      |  N/A  |   🟢   |   🟡   |   🟢   |   🟡   |   🟢   |   🟡   |   🟡   |   🟢   |   🟢   |   🟢   |
-|  11   |           Os recursos são realmente necessários?            |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|  12   |               O Documento Possui Introdução?                |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  13   |               O Documento Possui Metodologia?               |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  14   | O Documento Possui um modelo de representação dos cenários? |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|   7   |                  O cenário Possui Restrição?                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   8   |          É possível associar o título ao objetivo?          |  N/A  |   🟢   |   🟢   |   🟢   |   🟡   |   🟢   |   🔴   |   🟢   |   🟢   |   🟢   |   🔴   |
+|   9   |                O contexto foi bem definido?                 |  N/A  |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |
+|   10  |            Os atores foram colocados no cenário?            |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  11   |     Os episódios ajudam a atingir o objetivo descrito?      |  N/A  |   🟡   |   🟢   |   🟢   |   🟡   |   🟡   |   🟡   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  12   |     As exceções realmente condizem com o cenário da mesma?  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  13   |    As restrições realmente condizem com o cenário da mesma? |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  14   |           Os recursos são realmente necessários?            |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  15   |               O Documento Possui Introdução?                |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  16   |               O Documento Possui Metodologia?               |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  17   | O Documento Possui um modelo de representação dos cenários? |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  18   | O Documento Possui um link para a elicitação/priorização de requisitos? |   🔴   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
   
 *Tabela 2 - Checklist efetivado*
 
@@ -79,18 +83,25 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 ## <a>Comentários</a>
 
-* A definir
+* Colocar no plural o titulo do C4, "Gerar estado(s) do(s) DAS(s)"
+* Mudar o objetivo do C6, visto que é o mesmo do C5, fazendo com que 2 cenários sejam "iguais"
+* C10 possui mesmo o objetivo do C9, tendo o mesmo erro acima, e n podendo associar com o titulo
+* No C1, faltou colocar que o usuario clica na opçao de emitir DAS.
+* Na parte dos contextos, falta colocar o tempo, ou caso n tenha como, trocar o tempo por outra informação relevante.
+* No C4, faltou colocar que o usuario clica na opçao de emitir DAS, nas opções principais, e após isso ele clica em gerar estado.
+* No C5 faltou colocar que o usuario clica na opçao de consultar CNPJ, e depois escolhe o mês para consultar o CNPJ
+* No C6, faltou colocar que o usuario clica na opçao de consultar CNPJ, e depois escolhe o mes e depois emite o PDF com o relatorio.
 
 ## <a>Resultados</a>
 <a>**Calculo Aproveitamento**</a>: ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento
 
 Através dos checklists realizados podemos observar que:
 
-* x/113 exigências são atendidas;
-* x/113 exigências estão incompletas;
-* x/113 exigências estão erradas ou não foram contempladas.
+* 127/144 exigências são atendidas;
+* 15/144 exigências estão incompletas;
+* 2/144 exigências estão erradas ou não foram contempladas.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 93.80%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 93.40%.
 
 ## <a>Bibliografia</a>
 
