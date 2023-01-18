@@ -1,11 +1,11 @@
-# Verificação do Planejamento do Relato de Resultados do Storyboard
+# Verificação do Planejamento do Relato de Resultados da Análise de Tarefa
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
 | 18/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | [-](https://github.com/) |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Planejamento do Relato de Resultados do Storyboard](../../../../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
+O presente documento tem como objetivo realizar a verificação do artefato [Planejamento do Relato de Resultados da Análise de Tarefa](../../../../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoRelatoResuStoryboard.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
 
 ## <a>Metodologia</a>
 Para a verificação em questão, será utilizada a técnica de inspeção. Para a aplicação dessa técnica, haverá o uso de uma tabela com perguntas que visam avaliar se o artefato foi feito da maneira demandada pela disciplina.
