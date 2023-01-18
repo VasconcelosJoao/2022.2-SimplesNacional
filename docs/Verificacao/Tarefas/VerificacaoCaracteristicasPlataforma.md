@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                  |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :------------------------------------: | :----------------------------------------: |
-| 17/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) | - |
+| 17/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) | [Ana Luiza](https://github.com/AnHoff) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Características da plataforma](../../Tarefas/CaracteristicasPlataforma.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -63,6 +63,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 * A fonte da imagem das tecnologias está exibida de forma confusa, talvez seja nescessário reorganizar os textos e ideias;
 * Seria interessante uma validação com usuário ou persona sobre as funcionalidades identificadas;
+* Os problemas poderiam ser dispostos em tópicos ou tabelas, assim a visualização dos mesmos fica mais fácil.
 
 ## <a>Resultados</a>
 <a>**Calculo Aproveitamento**</a>: ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento
