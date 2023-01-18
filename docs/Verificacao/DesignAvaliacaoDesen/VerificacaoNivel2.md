@@ -125,9 +125,9 @@ Na tabela 4, há o checklist efetivado do artefato na versão 1.0:
 
 Através dos checklists realizados podemos observar que:
 
-* 09/09 exigências são atendidas;
-* 0/09  exigências estão incompletas;
-* 0/09  exigências estão erradas ou não foram contempladas.
+* 9/9 exigências são atendidas;
+* 0/9  exigências estão incompletas;
+* 0/9  exigências estão erradas ou não foram contempladas.
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 100,00%.
 
@@ -182,9 +182,9 @@ Na tabela 6, há o checklist efetivado do artefato na versão 1.0:
 
 Através dos checklists realizados podemos observar que:
 
-* 10/09 exigências são atendidas;
-* 0/09 exigências estão incompletas;
-* 0/09 exigências estão erradas ou não foram contempladas.
+* 9/9 exigências são atendidas;
+* 0/9 exigências estão incompletas;
+* 0/9 exigências estão erradas ou não foram contempladas.
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 100,00%.
 
