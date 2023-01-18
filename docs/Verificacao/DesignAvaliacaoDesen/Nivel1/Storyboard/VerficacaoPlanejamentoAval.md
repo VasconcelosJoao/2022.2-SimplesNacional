@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
-| 16/01/2023 |        17/01/2023        |  1.0   | Criação do documento | [João Lucas](https://github.com/HacKairos) | [-](https://github.com/) |
+| 16/01/2023 |        17/01/2023        |  1.0   | Criação do documento | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Planejamento da Avaliação do Storyboard](../../../../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -75,7 +75,7 @@ Através dos checklists realizados podemos observar que:
 
 * 9/10 exigências são atendidas;
 * 1/10 exigências estão incompletas;
-* 0/0 exigências estão erradas ou não foram contempladas.
+* 0/10 exigências estão erradas ou não foram contempladas.
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 95%.
 
