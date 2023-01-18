@@ -1,4 +1,4 @@
-# Verificação dos Sites Analisados
+# Sites Analisados
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                  |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :------------------------------------: | :----------------------------------------: |
