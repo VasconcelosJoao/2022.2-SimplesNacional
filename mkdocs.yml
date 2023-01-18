@@ -70,12 +70,11 @@ nav:
       - 7ª Reunião: Reunioes/Atas/Reuniao7.md
   - Análise de Requisitos:
     - Análise de Tarefas: Tarefas/Analise.md
-    - Perfil de Usúario:
-      - Questionário e Perfis de Usuarios: Tarefas/perfilUsuario.md
-      - Personas: Tarefas/personas.md
+    - Perfil de Usúarios: Tarefas/perfilUsuario.md
+    - Personas: Tarefas/personas.md
     - Cenários: Tarefas/Cenario.md
     - Metas de Usabilidade: Tarefas/MetasUsabilidade.md
-    - Caracteristicas da Plataforma: Tarefas/CaracteristicasPlataforma.md
+    - Características da Plataforma: Tarefas/CaracteristicasPlataforma.md
     - Princípios Gerais: Tarefas/PrincipiosGerais.md
     - Guia de Estilo: Tarefas/GuiaDeEstilo.md
   - Design, Avaliação e Desenvolvimento:
@@ -104,16 +103,21 @@ nav:
     - Testes Piloto: 
       - Storyboard: DesignAvaliacaoDesen/TestesPiloto/TestePilotoStoryboard.md
       - Analise de Tarefas: DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas.md
+      - Avaliação do 1º Nível: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoAvaliacoes.md
       - Protótipo de Papel: DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtPapel.md
     - Termos de consentimento:
       - Avaliação da Analise de Tarefas: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoAnaliseTarefas.md
       - Avaliação do Storyboard: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoStoryboard.md
-      - Avaliação do protótipo de Papel: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtPapel.md
+      - Avaliação do Protótipo de Papel: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtPapel.md
   - Verificação:
     - Planejamento:
       - Aspectos Éticos: Verificacao/Planejamento/aspectosEticos.md
       - Termo de Consentimento: Verificacao/Planejamento/termoConsentimento.md
     - Análise de Requisitos:
+      - Perfil de Usúario: Verificacao/Tarefas/VerificacaoPerfilUsuario.md
       - Cenários: Verificacao/Tarefas/VerificacaoCenarios.md
+      - Metas de Usabilidade: Verificacao/Tarefas/verificacaoMetasDeUsabilidade.md
+      - Características da Plataforma: Verificacao/Tarefas/VerificacaoCaracteristicasPlataforma.md
+      - Guia de Estilo: Verificacao/Tarefas/verificacaoGuiaDeEstilo.md
     - Design, Avaliação e Desenvolvimento:
       - 2º Nível: Verificacao/DesignAvaliacaoDesen/VerificacaoNivel2.md
