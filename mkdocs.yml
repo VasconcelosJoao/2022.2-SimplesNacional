@@ -127,7 +127,11 @@ nav:
       - 1º Nível:
         - Storyboard:
           - Planejamento do Relato: Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoPlanejamentoRelato.md
-      - 2º Nível: Verificacao/DesignAvaliacaoDesen/Nivel2/VerificacaoNivel2.md
+      - 2º Nível: 
+        - Protótipo de Papel:
+          - Planejamento da Avaliação: Verificacao/DesignAvaliacaoDesen/Nivel2/VerficacaoPlanejamentoAval.md
+          - Planejamento do Relato : Verificacao/DesignAvaliacaoDesen/Nivel2/VerificacaoPlanejamentoRelato.md
+          - Relato de Resultados: Verificacao/DesignAvaliacaoDesen/Nivel2/VerificacaoRelato.md
       - 3º Nível:
         - Protótipo de Alta Fidelidade:
           - Planejamento da Avalição: Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoAvaliacao.md
