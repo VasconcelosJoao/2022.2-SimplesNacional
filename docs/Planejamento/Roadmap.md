@@ -203,6 +203,7 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 | Verificação - Termo de Consentimento      | Ana          | 14/01/2023 | 15/01/2023 |         |
 | Verificação - Princípios Gerais           | Ana          | 18/01/2023 | 18/01/2023 |         |
 | Verificação - Cenários                    | Thiago       | 15/01/2023 | 16/01/2023 | Ana     |
+| Verificação - Plan. Relato Storyboard     | João Lucas   | 15/01/2023 | 16/01/2023 |         |
 | Verificação - Analise de tarefas          | João Lucas   | 15/01/2023 | 16/01/2023 |         |
 | Verificação - Plan. Avaliação Prot. Alta. | João Lucas   | 15/01/2023 | 16/01/2023 |         |
 | Verificação - Plan. Relato Prot. Alta.    | João Lucas   | 15/01/2023 | 16/01/2023 |         |
