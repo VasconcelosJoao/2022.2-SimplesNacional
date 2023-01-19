@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
-| 18/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | [-](https://github.com/) |
+| 18/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | [Thiago Oliveira](https://github.com/Thiab394) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Planejamento do Relato de Resultados da Análise de Tarefa](../../../../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -81,8 +81,8 @@ Não foi possivel encontrar falhas chamativas no documento.
 Através dos checklists realizados podemos observar que:
 
 * 11/11 exigências são atendidas;
-* 0/0 exigências estão incompletas;
-* 0/0 exigências estão erradas ou não foram contempladas.
+* 0/11 exigências estão incompletas;
+* 0/11 exigências estão erradas ou não foram contempladas.
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 100%.
 
