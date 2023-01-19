@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                  |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :------------------------------------: | :----------------------------------------: |
-| 18/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | - |
+| 18/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos)  |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Sites Analisados](../../Planejamento/SitesAnalisados.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.

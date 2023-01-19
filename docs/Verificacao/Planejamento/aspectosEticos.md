@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                  |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :------------------------------------: | :----------------------------------------: |
-| 16/01/2023 |        17/01/2023        |  1.0   | Criação do documento | [Ana Luiza](https://github.com/AnHoff) | - |
+| 16/01/2023 |        17/01/2023        |  1.0   | Criação do documento | [Ana Luiza](https://github.com/AnHoff) | [João Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Aspectos Éticos](../../Planejamento/AspectosEticos.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -24,16 +24,16 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |  ID   |                              Questão                               | Inspeção |
 | :---: | :----------------------------------------------------------------: | :------: |
 |   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |          |
-|   2   | Possui bibliografia correta?                                       |          |
-|   3   | Há uma introdução para o artefato?                                 |          |
-|   4   | O documento apresenta o princípio da autonomia?                    |          |
-|   5   | O documento apresenta o princípio da beneficência?                 |          |
-|   6   | O documento apresenta o princípio da não maleficência?             |          |
-|   7   | O documento apresenta o princípio da justiça e equidade?           |          |
-|   8   | Há descrição para cada um dos princípios?                          |          |
-|   9   | O documento demonstra como aplicar os princípios na prática?       |          |
-|  10   | As etapas práticas são bem descritas?                              |          |
-|  11   | O documento deixa claro onde os princípios podem ser aplicados?    |          |
+|   2   |                    Possui bibliografia correta?                    |          |
+|   3   |                 Há uma introdução para o artefato?                 |          |
+|   4   |          O documento apresenta o princípio da autonomia?           |          |
+|   5   |         O documento apresenta o princípio da beneficência?         |          |
+|   6   |       O documento apresenta o princípio da não maleficência?       |          |
+|   7   |      O documento apresenta o princípio da justiça e equidade?      |          |
+|   8   |             Há descrição para cada um dos princípios?              |          |
+|   9   |    O documento demonstra como aplicar os princípios na prática?    |          |
+|  10   |               As etapas práticas são bem descritas?                |          |
+|  11   |  O documento deixa claro onde os princípios podem ser aplicados?   |          |
 |  12   | O documento deixa claro quando os princípios devem ser aplicados?  |          |
   
 *Tabela 1 - Checklist planejado*
@@ -48,18 +48,18 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 |  ID   |                              Questão                               | Inspeção |
 | :---: | :----------------------------------------------------------------: | :------: |
-|   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |    🟢   |
-|   2   | Possui bibliografia correta?                                       |    🟡   |
-|   3   | Há uma introdução para o artefato?                                 |    🟢   |
-|   4   | O documento apresenta o princípio da autonomia?                    |    🟢   |
-|   5   | O documento apresenta o princípio da beneficência?                 |    🟢   |
-|   6   | O documento apresenta o princípio da não maleficência?             |    🟢   |
-|   7   | O documento apresenta o princípio da justiça e equidade?           |    🟢   |
-|   8   | Há descrição para cada um dos princípios?                          |    🟢   |
-|   9   | O documento demonstra como aplicar os princípios na prática?       |    🔴   |
-|  10   | As etapas práticas são bem descritas?                              |    🔴   |
-|  11   | O documento deixa claro onde os princípios podem ser aplicados?    |    🟡   |
-|  12   | O documento deixa claro quando os princípios devem ser aplicados?  |    🟡   |
+|   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |    🟢     |
+|   2   |                    Possui bibliografia correta?                    |    🟡     |
+|   3   |                 Há uma introdução para o artefato?                 |    🟢     |
+|   4   |          O documento apresenta o princípio da autonomia?           |    🟢     |
+|   5   |         O documento apresenta o princípio da beneficência?         |    🟢     |
+|   6   |       O documento apresenta o princípio da não maleficência?       |    🟢     |
+|   7   |      O documento apresenta o princípio da justiça e equidade?      |    🟢     |
+|   8   |             Há descrição para cada um dos princípios?              |    🟢     |
+|   9   |    O documento demonstra como aplicar os princípios na prática?    |    🔴     |
+|  10   |               As etapas práticas são bem descritas?                |    🔴     |
+|  11   |  O documento deixa claro onde os princípios podem ser aplicados?   |    🟡     |
+|  12   | O documento deixa claro quando os princípios devem ser aplicados?  |    🟡     |
   
 *Tabela 2 - Checklist efetivado*
 

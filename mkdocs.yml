@@ -125,8 +125,18 @@ nav:
       - Guia de Estilo: Verificacao/Tarefas/verificacaoGuiaDeEstilo.md
     - Design, Avaliação e Desenvolvimento:
       - 1º Nível:
+        - Análise de Tarefas:
+          - Sites Analisados: Verificacao/Planejamento/VerificacaoSitesAnalisados.md
+          - Planejamento da Avaliação: Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoPlanAval.md
+          - Planejamento do Relato : Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoPlanejamentoRelato.md
+          - Avaliação : Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoAval.md
+          - Relato de Resultados: Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoRelato.md
         - Storyboard:
-          - Planejamento do Relato: Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoPlanejamentoRelato.md
+          - Planejamento da Avaliação: Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerficacaoPlanejamentoAval.md
+          - Planejamento do Relato : Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoPlanejamentoRelato.md
+          - Avaliação : Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/Verificacaoaval.md
+          - Relato de Resultados: Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoRelato.md
+      - Verificação da 1ª Etapa: DesignAvaliacaoDesen/Nivel1/VerificacaoEtapa1.md
       - 2º Nível: 
         - Protótipo de Papel:
           - Planejamento da Avaliação: Verificacao/DesignAvaliacaoDesen/Nivel2/VerficacaoPlanejamentoAval.md
