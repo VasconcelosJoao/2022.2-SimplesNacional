@@ -70,8 +70,6 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 </center>
 
-## <a>Comentários</a>
-
 
 ## <a>Resultados</a>
 <a>**Calculo Aproveitamento**</a>: ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento
