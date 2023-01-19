@@ -33,7 +33,7 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |   8   | O documento apresenta definição dos participantes e recrutamento?  |          |
 |   9   |   O documento descreve de que forma será realizada a avaliação?    |          |
 |  10   |    Os objetivos da avaliação estão bem determinados?               |          |
-|  11   |   O documento descreve de que forma será realizada a avaliação?    |          |
+
 
   
 *Tabela 1 - Checklist planejado*
@@ -58,7 +58,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 |   8   | O documento apresenta definição dos participantes e recrutamento?  |    🔴     |
 |   9   |   O documento descreve de que forma será realizada a avaliação?    |    🟡     |
 |  10   |    Os objetivos da avaliação estão bem determinados?               |    🟢     |
-|  11   |   O documento descreve de que forma será realizada a avaliação?    |    🟡      |
+
 
 
 
@@ -78,11 +78,11 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 Através dos checklists realizados podemos observar que:
 
-* 7/11 exigências são atendidas;
-* 2/11 exigências estão incompletas;
-* 2/11 exigências estão erradas ou não foram contempladas.
+* 7/10 exigências são atendidas;
+* 1/10 exigências estão incompletas;
+* 2/10 exigências estão erradas ou não foram contempladas.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 72,72%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 80%.
 
 ## <a>Bibliografia</a>
 
