@@ -112,6 +112,7 @@ nav:
   - Verificação:
     - Introdução: Verificacao/index.md
     - Planejamento:
+      - Sites Analisados: Verificacao/Planejamento/VerificacaoSitesAnalisados.md
       - Modelo de Design: Verificacao/Planejamento/modeloDesign.md
       - Aspectos Éticos: Verificacao/Planejamento/aspectosEticos.md
       - Termo de Consentimento: Verificacao/Planejamento/termoConsentimento.md
@@ -126,7 +127,6 @@ nav:
     - Design, Avaliação e Desenvolvimento:
       - 1º Nível:
         - Análise de Tarefas:
-          - Sites Analisados: Verificacao/Planejamento/VerificacaoSitesAnalisados.md
           - Planejamento da Avaliação: Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoPlanAval.md
           - Planejamento do Relato : Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoPlanejamentoRelato.md
           - Avaliação : Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoAval.md
