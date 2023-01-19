@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
-| 18/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | [-](https://github.com/) |
+| 18/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | [Thiago Oliveira](https://github.com/Thiab394) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Avaliação da Análise de Tarefa](../../../DesignAvaliacaoDesen/Nivel1/AnalisesDeTarefa/AvaliacaoAnaliseDeTarefas.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
@@ -85,7 +85,7 @@ Através dos checklists realizados podemos observar que:
 * 2/11 exigências estão incompletas;
 * 1/11 exigências estão erradas ou não foram contempladas.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 72,82%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 81,81%.
 
 ## <a>Bibliografia</a>
 
