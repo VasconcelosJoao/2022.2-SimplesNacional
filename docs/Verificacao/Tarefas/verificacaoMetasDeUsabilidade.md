@@ -44,16 +44,17 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 <center>
 
-|  ID   |                           Questão                           | Inspeção |
-| :---: | :---------------------------------------------------------: | :------: |
-|   1   |    A metodologia está bem definida?                         |    🟢     |
-|   2   |    O artefato deixa evidente os seus objetivos?             |    🟢     |
-|   3   |    É apresentado as metas de usabilidade do site?           |    🟢     |
-|   4   |    É apresentado o objetivos da usabilidade?                |    🟢     |
-|   5   |    Possui requisitos de usabilidade?                        |    🟢     |
-|   6   |    Possui metas a serem cumpridas?                          |    🟢     |
-|   7   |    Possui histórico de versão?                              |    🟢     |
-|   8   |    Possui bibliografia?                                     |    🟢     |
+|  ID   |                           Questão                                  | Inspeção  |
+| :---: | :----------------------------------------------------------------: | :-------: |
+|   1   |    A metodologia está bem definida?                                |    🟢     |
+|   2   |    O artefato deixa evidente os seus objetivos?                    |    🟢     |
+|   3   |    É apresentado as metas de usabilidade do site?                  |    🟢     |
+|   4   |    É apresentado o objetivos da usabilidade?                       |    🟢     |
+|   5   |    Possui requisitos de usabilidade?                               |    🟢     |
+|   6   |    Possui metas a serem cumpridas?                                 |    🔴     |
+|   7   |    Possui histórico de versão?                                     |    🟢     |
+|   8   |    Possui bibliografia?                                            |    🟢     |
+|   9   |    Está explicito as metas de usabilidade serão abordadas no site? |    🔴     |
   
 *Tabela 2 - Checklist efetivado*
 
@@ -61,7 +62,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 ## <a>Comentários</a>
 
-* Sem comentários a serem realizados; 
+* Descrever as metas a serem cumpridas e quais métodos serão utilizados no projeto; 
 
 ## <a>Resultados</a>
 <a>**Calculo Aproveitamento**</a>: ((100/QntExigencias) * Acertos) + (((100/QntExigencias) * Incompletos)/2) = % de Aproveitamento
@@ -71,7 +72,7 @@ Através dos checklists realizados podemos observar que:
 * 08/08 exigências são atendidas;
 
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 100%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 88,88%.
 
 ## <a>Bibliografia</a>
 
