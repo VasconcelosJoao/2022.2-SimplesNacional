@@ -196,18 +196,20 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 **Entrega 7**
 
-| Tarefa                                    | Responsáveis | Entrega    | Revisão    | Revisor |
-| ----------------------------------------- | ------------ | ---------- | ---------- | ------- |
-| Verificação - Modelo de Design            | Ana          | 18/01/2023 | 18/01/2023 |         |
-| Verificação - Aspectos Éticos             | Ana          | 16/01/2023 | 17/01/2023 |         |
-| Verificação - Termo de Consentimento      | Ana          | 14/01/2023 | 15/01/2023 |         |
-| Verificação - Princípios Gerais           | Ana          | 18/01/2023 | 18/01/2023 |         |
-| Verificação - Cenários                    | Thiago       | 15/01/2023 | 16/01/2023 | Ana     |
-| Verificação - Plan. Relato Storyboard     | João Lucas   | 15/01/2023 | 16/01/2023 |         |
-| Verificação - Analise de tarefas          | João Lucas   | 15/01/2023 | 16/01/2023 |         |
-| Verificação - Plan. Avaliação Prot. Alta. | João Lucas   | 15/01/2023 | 16/01/2023 |         |
-| Verificação - Plan. Relato Prot. Alta.    | João Lucas   | 15/01/2023 | 16/01/2023 |         |
-
+| Tarefa                                    | Responsáveis | Entrega    | Revisão    | Revisor   |
+| ----------------------------------------- | ------------ | ---------- | ---------- | --------- |
+| Verificação - Modelo de Design            | Ana          | 18/01/2023 | 18/01/2023 |           |
+| Verificação - Aspectos Éticos             | Ana          | 16/01/2023 | 17/01/2023 |           |
+| Verificação - Termo de Consentimento      | Ana          | 14/01/2023 | 15/01/2023 |           |
+| Verificação - Princípios Gerais           | Ana          | 18/01/2023 | 18/01/2023 |           |
+| Verificação - Cenários                    | Thiago       | 15/01/2023 | 16/01/2023 | Ana       |
+| Verificação - Plan. Relato Storyboard     | João Lucas   | 15/01/2023 | 16/01/2023 |           |
+| Verificação - Analise de tarefas          | João Lucas   | 15/01/2023 | 16/01/2023 |           |
+| Verificação - Plan. Avaliação Prot. Alta. | João Lucas   | 15/01/2023 | 16/01/2023 |           |
+| Verificação - Plan. Relato Prot. Alta.    | João Lucas   | 15/01/2023 | 16/01/2023 |           |
+| Verificação - Metas de Usabilidade        | Eduardo      | 17/01/2023 | 18/01/2023 | João Lucas|
+| Verificação - Guia de Estilo              | Eduardo      | 17/01/2023 | 18/01/2023 | João Lucas| 
+  
 *Tabela 13 - Tarefas executadas para a entrega 7*<br><br>
 
 </center>
