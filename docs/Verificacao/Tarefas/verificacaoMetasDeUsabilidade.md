@@ -69,7 +69,7 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 Através dos checklists realizados podemos observar que:
 
-* 08/08 exigências são atendidas;
+* 09/09 exigências são atendidas;
 
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 88,88%.
