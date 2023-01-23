@@ -7,6 +7,7 @@
 |13/12/2022|13/12/2022|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|
 |19/12/2022|19/12/2022|1.1|Adição do storyboard|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
 |28/12/2022|29/12/2022|1.2|Modificação do questionário|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
+|23/01/2023|23/01/2023|1.3|Adiciona storyboard da fugura 2,3 e 4|[Eduardo](https://github.com/edudsan)|[-](https://github.com/)|
 
 ## <a>Introdução</a>
 
@@ -64,6 +65,36 @@ O storyboard confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../
 <center>
 
 <img src="../../../../assets/storyboard/story.jpg"><br>*Figura 1 - Storyboard*</img>
+
+</center>
+
+No storyboard confeccionado, tem-se um ator fictício, baseado em um perfil real, que deseja realizar a tarefa de Alterar o Débito Automático. O ator encontra alguns problemas do mundo real, como filas e burocracias, e procura, a partir do uso do site, conseguir alterar o débito automático de seus boletos. Assim, o objetivo final do ator é evitar a necessidade de ir até agências físicas para realizar um processo tão essencial para seu empreendimento.
+
+O storyboard confeccionado pode ser conferido na figura 2 abaixo ou em [PDF](../../../assets/storyboard/storyboardAlterarDebitoAutomatico.pdf).
+
+<center>
+
+<img src="../../../../assets/storyboard/storyboardAlterarDebitoAutomatico.jpg"><br>*Figura 2 - Storyboard*</img>
+
+</center>
+
+No storyboard confeccionado, tem-se um ator fictício, baseado em um perfil real, que deseja realizar a tarefa de Desativar o Débito Automático. O ator encontra alguns problemas do mundo real, como filas e burocracias, e procura, a partir do uso do site, conseguir desativar o débito automático de seus boletos. Assim, o objetivo final do ator é evitar a necessidade de ir até agências físicas para realizar um processo que não precisaria tomar seu tempo, que poderia estar sendo utilizado no desenvolvimento do seu empreendimento.
+
+O storyboard confeccionado pode ser conferido na figura 3 abaixo ou em [PDF](../../../assets/storyboard/storyboardDesativarDebitoAutomatico.pdf).
+
+<center>
+
+<img src="../../../../assets/storyboard/storyboardDesativarDebitoAutomatico.jpg"><br>*Figura 3 - Storyboard*</img>
+
+</center>
+
+No storyboard confeccionado, tem-se um ator fictício, baseado em um perfil real, que deseja realizar a tarefa de Realizar a Restituição. O ator encontra alguns problemas do mundo real, como filas e burocracias, e procura, a partir do uso do site, conseguir Realizar a Restituição de seus boletos. Assim, o objetivo final do ator é evitar a necessidade de ir até agências físicas para realizar um processo básico para não ter que desperdiçar seu tempo com locomoção e filas.
+
+O storyboard confeccionado pode ser conferido na figura 4 abaixo ou em [PDF](../../../assets/storyboard/storyboarDesativarDebitoAutomatico.pdf).
+
+<center>
+
+<img src="../../../../assets/storyboard/storyboarDesativarDebitoAutomatico.jpg"><br>*Figura 4 - Storyboard*</img>
 
 </center>
 
