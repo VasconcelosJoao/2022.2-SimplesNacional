@@ -23,16 +23,17 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 
 <center>
   
-|  ID   |                           Questão                           | Inspeção |
-| :---: | :---------------------------------------------------------: | :------: |
-|   1   |    A metodologia está bem definida?                         |          |
-|   2   |    O artefato deixa evidente os seus objetivos?             |          |
-|   3   |    É apresentado as metas de usabilidade do site?           |          |
-|   4   |    É apresentado o objetivos da usabilidade?                |          |
-|   5   |    Possui requisitos de usabilidade?                        |          |
-|   6   |    Possui metas a serem cumpridas?                          |          |
-|   7   |    Possui histórico de versão?                              |          |
-|   8   |    Possui bibliografia?                                     |          |
+|  ID   |                           Questão                                  | Inspeção |
+| :---: | :----------------------------------------------------------------: | :------: |
+|   1   |    A metodologia está bem definida?                                |          |
+|   2   |    O artefato deixa evidente os seus objetivos?                    |          |
+|   3   |    É apresentado as metas de usabilidade do site?                  |          |
+|   4   |    É apresentado o objetivos da usabilidade?                       |          |
+|   5   |    Possui requisitos de usabilidade?                               |          |
+|   6   |    Possui metas a serem cumpridas?                                 |          |
+|   7   |    Possui histórico de versão?                                     |          |
+|   8   |    Possui bibliografia?                                            |          |
+|   9   |    Está explicito as metas de usabilidade serão abordadas no site? |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -69,7 +70,8 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 Através dos checklists realizados podemos observar que:
 
-* 09/09 exigências são atendidas;
+* 07/09 exigências são atendidas;
+* 02/09 exigências não foram atendidas;
 
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 88,88%.
