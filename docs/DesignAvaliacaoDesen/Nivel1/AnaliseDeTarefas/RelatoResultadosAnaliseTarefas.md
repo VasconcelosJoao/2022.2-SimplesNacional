@@ -4,7 +4,8 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|10/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|
+|10/01/2023|11/01/2023|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|
+|24/01/2023|25/01/2023|1.1|Correção com base na Verificação|[Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)|
 
 ## <a>Introdução </a>
 Este documento contempla o relato dos resultados da analise de tarefas, onde foi utilizado a metodologia de entrevista(s), onde em uma chamada online ao vivo,
@@ -31,7 +32,9 @@ para tomar notas de toda a entrevista no geral, para que após seja possivel org
 
 ## <a>Metodologia da Avaliação</a>
 Para realizar a avaliação da analise de tarefas foi utilizado o método de entrevistas, tendo um entrevistador participante com o objetivo de apenas entrevistar o usuário
-e um Auxiliar de Notas, com o objetivo de tomar notas sobre o que está sendo falado na entrevista.
+e um Auxiliar de Notas, com o objetivo de tomar notas sobre o que está sendo falado na entrevista. <br> 
+Antes de realizar a entrevista foi feito um [Teste Piloto](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas/#teste-piloto) para verificar se o ambiente está devidamente preparado para realizar a entrevista no tempo esperado
+, e a entrevista foi realizada na plataforma "Microsoft Teams" as 15:30h da Tarde do dia 08/01/2023.
 
 Antes do questionário é preciso se mostrar o [Termo de Consentimento](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/blob/main/docs/Avaliacoes/AnaliseDeTarefas/TermoConsentimentoAnaliseTarefas.md)
 para o entrevistado, e ter total certeza da concordancia do mesmo com os termos, e também a assinatura do entrevistador e do entrevistado.
