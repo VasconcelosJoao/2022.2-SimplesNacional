@@ -5,6 +5,7 @@
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
 |11/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)|
+|24/01/2023|25/01/2023|1.1|Correção com base na Verificação|[Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)|
 
 ## <a>Introdução </a>
 Este documento contempla o relato dos resultados do Storyboard, onde foi utilizado a metodologia de entrevistas realizadas em uma chamada online ao vivo.
@@ -39,6 +40,10 @@ Como já mencionado, foi utilizado o método de entrevistas.
 Antes do questionário, é preciso apresentar o [Termo de Consentimento](../../TermosConsentimento/TermoConsentimentoStoryboard.md) para o entrevistado, e ter total certeza da concordância do mesmo com os termos, e também a assinatura do entrevistador e do entrevistado.
 
 No questionário realizado, há perguntas de cunho especifico que serão as utilizadas para avaliar o Storyboard. As perguntas em questão focam em pegar dados referentes à semelhança do Storyboard com a realidade dos usuários, perguntando sobre sua semelhança com a realidade no que diz respeito aos elementos apresentados, como Ator, ambientes e tarefas, e também sobre a semelhança com o que o storyboard representa, como pontos fortes e fracos do sistema e modificações no design do sistema interativo que podem inclusive ser sugeridas pelo usuário.
+
+Antes de realizar a entrevista foi feito um [Teste Piloto](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas/#teste-piloto) para verificar se o ambiente está devidamente preparado para realizar a entrevista no tempo esperado
+, e as entrevistas foram realizadas todas na plataforma "Microsoft Teams" "inserir horários e datas":
+
 
 ## <a>Entrevista(s) e Anotações</a>
 
