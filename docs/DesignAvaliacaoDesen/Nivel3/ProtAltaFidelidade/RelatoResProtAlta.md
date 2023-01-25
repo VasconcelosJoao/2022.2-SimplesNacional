@@ -37,7 +37,7 @@ para tomar notas de toda a entrevista no geral, para que após seja possivel org
 ## <a>Metodologia da Avaliação</a>
 Para realizar a avaliação do Prototipo de Alta Fidelidade foi utilizado o método de entrevistas, tendo um entrevistador participante com o objetivo de apenas
 entrevistar o usuário e um Auxiliar de Notas, com o objetivo de tomar notas sobre o que está sendo falado na entrevista. <br> 
-Antes de realizar a entrevista foi feito um [Teste Piloto]() para verificar se o ambiente está devidamente preparado para realizar a entrevista no tempo esperado.
+Antes de realizar a entrevista foi feito um [Teste Piloto](../../DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtAltaFidelidade.md) para verificar se o ambiente está devidamente preparado para realizar a entrevista no tempo esperado.
 
 Duas das entrevistas foram realizadas na plataforma "Microsoft Teams", e uma delas presencialmente
 a do Guilherme foi feita no dia 22/01/2023 das 15:15h até 15:45h no "Microsoft Teams", a do Nicolas foi feita dia 23/01/2023 das 10:30h ás 11h Presencialemente na UnB do Gama(FGA)
