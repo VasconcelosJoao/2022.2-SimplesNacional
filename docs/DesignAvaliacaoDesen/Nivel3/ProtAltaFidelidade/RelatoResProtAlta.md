@@ -61,7 +61,7 @@ Os questionários podem ser vistos [Aqui](https://interacao-humano-computador.gi
 
 ### Entrevista e Anotações Nicolas
 <center>
-<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/E0FEMBB2-e0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/LymbsCT6ZSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center><br></br>
 
 Usou o simples? 
@@ -156,18 +156,85 @@ tela de login do prototipo preferivel, por ajudar o usuário a realizar o login,
 <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/kjRH4_k5QiE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center><br></br>
 
-## <a>Problemas</a>
--
+1- condiz com a realidade
 
+2- é intuitivo mas poderia melhora as operações da pagina inicial, após o login é intuitivo e facil de utilizar
+
+3- para utilização do site poder navegar pelo site sem a nescessidade de login, realizar o login apenas para realizar a ação de fato
+
+4- duvida entre SIMPLES e SIMEI (algo para descrever as ações de cada um), pode desmotivar o usuário por não saber exatamente qual acessar
+
+5- design simples e formal, mediano. ícones para "chamar atenção" 
+
+6- a busca ou botões que levem direto para a opção desejada (landpage)
+
+7- pop up na restituição como feito no débito, passar o mouse da uma breve descrição
+
+8- ícones, icones para facilitar o uso  
+
+10- prototipo melhor por um design mais clean, site atual possui muitas coisas, confudindo o ususario. Protótipo mais user friendly
+
+12-falta de icones, design simples nescessita de recurso, landpage muito simples, nescessita da previa das atividades que podem ser realizadas 
+
+13- os ícones podem facilitar a utilização de usuários não nativos digitais
+
+14- atingiu com sucesso, fluxo rápido
+
+15- landpage "mutio clean" pode dificultar o acesso ao site 
+
+### Entrevista Persona Marcelo Silva
+
+<center>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/RIIvHJcqf-g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center><br></br>
+
+
+## <a>Problemas</a>
+#### Pré-teste(Simples Nacional)
+- Falta de Suporte do Simples para inclusão de Dados
+- Falta de clareza nos Dados para serem utilizados nas primeiras vezes
+- Nomenclaturas podem confundir o usuário
+- Não se encontra suporte no site, como FAQ
+- Falta de suporte para responder perguna sobre ativação
+- Falta de feedback visual 
+- Fluxo de tarefa complexo demais
+- Muita informação na tela, confundindo o usuário
+
+#### Pós-teste(Protitpo de Alta)
+- Falta de Placeholder
+- Falta de uma aba de "Serviços mais Utilizados"
+- Confusão ao realizar login e levar para pagina inicial
+- Falta de explicação sobre a restituição
+- Diferença no padrão de realização de tarefas
+- Falta de fluxo alternativo para serviços mais utilizados
+- Não se pode navegar no site sem realizar login
+- Falta de descrição das ações do Simples e SIMEI
+- Pagina inicial muito minimalista pode dificultar o acesso ao site
 
 ## <a>Sugestões</a>
--
-
+#### Pós-teste(Protitpo de Alta)
+- Algum tipo de ajuda(placeholder) para preenchimento dos formulários como formato da conta, etc.
+- Menu em cima para acesso de outra ações dentro de uma tarefa, para não ter que voltar tudo
+- Adição de uma aba "Serviços mais Utilizados"
+- Levar direto para Menu de serviços após realizar o login
+- Colocar palavras chaves em negrito no card
+- Colocar informação sobre o que é cada campo a ser preenchido
+- Colocar uma lista para visualizar pedidos ao invés de clicar no botão "visualizar pedido"
+- Colocar os cards mais em cima para não precisar rolar a pagina para ler
+- Caminho para ser checado pelo usuário
+- Melhora nas operações da pagina inicial
+- Realizar login apenas para fazer a ação de fato
+- Icones mais chamativos
+- Passar mouse para breve descrição da restituição
 
 ## <a>Conclusão</a>
-A partir da Analise dos relatos dos resultados presentes neste documento, pode se perceber que tiveram quantidades bem parecidas de acertos e erros por parte do nosso
-grupo na criação das analises de tarefas, levando como de maior importancia os problemas e sugestoes listados acima, os quais devem ser corrigidos/implementados o mais rapido
-possivel.
+A partir da Analise dos relatos dos resultados do prototipo de alta fidelidade presentes neste documento, pode se perceber que tiveram quantidades bem parecidas de acertos e erros por parte do nosso
+grupo na criação do prototipo de alta fidelidade, possuindo mais sugestões do que erros em relação ao prototipo.
+
+já em relação ao site do Simples Nacional foi listado apenas problemas, pois não temos como modificar tal site diretamente, portanto possui uma menor quantidade de problemas em relação ao prototipo porém, com erros muito mais impactantes que os do prototipo, erros que realmente em sua maioria, impedem o usuário de utilizar o site. 
+
+A partir das listas acima temos como de maior importancia os problemas e sugestoes listados , os quais devem ser corrigidos/implementados o mais rapido
+possivel pelo grupo.
 
 ## <a>Bibliografia</a>
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
