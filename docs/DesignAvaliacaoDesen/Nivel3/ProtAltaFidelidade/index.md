@@ -10,7 +10,7 @@
 O presente documento visa apresentar o protótipo de papel elaborado pela equipe e relatar quais eram os objetivos em sua elaboração. Além disso, haverão novas análises sobre as metas de usabilidade do site reformulado em nosso protótipo.
 
 ## <a>Metodologia</a>
-O protótipo foi elaborado com o uso do [Figma](../../../Planejamento/Ferramentas.md). As tarefas nele presentes foram discutidas por todo o grupo e foram aplicadas no protótipo pelo integrante João. O cronograma planejado para sua elaboração pode ser conferido no documento de [Planejamento do Protótipo de Alta Fidelidade](./PlanejamentoProtAlta.md).
+O protótipo foi elaborado com o uso do [Figma](../../../Planejamento/Ferramentas.md). As principais tarefas nele presentes foram discutidas por todo o grupo e foram aplicadas no protótipo pelo integrante [João Lucas](https://github.com/HacKairos). O cronograma planejado para sua elaboração pode ser conferido no documento de [Planejamento do Protótipo de Alta Fidelidade](./PlanejamentoProtAlta.md).
 
 A elaboração foi centrada sobre as opiniões e sugestões dos usuários sobre os documentos previamente elaborados, assim como na melhoria de pontos que promoviam o cometimento de erros por parte do usuário. Além disso, por se tratar de um site elaborado pela [Receita Federal](https://www.gov.br/receitafederal/pt-br), uma reformulação realista do sistema usaria o guia de estilo já elaborado para os sistemas ligados ao governo.
 
@@ -53,7 +53,7 @@ Seguindo as observações sobre o quê e como aplicar melhorias na plataforma ex
 
 <center>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="auto" height="auto" src="https://www.figma.com/proto/9MHpLCsADuC4ZvVwzR6Dbj/Untitled?node-id=6%3A2&scaling=contain&page-id=0%3A1&starting-point-node-id=6%3A2&show-proto-sidebar=1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F9MHpLCsADuC4ZvVwzR6Dbj%2FUntitled%3Fnode-id%3D6%253A2%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D6%253A2%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 </center>
 

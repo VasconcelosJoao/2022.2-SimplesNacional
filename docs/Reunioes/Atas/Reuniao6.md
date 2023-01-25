@@ -2,9 +2,10 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
-|22/12/2022|23/12/2022|1.0|Criação da ata de reunião 15/12/2022| [Arthur Taylor](https://github.com/Eruel6)| [João Lucas](https://github.com/HacKairos) |
+|    Data    | Data Prevista de Revisão | Versão |              Descrição               |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :----------------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 22/12/2022 |        23/12/2022        |  1.0   | Criação da ata de reunião 15/12/2022 | [Arthur Taylor](https://github.com/Eruel6) | [João Lucas](https://github.com/HacKairos) |
+| 25/01/2023 |        25/01/2023        |  1.1   |     Padronização e Revisão Final     | [João Lucas](https://github.com/HacKairos) | [Arthur Taylor](https://github.com/Eruel6) |
 
 
 
@@ -38,12 +39,12 @@ Depois de discussões em grupo, decidiu-se distribuir a confecção de artefatos
 <center>
 A seguir os artefatos e seus respectivos responsáveis, na tabela 1:
 
-| Artefato | Responsável |
-| :-: | :-: |
-| Análise de tarefas | Arthur |
-| Teste Piloto | Thiago e Pedro | 
-| Storyboard - relato dos resultados | João |
-| Storyboard - confecção | Ana e Eduardo |
+|              Artefato              |  Responsável   |
+| :--------------------------------: | :------------: |
+|         Análise de tarefas         |     Arthur     |
+|            Teste Piloto            | Thiago e Pedro |
+| Storyboard - relato dos resultados |      João      |
+|       Storyboard - confecção       | Ana e Eduardo  |
 
 *Tabela 1 - Artefatos/Responsaveis*
 </center>

@@ -1,15 +1,16 @@
 # Metodologia 
 
 ## <a>Histórico de Versão</a>
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|20/11/2022|21/11/2022|1.0|Criação do Documento de Metodologia|[Arthur Taylor](https://github.com/Eruel6)|[Thiago Oliveira](https://github.com/Thiab394)|
-|20/11/2022|21/11/2022|1.1|Adição das logos de cada ferramenta de comunicação e colocação em tabela|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|
-|22/11/2022|23/11/2022|1.2|Ajustes no Histórico de Versão|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|
+|    Data    | Data Prevista de Revisão | Versão |              Descrição              |                     Autor                      |                    Revisor                     |
+| :--------: | :----------------------: | :----: | :---------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
+| 20/11/2022 |        21/11/2022        |  1.0   | Criação do Documento de Metodologia |   [Arthur Taylor](https://github.com/Eruel6)   | [Thiago Oliveira](https://github.com/Thiab394) |
+| 20/11/2022 |        21/11/2022        |  1.1   |          Adição das logos           | [Thiago Oliveira](https://github.com/Thiab394) |   [Arthur Taylor](https://github.com/Eruel6)   |
+| 22/11/2022 |        23/11/2022        |  1.2   |   Ajustes no Histórico de Versão    | [Thiago Oliveira](https://github.com/Thiab394) |   [Arthur Taylor](https://github.com/Eruel6)   |
+| 25/01/2023 |        25/01/2023        |  1.3   |    Padronização e Revisão Final     |   [João Lucas](https://github.com/HacKairos)   |     [Ana Luiza](https://github.com/AnHoff)     |
 
 ## <a>Sprints</a>
 
-O projeto será divido em Sprints com duração de uma semana para a elaboração de artefatos, podendo os artefatos maiores exigirem mais de uma sprint para serem confeccionados. A princípio, o grupo se encotrará todos os sábados às 16h para planejar as tarefas da sprint seguinte, realizar a retrospectiva da sprint e revisar os artefatos. 
+O projeto será divido em Sprints com duração de uma semana para a elaboração de artefatos, podendo os artefatos maiores exigirem mais de uma sprint para serem confeccionados. A princípio, o grupo se encotrará todos os sábados às 16h para planejar as tarefas da sprint seguinte, realizar a retrospectiva da sprint e revisar os artefatos.[1]
 
 ## <a>Pareamento</a>
 
@@ -24,24 +25,24 @@ As ferramentas utilizadas para comunicação **formal** e **informal** a seguir 
 
 <center>
 
-### /a>Formal </a>
+### <a>Formal </a>
 
-| Ferramenta | Descrição |
-| :-: | :-: |
-| GitHub  <img src="../../assets/ferramentasLogo/github.svg" width="100" height="100"></img>| A comunicação se dará através das isssues do github para assuntos mais formais e técnicos sobre o projeto| 
-| Microsoft Teams <img src="../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img> | Para as reuniões realizadas com o grupo de forma remota, será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões e pela facilidade de utilização desta ferramenta.| 
+|                                                 Ferramenta                                                  |                                                                                           Descrição                                                                                           |
+| :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         GitHub  <img src="../../assets/ferramentasLogo/github.svg" width="100" height="100"></img>          |                                           A comunicação se dará através das isssues do github para assuntos mais formais e técnicos sobre o projeto                                           |
+| Microsoft Teams <img src="../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img> | Para as reuniões realizadas com o grupo de forma remota, será utilizada a plataforma da Microsoft a fim de facilitar a gravação de reuniões e pela facilidade de utilização desta ferramenta. |
 
 *Tabela 1 - Comunicação Formal*
 
-### /a>Informal</a>
+### <a>Informal</a>
 
-| Ferramenta | Descrição |
-| :-: | :-: |
-| Telegram <img src="../../assets/ferramentasLogo/telegram.svg" width="100" height="100"></img>| Para a troca de informações rápidas sobre o projeto e demais assuntos, como dúvidas pontuais, que podem ser tratados de formas simples e clara, a equipe optou pela utilização de um grupo no aplicativo "Telegram" pela facilidade e rapidez na resposta por parte dos integrantes.| 
+|                                          Ferramenta                                           |                                                                                                                                      Descrição                                                                                                                                       |
+| :-------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Telegram <img src="../../assets/ferramentasLogo/telegram.svg" width="100" height="100"></img> | Para a troca de informações rápidas sobre o projeto e demais assuntos, como dúvidas pontuais, que podem ser tratados de formas simples e clara, a equipe optou pela utilização de um grupo no aplicativo "Telegram" pela facilidade e rapidez na resposta por parte dos integrantes. |
 
 *Tabela 2 - Comunicação Informal*
 
 </center>
 
 ## <a>Bibliografia</a>
-SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/. Acesso em: 19 de novembro de 2022.
+[1] SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/. Acesso em: 19 de novembro de 2022.
