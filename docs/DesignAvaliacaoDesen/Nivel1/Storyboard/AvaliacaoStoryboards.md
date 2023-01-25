@@ -2,9 +2,11 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|20/12/2022|21/12/2022|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[Arthur Taylor](https://github.com/) e [Ana Luiza](https://github.com/AnHoff)|
+| Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                                    Revisor                                    |
+| :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :---------------------------------------------------------------------------: |
+|     20/12/2022     |        21/12/2022        |  1.0   |     Criação do Documento     | [João Lucas](https://github.com/HacKairos) | [Arthur Taylor](https://github.com/) e [Ana Luiza](https://github.com/AnHoff) |
+|     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) |                     [Thiago](https://github.com/Thiab394)                     |
+
 
 ## <a>Introdução</a>
 O storyboard é um tipo de protótipo de baixa fidelidade que consiste em uma série de desenhos que demonstram como o usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido ou avaliado. Os [storyboards](PlanejamentoAvStoryboard.md) criados para este projeto representam contextos em que o sistema pode ser utilizado para que os usuários atinjam o objetivo de "Realizar o pagamento do DAS".
@@ -21,25 +23,26 @@ A observação é seguida por uma entrevista, constituindo-se de um questionári
 ## <a>Teste-Piloto</a>
 Realizamos o teste piloto com dois integrantes da equipe, sendo que um está no papel de entrevistador e o outro no papel de entrevistado.<br>
 <center>
-
+No vídeo a seguir a verificação realizada com membros da equipe: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mdLhP_vi53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Na tabela a seguir as perguntas realizadas:
 
-|ID|Descrição|Resposta|Dado|
-|---|---|---|---|
-|01|O storyboard apresenta ator semelhante ao real?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|02|O storyboard apresenta ambiente(s) semelhante(s) aos reais?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|03|O storyboard apresenta tarefas condizentes com a realidade?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|04|O storyboard apresenta uma sequência de tarefas condizente com a realidade?|( ) Sim<br>( ) Não<br>(X) Em parte|Qualitativo|
-|05|Houve representação de problemas de IHC no storyboard?|Nominal|Qualitativo|
-|08|O ator apresentou confusão ou teve que refazer alguma etapa devido a erros?|(X) Sim<br>( ) Não|Qualitativo|
-|09|Você (avaliador) notou aspectos importantes não representados no storyboard?|(X) Sim<br>( ) Não|Qualitativo|
-|10|O ator se deparou com quantos erros durante o uso do sistema?|( ) Nenhum<br>(X) Entre 1 e 3<br>( ) Acima de 3|Quantitativo|
-|11|O objetivo apresentado foi atingido por meio de um caminho intuitivo?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|12|Você (avaliador) considera o storyboard apresentado uma boa representação do Simples Nacional?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|13|O storyboard deixa claro a motivação do usuário para utilizar o site?|(X) Sim<br>( ) Não<br>( ) Em parte|Qualitativo|
-|14|O storyboard deixa claro o motivo de alguma frustração do usuário ao utilizar o sistema?|( ) Sim<br>( ) Não<br>(X) Em parte|Qualitativo|
+| ID  | Descrição                                                                                      | Resposta                                        | Dado         |
+| --- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------ |
+| 01  | O storyboard apresenta ator semelhante ao real?                                                | (X) Sim<br>( ) Não<br>( ) Em parte              | Qualitativo  |
+| 02  | O storyboard apresenta ambiente(s) semelhante(s) aos reais?                                    | (X) Sim<br>( ) Não<br>( ) Em parte              | Qualitativo  |
+| 03  | O storyboard apresenta tarefas condizentes com a realidade?                                    | (X) Sim<br>( ) Não<br>( ) Em parte              | Qualitativo  |
+| 04  | O storyboard apresenta uma sequência de tarefas condizente com a realidade?                    | ( ) Sim<br>( ) Não<br>(X) Em parte              | Qualitativo  |
+| 05  | Houve representação de problemas de IHC no storyboard?                                         | Nominal                                         | Qualitativo  |
+| 08  | O ator apresentou confusão ou teve que refazer alguma etapa devido a erros?                    | (X) Sim<br>( ) Não                              | Qualitativo  |
+| 09  | Você (avaliador) notou aspectos importantes não representados no storyboard?                   | (X) Sim<br>( ) Não                              | Qualitativo  |
+| 10  | O ator se deparou com quantos erros durante o uso do sistema?                                  | ( ) Nenhum<br>(X) Entre 1 e 3<br>( ) Acima de 3 | Quantitativo |
+| 11  | O objetivo apresentado foi atingido por meio de um caminho intuitivo?                          | (X) Sim<br>( ) Não<br>( ) Em parte              | Qualitativo  |
+| 12  | Você (avaliador) considera o storyboard apresentado uma boa representação do Simples Nacional? | (X) Sim<br>( ) Não<br>( ) Em parte              | Qualitativo  |
+| 13  | O storyboard deixa claro a motivação do usuário para utilizar o site?                          | (X) Sim<br>( ) Não<br>( ) Em parte              | Qualitativo  |
+| 14  | O storyboard deixa claro o motivo de alguma frustração do usuário ao utilizar o sistema?       | ( ) Sim<br>( ) Não<br>(X) Em parte              | Qualitativo  |
 
 *Tabela 1 - Questionário*
 

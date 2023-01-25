@@ -2,9 +2,10 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|05/01/2023|06/01/2023|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[Thiago Olveira](https://github.com/Thiab394)|
+| Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                    |
+| :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
+|     05/01/2023     |        06/01/2023        |  1.0   |     Criação do Documento     | [João Lucas](https://github.com/HacKairos) | [Thiago Olveira](https://github.com/Thiab394) |
+|     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Thiago Olveira](https://github.com/Thiab394) |
 
 ## <a>Introdução</a>
 
@@ -14,7 +15,7 @@ Vale lembrar que os resultados da avaliação do IHC costumam indicar problemas 
 
 ## <a>Metodologia</a>
 
-Será posta em prática a avaliação proposta no [planejamento](PlanejamentoProtPapel.md), em seguida serão analisados os dados referentes às perguntas elaboradas. Caso o usuário se encontre em um ambiente inadequado ou apresente quaisquer indícios de desconforto ou inaptidão, a avaliação será interrompida e os dados obtidos durante sua duração poderão ser descartados.
+Será posta em prática a avaliação proposta no [planejamento](PlanejamentoProtPapel.md), em seguida serão analisados os dados referentes às perguntas elaboradas. Caso o usuário se encontre em um ambiente inadequado ou apresente quaisquer indícios de desconforto, ou inaptidão, a avaliação será interrompida e os dados obtidos durante sua duração poderão ser descartados.
 
 ## <a>Relato de Resultados</a>
 
@@ -26,11 +27,11 @@ O objetivo da avaliação deve estar descrito no documento e, não menos importa
 
 ### <a>Participantes</a>
 
-Os participantes da entrevista devem ser listados e não ultrapassar um máximo de 2 envolvidos, sendo 1 entrevistador e 1 entrevistado. Deve-se levar em consideração que o participante não deve ter nenhum vínculo com o projeto e deve se encaixar no [perfil de usuário](../../../Tarefas/perfilUsuario.md) definido.
+Os participantes da entrevista devem ser listados e não ultrapassar um máximo de 2 envolvidos, sendo 1 entrevistador e 1 entrevistado. Deve-se considerar que o participante não deve ter nenhum vínculo com o projeto e deve se encaixar no [perfil de usuário](../../../Tarefas/perfilUsuario.md) definido.
 
 ### <a>Metodologia da Avaliação</a>
 
-O relato de resultados deve ter a metodologia utilizada esclarecida e as respostas presentes no(s) questionário(s) devem estar listadas no documento. Caso o questionário esteja incompleto ou apresente respostas negativas, deve-se incluir considerações sobre porquê o usuário respondeu negativamente ou preferiu não responder alguma questão.
+O relato de resultados deve ter a metodologia utilizada esclarecida e as respostas presentes no(s) questionário(s) devem estar listadas no documento. Caso o questionário esteja incompleto ou apresente respostas negativas, deve-se incluir considerações sobre o porquê o usuário respondeu negativamente ou preferiu não responder alguma questão.
 
 ### <a>Tarefas</a>
 
@@ -53,7 +54,7 @@ Sugestões de melhorias e/ou correções de problemas existentes mencionadas pel
 Os avaliadores devem relatar suas constatações consolidadas por meio de documentação contendo:
 
 - Os objetivos e o escopo da avaliação;
-- A forma como a avaliação foi realizada (método de avaliação empregado);
+- Como a avaliação foi realizada (método de avaliação empregado);
 - O número e o perfil de usuários e avaliadores que participaram da avaliação;
 - Um sumário dos dados coletados, incluindo tabelas e gráficos;
 - Um relato da interpretação e análise dos dados;

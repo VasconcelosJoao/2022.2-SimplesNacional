@@ -2,12 +2,12 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|13/12/2022|13/12/2022|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|
-|19/12/2022|19/12/2022|1.1|Adição do storyboard|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
-|28/12/2022|29/12/2022|1.2|Modificação do questionário|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
-|23/01/2023|23/01/2023|1.3|Adiciona storyboard da fugura 2,3 e 4|[Eduardo](https://github.com/edudsan)|[-](https://github.com/)|
+| Data de Realização | Data Prevista de Revisão | Versão |               Descrição               |                   Autor                    |                  Revisor                   |
+| :----------------: | :----------------------: | :----: | :-----------------------------------: | :----------------------------------------: | :----------------------------------------: |
+|     13/12/2022     |        13/12/2022        |  1.0   |        Criação do planejamento        |   [Ana Luiza](https://github.com/AnHoff)   | [Arthur Taylor](https://github.com/Eruel6) |
+|     19/12/2022     |        19/12/2022        |  1.1   |         Adição do storyboard          |   [Ana Luiza](https://github.com/AnHoff)   |   [Eduardo](https://github.com/edudsan)    |
+|     23/01/2023     |        23/01/2023        |  1.2   | Adiciona storyboard da fugura 2,3 e 4 |   [Eduardo](https://github.com/edudsan)    | [João Lucas](https://github.com/HacKairos) |
+|     25/01/2023     |        25/01/2023        |  1.3   |     Padronização e Revisão Final      | [João Lucas](https://github.com/HacKairos) |   [Thiago](https://github.com/Thiab394)    |
 
 ## <a>Introdução</a>
 
@@ -23,13 +23,13 @@ Confira na tabela 1 abaixo o horário, local e participantes.
 
 <center>
 
-|Data|Hora|Local|Avaliador|Usuário|Avaliação|
-|---|---|---|---|---|---|
-|14/12/2022|16:00|Online - Microsoft Teams|Pedro|Arthur|Teste Piloto|
-|16/12/2022|19:00|Presencial - a definir|Pedro|Renan|Entrevista|
-|16/12/2022|20:00|Online - Microsoft Teams|Arthur|Marcelo Silva|Entrevista|
-|16/12/2022|20:00|Online - Microsoft Teams|Eduardo|Raquel Lopes|Entrevista|
-|06/01/2023|16:00|Online - Microsoft Teams|Pedro|Arthur|Teste Piloto|
+| Data       | Hora  | Local                    | Avaliador | Usuário       | Avaliação    |
+| ---------- | ----- | ------------------------ | --------- | ------------- | ------------ |
+| 14/12/2022 | 16:00 | Online - Microsoft Teams | Pedro     | Arthur        | Teste Piloto |
+| 16/12/2022 | 19:00 | Presencial - a definir   | Pedro     | Renan         | Entrevista   |
+| 16/12/2022 | 20:00 | Online - Microsoft Teams | Arthur    | Marcelo Silva | Entrevista   |
+| 16/12/2022 | 20:00 | Online - Microsoft Teams | Eduardo   | Raquel Lopes  | Entrevista   |
+| 06/01/2023 | 16:00 | Online - Microsoft Teams | Pedro     | Arthur        | Teste Piloto |
 
 *Tabela 1 - Cronograma das avaliações*
 
@@ -46,11 +46,11 @@ A confecção do storyboard se deu em algumas etapas que podem ser conferidas na
 
 <center>
 
-|Data|Descrição|Responsáveis|Revisores|
-|---|---|---|---|
-|17/12/2022|Decidir temas abordados no storyboard|Thiago, João, Ana, Eduardo|Arthur, Pedro|
-|18/12/2022|Confecção do rascunho do storyboard|Ana|Arthur, Pedro|
-|19/12/2022|Redesenho digital do storyboard|Eduardo|Arthur, Pedro|
+| Data       | Descrição                             | Responsáveis               | Revisores     |
+| ---------- | ------------------------------------- | -------------------------- | ------------- |
+| 17/12/2022 | Decidir temas abordados no storyboard | Thiago, João, Ana, Eduardo | Arthur, Pedro |
+| 18/12/2022 | Confecção do rascunho do storyboard   | Ana                        | Arthur, Pedro |
+| 19/12/2022 | Redesenho digital do storyboard       | Eduardo                    | Arthur, Pedro |
 
 *Tabela 2 - Planejamento do Storyboard*
 
@@ -132,25 +132,25 @@ O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser c
 
 **Avaliadores designados:** Pedro, Arthur, Eduardo
 
-| ID | Descrição | Objetivo |
-| :---: | :-------: | :------: |
-|01|O storyboard apresenta ator semelhante ao real?|Verificar a conformidade com um padrão|
-|02|O storyboard apresenta ambiente(s) semelhante(s) aos reais?|Verificar a conformidade com um padrão|
-|03|O storyboard apresenta tarefas condizentes com a realidade?|Verificar a conformidade com um padrão|
-|04|O storyboard apresenta uma sequência de tarefas condizente com a realidade?|Verificar a conformidade com um padrão|
-|05|De que maneira os usuários utilizam o sistema? Em que difere do planejado?|Analisar a apropriação da tecnologia|
-|06|O quanto os usuários são motivados a explorar novas funcionalidades?|Analisar a apropriação da tecnologia|
-|07|Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?|Analisar a apropriação da tecnologia|
-|08|Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? Quais necessidades e desejos foram ou não atendidos?|Analisar a apropriação da tecnologia|
-|09|A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?|Analisar a apropriação da tecnologia|
-|10|O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho?|Analisar a apropriação da tecnologia|
-|11|Há alternativas de design mais eficientes? Mais fáceis de aprender?|Comparar ideias e alternativas de design|
-|12|(Caso a pergunta 11 seja respondida) Qual das alternativas de design (a atual ou a proposta na pergunta 11) os usuários preferem? Por quê?|Comparar ideias e alternativas de design|
-|13|O usuário consegue operar o sistema?|Identificar problemas na interação e interface|
-|14|Que parte da interface e da interação deixa o usuário insatisfeito?|Identificar problemas na interação e interface|
-|15|O usuário entende o que significa e para que serve cada elemento de interface?|Identificar problemas na interação e interface|
-|16|Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?|Identificar problemas na interação e interface|
-|17|Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?|Identificar problemas na interação e interface|
+|  ID   |                                                                   Descrição                                                                   |                    Objetivo                    |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
+|  01   |                                                O storyboard apresenta ator semelhante ao real?                                                |     Verificar a conformidade com um padrão     |
+|  02   |                                          O storyboard apresenta ambiente(s) semelhante(s) aos reais?                                          |     Verificar a conformidade com um padrão     |
+|  03   |                                          O storyboard apresenta tarefas condizentes com a realidade?                                          |     Verificar a conformidade com um padrão     |
+|  04   |                                  O storyboard apresenta uma sequência de tarefas condizente com a realidade?                                  |     Verificar a conformidade com um padrão     |
+|  05   |                                  De que maneira os usuários utilizam o sistema? Em que difere do planejado?                                   |      Analisar a apropriação da tecnologia      |
+|  06   |                                     O quanto os usuários são motivados a explorar novas funcionalidades?                                      |      Analisar a apropriação da tecnologia      |
+|  07   |                                   Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?                                    |      Analisar a apropriação da tecnologia      |
+|  08   | Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? Quais necessidades e desejos foram ou não atendidos? |      Analisar a apropriação da tecnologia      |
+|  09   |           A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?            |      Analisar a apropriação da tecnologia      |
+|  10   |                        O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho?                        |      Analisar a apropriação da tecnologia      |
+|  11   |                                      Há alternativas de design mais eficientes? Mais fáceis de aprender?                                      |    Comparar ideias e alternativas de design    |
+|  12   |  (Caso a pergunta 11 seja respondida) Qual das alternativas de design (a atual ou a proposta na pergunta 11) os usuários preferem? Por quê?   |    Comparar ideias e alternativas de design    |
+|  13   |                                                     O usuário consegue operar o sistema?                                                      | Identificar problemas na interação e interface |
+|  14   |                                      Que parte da interface e da interação deixa o usuário insatisfeito?                                      | Identificar problemas na interação e interface |
+|  15   |                                O usuário entende o que significa e para que serve cada elemento de interface?                                 | Identificar problemas na interação e interface |
+|  16   |                         Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?                          | Identificar problemas na interação e interface |
+|  17   |                               Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?                                | Identificar problemas na interação e interface |
 
 *Tabela 3 - Questionário*
 

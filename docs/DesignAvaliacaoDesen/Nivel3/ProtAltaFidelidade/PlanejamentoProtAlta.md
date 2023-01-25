@@ -2,9 +2,11 @@
 
 ## <a>Histórico de Versão</a>
 
-| Data de Realização | Data Prevista de Revisão | Versão |        Descrição        |                 Autor                  |                Revisor                |
-| :----------------: | :----------------------: | :----: | :---------------------: | :------------------------------------: | :-----------------------------------: |
-|     05/01/2023     |        06/01/2023        |  1.0   | Criação do planejamento | [Ana Luiza](https://github.com/AnHoff) | [Eduardo](https://github.com/edudsan) |
+| Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                    |
+| :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
+|     05/01/2023     |        06/01/2023        |  1.0   |   Criação do planejamento    |   [Ana Luiza](https://github.com/AnHoff)   |     [Eduardo](https://github.com/edudsan)     |
+|     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Thiago Olveira](https://github.com/Thiab394) |
+
 
 ## <a>Introdução</a>
 
@@ -18,12 +20,12 @@ Confira na tabela 1 abaixo o horário, local e participantes.
 
 <center>
 
-| Data       | Hora  | Local                    | Avaliador      | Usuário       | Avaliação            |
-| ---------- | ----- | ------------------------ | -------------- | ------------- | -------------------- |
-| 16/06/2023 | 16:00 | Online - Microsoft Teams | Pedro, Eduardo | Thiago        | Teste Piloto         |
-| 17/01/2023 | 19:00 | Presencial - a definir   | Pedro, Thiago  | Renan         | Teste de Usabilidade |
-| 18/01/2023 | 20:00 | Online - Microsoft Teams | Thiago, Pedro  | *A confirmar* | Teste de Usabilidade |
-| 18/01/2023 | 21:00 | Online - Microsoft Teams | Thiago, Pedro  | *A confirmar* | Teste de Usabilidade |
+| Data       | Hora  | Local                    | Avaliador      | Usuário   | Avaliação            |
+| ---------- | ----- | ------------------------ | -------------- | --------- | -------------------- |
+| 16/06/2023 | 16:00 | Online - Microsoft Teams | Pedro, Eduardo | Thiago    | Teste Piloto         |
+| 17/01/2023 | 19:00 | Presencial - a definir   | Pedro, Thiago  | Renan     | Teste de Usabilidade |
+| 18/01/2023 | 20:00 | Online - Microsoft Teams | Thiago, Pedro  | Nicolas   | Teste de Usabilidade |
+| 18/01/2023 | 21:00 | Online - Microsoft Teams | Thiago, Pedro  | Guilherme | Teste de Usabilidade |
 
 *Tabela 1 - Cronograma das avaliações*
 
@@ -54,13 +56,6 @@ A confecção do protótipo de alta fidelidade se deu em algumas etapas que pode
 
 No protótipo de alta fidelidade, tem-se 2 tarefas disponíveis para serem realizadas: ativar débito automático e solicitar restituição; essas tarefas podem ser conferidas [aqui](../../../Tarefas/Analise.md). O usuário do Simples Nacional irá interagir com o protótipo a partir das instruções do avaliador, seguindo um caminho pré-definido e comentando em voz alta o que passa em sua mente durante a realização das tarefas.
 
-<!-- O protótipo confeccionado pode ser conferido na figura 1 abaixo ou em [PDF](../../../assets/protalta/protalta.pdf).
-
-<center>
-
-<img src="../../../assets/protalta/protalta.jpg">*Figura 1 - Protótipo de Alta Fidelidade (Elaboração própria: )*<img>
-
-</center> -->
 
 ## <a>Metodologia</a>
 
@@ -96,7 +91,7 @@ O teste piloto requer as seguintes etapas para ser conduzido:
 1. **Site**: Simples Nacional (protótipo que reformula o design original, propondo melhorias de usabilidade);
 2. **Script do teste**: apresentado no presente documento;
 3. **Local**: o usuário e o avaliador devem estar em salas silenciosas com boa conexão à internet e devem possuir bons microfones. De preferência, deve-se deixar a câmera aberta durante o uso do protótipo. Será utilizada a plataforma Microsoft Teams para isso e apenas as pessoas requisitadas estarão presentes na reunião;
-4. **Teste Piloto**: será realizado em breve e estará presente <!-- [aqui](../../TestesPiloto/TestePilotoProtAlta.md);-->
+4. **Teste Piloto**: será realizado em breve e estará presente [aqui](../../TestesPiloto/TestePilotoProtAlta.md);
 5. **Recrutamento do usuário**: os usuários recrutados podem ser conferidos no cronograma desse documento;
 6. **Condução do teste**;
 7. **Análise dos resultados**: foca em revisar problemas encontrados, priorizar problemas baseados em frequência e severidade, identificar possíveis soluções;

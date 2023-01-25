@@ -2,15 +2,16 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|23/01/2022|24/01/2022|1.0|Criação do Documento|[Ana Luiza](https://github.com/AnHoff)|-|
+| Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                    |
+| :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
+|     23/01/2022     |        24/01/2022        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   |  [João Lucas](https://github.com/HacKairos)   |
+|     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Thiago Olveira](https://github.com/Thiab394) |
 
 ## <a>Introdução </a>
 O presente documento visa apresentar o protótipo de papel elaborado pela equipe e relatar quais eram os objetivos em sua elaboração. Além disso, haverão novas análises sobre as metas de usabilidade do site reformulado em nosso protótipo.
 
 ## <a>Metodologia</a>
-O protótipo foi elaborado com o uso do [Figma](../../../Planejamento/Ferramentas.md). As principais tarefas nele presentes foram discutidas por todo o grupo e foram aplicadas no protótipo pelo integrante [João Lucas](https://github.com/HacKairos). O cronograma planejado para sua elaboração pode ser conferido no documento de [Planejamento do Protótipo de Alta Fidelidade](./PlanejamentoProtAlta.md).
+O protótipo foi elaborado com o uso do [Figma](../../../Planejamento/Ferramentas.md). As principais tarefas nele presentes foram discutidas por todo o grupo, sendo aplicadas no protótipo pelo integrante [João Lucas](https://github.com/HacKairos). O cronograma planejado para sua elaboração pode ser conferido no documento de [Planejamento do Protótipo de Alta Fidelidade](./PlanejamentoProtAlta.md).
 
 A elaboração foi centrada sobre as opiniões e sugestões dos usuários sobre os documentos previamente elaborados, assim como na melhoria de pontos que promoviam o cometimento de erros por parte do usuário. Além disso, por se tratar de um site elaborado pela [Receita Federal](https://www.gov.br/receitafederal/pt-br), uma reformulação realista do sistema usaria o guia de estilo já elaborado para os sistemas ligados ao governo.
 
@@ -27,17 +28,17 @@ Os pontos que devem levar mais destaque para a prototipagem do projeto em quest�
 ## <a>Metas de Usabilidade</a>
 As [Metas de Usabilidade](../../../Tarefas/MetasUsabilidade.md) já abordadas nesse projeto foram revistas para a elaboração do protótipo de alta fidelidade [2]. O objetivo dessa revisão foi elaborar um roteiro para o caminho que devia ser tomado na elaboração de melhorias para o site atual. Essa atenção dedicada às metas de usabilidade foram imprescindíveis para o bom andamento do protótipo.
 
-O grupo pôde, a partir disso, determinar como checkpoints:
+O grupo pôde, a partir disso, determinar como pontos de controle:
 
 * **Eficácia**: o site deve permitir que os usuários encontrem informações sobre o Simples e acessem as funcionalidades desejadas;
 * **Eficiência**: os domínios devem responder à atividade do usuário da maneira mais rápida, fluida e eficiente, usando o mínimo possível de recursos;
-* **Segurança**: o sistema deve ser projetado para evitar ao máximo o número de erros cometidos pelos usuários, assim como para fornecer uma forma de recuperação simples e clara em caso de erros. Também devem haver telas de confirmação;
+* **Segurança**: o sistema deve ser projetado para evitar ao máximo o número de erros cometidos pelos usuários, assim como para fornecer uma forma de recuperação simples e clara em caso de erros. Também deve haver telas de confirmação;
 * **Utilidade**: o sistema deve fornecer formas de busca a informações, notícias, informações adequadas sobre o Simples Nacional e o acesso a informações ligadas ao CNPJ do usuário;
 * **Aprendizagem**: o sistema deve ser intuitivo, simples, claro e organizado para evitar a necessidade de gastar muito tempo com o treinamento de usuários;
 * **Memorização**: o sistema deve ter caminhos intuitivos, com ícones, imagens e linguagem consistente com as tarefas disponíveis;
 
 ## <a>Características da Plataforma</a>
-No documento [Características da Plataforma](../../../Tarefas/CaracteristicasPlataforma.md) há a listagem do que a plataforma deve oferecer ao usuário. Não é de responsabilidade de nosso grupo sugerir mudanças nas plataformas utilizadas pelo Simples Nacional, assim como sugerir a remoção de serviços ofertados e, portanto, todas as características da plataforma foram mantidas.
+No documento [Características da Plataforma](../../../Tarefas/CaracteristicasPlataforma.md) há a listagem do que a plataforma deve oferecer ao usuário. Não é de responsabilidade de nosso grupo sugerir mudanças nas plataformas utilizadas pelo Simples Nacional, assim como sugerir a remoção de serviços ofertados portanto, todas as características da plataforma foram mantidas.
 
 Apesar do grupo escolher manter as características, houve um esforço para melhorar todos os aspectos vistos como negativos pelos usuários. Em outras palavras, o site presente no protótipo apresenta todas as mesmas características que o site atual em funcionamento, porém de forma aprimorada.
 
@@ -54,11 +55,11 @@ Seguindo as observações sobre o quê e como aplicar melhorias na plataforma ex
 <center>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F9MHpLCsADuC4ZvVwzR6Dbj%2FUntitled%3Fnode-id%3D6%253A2%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D6%253A2%26show-proto-sidebar%3D1" allowfullscreen></iframe>
-
+Protótipo de Alta Fidelidade - Versão Final
 </center>
 
 ## <a>Conclusão</a>
-A elaboração do protótipo levou em conta grande parte das sugestões de melhorias abordadas pelos usários entrevistados durante o decorrer do projeto e, não menos importante, apresenta melhorias em diversos pontos falhos identificados junto aos requisitos.
+A elaboração do protótipo considerou grande parte das sugestões de melhorias abordadas pelos usuários entrevistados durante o decorrer do projeto e, não menos importante, apresenta melhorias em diversos pontos falhos identificados junto aos requisitos.
 
 Com tudo isso em mente, foi possível propor melhorias para o sistema atual e atualizar o Simples Nacional, o tornando uma plataforma atrativa e com maior qualidade.
 

@@ -1,9 +1,10 @@
 # Avaliação da Análise de Tarefas 
 
 ## <a>Histórico de Versão </a>
-|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor| 
-| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: | 
-|20/12/2022|21/12/2022|1.0|Criação do planejamento|[Arthur Taylor](https://github.com/Eruel6)| [João Lucas](https://github.com/Eruel6) | 
+| Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                    |
+| :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
+|     20/12/2022     |        21/12/2022        |  1.0   |   Criação do planejamento    | [Arthur Taylor](https://github.com/Eruel6) |    [João Lucas](https://github.com/Eruel6)    |
+|     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Thiago Olveira](https://github.com/Thiab394) |
 
 ## <a>Introdução </a>
 As metodologias selecionadas pelo grupo para a avaliação da análise de tarefas consistem na entrevista que visa a partir de usuários conseguir uma visão mais real  

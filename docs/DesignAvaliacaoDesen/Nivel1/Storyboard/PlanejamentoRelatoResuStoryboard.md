@@ -2,10 +2,11 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|14/12/2022|14/12/2022|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|
-|05/01/2023|06/01/2023|1.1|Ajustes e complementações|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|
+| Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
+| :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
+|     14/12/2022     |        14/12/2022        |  1.0   |     Criação do Documento     | [João Lucas](https://github.com/HacKairos) | [Ana Luiza](https://github.com/AnHoff) |
+|     05/01/2023     |        06/01/2023        |  1.1   |  Ajustes e complementações   |   [Ana Luiza](https://github.com/AnHoff)   | [Eduardo](https://github.com/edudsan)  |
+|     25/01/2023     |        25/01/2023        |  1.2   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Thiago](https://github.com/Thiab394)  |
 
 ## <a>Introdução</a>
 

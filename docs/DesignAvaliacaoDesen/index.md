@@ -2,13 +2,14 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|09/01/2023|10/01/2023|1.0|Criação do Documento|[João Lucas](https://github.com/HacKairos)|[-](https://github.com/)|
+| Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                |
+| :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-----------------------------------: |
+|     09/01/2023     |        10/01/2023        |  1.0   |     Criação do Documento     | [João Lucas](https://github.com/HacKairos) | [Thiago Olveira](https://github.com/Thiab394) |
+|     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Thiago Olveira](https://github.com/Thiab394) |
 
 ## <a>Introdução</a>
 
-O trabalho de design começa assim que o perfil de requisitos é criado. Em geral, existem dois tipos de projeto: projeto conceitual e projeto físico. A primeira trata do desenvolvimento de um modelo conceitual que capte como o produto será reorientado e como ele funciona, e a segunda trata dos detalhes do projeto, como telas, estrutura do menu, ícones e gráficos. Os designs evoluem iterativamente por meio de ciclos repetidos de envolvimento do usuário.<br>
+O trabalho de design começa assim que o perfil de requisitos é criado. Em geral, existem dois tipos de projeto: projeto conceitual e projeto físico. A primeira trata do desenvolvimento de um modelo conceitual que capte como o produto será reorientado e como ele funciona, e a segunda trata dos detalhes do projeto, como telas, estrutura do menu, ícones e gráficos. Os designs evoluem iterativamente por meio de ciclos repetidos de envolvimento do usuário.[1]<br>
 
 ## <a>Metodologia</a>
 Para avaliar efetivamente os designs de produtos interativos, os designers devem criar versões interativas de suas ideias. Estágio inicial de desenvolvimento. Essas versões interativas podem ser feitas de papel e papelão. À medida que o projeto avança e as ideias  se tornam mais detalhadas, elas podem  ser peças de software (sofisticadas) ou peças de metal ou plástico que já se parecem com produtos acabados. Uma das atividades para a construção desta versão interativa chama-se "prototipagem e construção".<br>

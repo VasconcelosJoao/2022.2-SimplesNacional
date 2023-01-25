@@ -2,9 +2,10 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|01/01/2023|02/01/2023|1.0|Criação do planejamento|[Ana Luiza](https://github.com/AnHoff)|[Thiago Oliveira](https://github.com/Thiab394)|
+| Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                     |
+| :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :--------------------------------------------: |
+|     01/01/2023     |        02/01/2023        |  1.0   |   Criação do planejamento    |   [Ana Luiza](https://github.com/AnHoff)   | [Thiago Oliveira](https://github.com/Thiab394) |
+|     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Thiago Olveira](https://github.com/Thiab394)  |
 
 ## <a>Introdução</a>
 
@@ -12,17 +13,17 @@ Sistemas interativos de qualidade precisam passar por avaliações de interaçã
 
 ## <a>Cronograma</a>
 
-Será seguido um cronograma para realizar as atividades que serão apresentadas; a quantidade de usuários avaliados será 2, ambos usuários reais, além da realização do teste piloto com um integrante da equipe. Esse número se mostra o suficiente para representar usuários com diferentes visões do Simples Nacional.
+Será seguido um cronograma para realizar que atividades serão apresentadas; a quantidade de usuários avaliados será 2, ambos usuários reais, além da realização do teste piloto com um integrante da equipe. Esse número se mostra o suficiente para representar usuários com diferentes visões do Simples Nacional.
 
 Confira na tabela 1 abaixo o horário, local e participantes.
 
 <center>
 
-|Data|Hora|Local|Avaliador|Usuário|Avaliação|
-|---|---|---|---|---|---|
-|05/01/2023|16:00|Online - Microsoft Teams|Pedro|Thiago|Teste Piloto|
-|06/01/2023|19:00|Presencial - a definir|Pedro|Renan|Entrevista|
-|10/01/2023|20:00|Online - Microsoft Teams|Thiago, Pedro|Nicolas|Entrevista|
+| Data       | Hora  | Local                    | Avaliador     | Usuário | Avaliação    |
+| ---------- | ----- | ------------------------ | ------------- | ------- | ------------ |
+| 05/01/2023 | 16:00 | Online - Microsoft Teams | Pedro         | Thiago  | Teste Piloto |
+| 06/01/2023 | 19:00 | Presencial - a definir   | Pedro         | Renan   | Entrevista   |
+| 10/01/2023 | 20:00 | Online - Microsoft Teams | Thiago, Pedro | Nicolas | Entrevista   |
 
 *Tabela 1 - Cronograma das avaliações*
 
@@ -32,20 +33,20 @@ Confira na tabela 1 abaixo o horário, local e participantes.
 
 Um protótipo de papel é um tipo de prototipação de baixa fidelidade, ou seja, apresenta um produto que não é muito parecido com o produto final, apesar de ter que apresentar as mesmas qualidades mínimas como tamanho e funções básicas. Esse recurso é especialmente útil para coletar pontos positivos e negativos sobre uma funcionalidade específica ou sobre o produto pensado de forma geral.
 
-O projeto se trata de GUI, Graphical User Interface. Esse é um tipo de interface que permite a interação do humano com dispositivos digitais a partir de elementos gráficos extremamente comuns nos sites atuais, como ícones e outros tipos de indicadores visuais. Assim, o protótipo de papel se encarrega de apresentar um rascunho do site para o usuário e foca em algumas funcionalidades específicas que serão elaboradas com baixo investimento em design. Em outras palavras, esse tipo de protótipo irá focar no caminho que o usuário irá percorrer ao realizar uma tarefa, com poucos recursos de design interferindo ou o distraindo.
+O projeto se trata de GUI, Graphical User Interface. Esse é um tipo de interface que permite a interação humana com dispositivos digitais a partir de elementos gráficos extremamente comuns nos sites atuais, como ícones e outros tipos de indicadores visuais. Assim, o protótipo de papel se encarrega de apresentar um rascunho do site para o usuário e foca em algumas funcionalidades específicas que serão elaboradas com baixo investimento em design. Em outras palavras, esse tipo de protótipo irá focar no caminho que o usuário irá percorrer ao realizar uma tarefa, com poucos recursos de design interferindo ou o distraindo.
 
 A utilização desse tipo de prototipagem possui benefícios como: esclarecimento de requisitos, realização de testes iniciais e promove reflexões sobre o design.
 
-A confecção do protótipo de papel se deu em algumas etapas que podem ser conferidas na tabela 1 abaixo.
+A confecção do protótipo de papel se deu em algumas etapas que podem ser conferidas na tabela 2 abaixo.
 <br><br>
 
 <center>
 
-|Data|Descrição|Responsáveis|Revisores|
-|---|---|---|---|
-|01/01/2023|Decidir tarefas abordadas no Protótipo de Papel|Thiago, João, Ana, Eduardo|Arthur, Pedro|
-|02/01/2023|Confecção do Protótipo de Papel|Ana|João, Eduardo|
-|03/01/2023|Adaptações com base no feedback dos revisores|Ana|Arthur, Pedro|
+| Data       | Descrição                                       | Responsáveis               | Revisores     |
+| ---------- | ----------------------------------------------- | -------------------------- | ------------- |
+| 01/01/2023 | Decidir tarefas abordadas no Protótipo de Papel | Thiago, João, Ana, Eduardo | Arthur, Pedro |
+| 02/01/2023 | Confecção do Protótipo de Papel                 | Ana                        | João, Eduardo |
+| 03/01/2023 | Adaptações com base no feedback dos revisores   | Ana                        | Arthur, Pedro |
 
 *Tabela 2 - Planejamento do Storyboard*
 
@@ -83,7 +84,7 @@ Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, 
 
 Os usuários deverão realizar as tarefas mais procuradas por quem acessa o Simples Nacional. Para isso, haverão alguns passos a serem seguidos.
 
-### <a>A1: Ativar Débito Automático</a>
+### <a>Ativar Débito Automático</a>
 
 **Dados necessários:**
 
@@ -104,7 +105,7 @@ Os usuários deverão realizar as tarefas mais procuradas por quem acessa o Simp
 8. Confirmar formulário;
 9. Clicar no check de confirmação final.
 
-### <a>A2: Solicitar Restituição</a>
+### <a>Solicitar Restituição</a>
 
 **Dados necessários:**
 
@@ -138,23 +139,23 @@ O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser c
 
 **Avaliadores designados:** Pedro, Arthur, Eduardo
 
-| ID | Descrição | Objetivo |
-| :---: | :-------: | :------: |
-|01|O protótipo de papel apresenta tarefas condizentes com a realidade?|Verificar a conformidade com um padrão|
-|02|O protótipo apresenta uma sequência de tarefas condizente com a realidade?|Verificar a conformidade com um padrão|
-|03|De que maneira o usuário utiliza o sistema? Em que difere do planejado?|Analisar a apropriação da tecnologia|
-|04|O quanto os usuários são motivados ou desejam explorar novas funcionalidades?|Analisar a apropriação da tecnologia|
-|05|Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?|Analisar a apropriação da tecnologia|
-|06|Os objetivos dos usuários podem ser alcançados facilmente através do sistema? Quais necessidades e desejos foram ou não atendidos?|Analisar a apropriação da tecnologia|
-|07|O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho?|Analisar a apropriação da tecnologia|
-|08|A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?|Analisar a apropriação da tecnologia|
-|09|Há alternativas de design mais eficientes? Mais fáceis de aprender?|Comparar ideias e alternativas de design|
-|10|(Caso a pergunta 09 seja respondida) Qual das alternativas de design (a versão atual do site ou a proposta no protótipo) os usuários preferem? Por quê?|Comparar ideias e alternativas de design|
-|11|O usuário consegue operar o sistema?|Identificar problemas na interação e interface|
-|12|Que parte da interface e da interação deixa o usuário insatisfeito?|Identificar problemas na interação e interface|
-|13|O usuário entende para que serve cada elemento de interface?|Identificar problemas na interação e interface|
-|14|Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?|Identificar problemas na interação e interface|
-|15|Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?|Identificar problemas na interação e interface|
+|  ID   |                                                                        Descrição                                                                        |                    Objetivo                    |
+| :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
+|  01   |                                           O protótipo de papel apresenta tarefas condizentes com a realidade?                                           |     Verificar a conformidade com um padrão     |
+|  02   |                                       O protótipo apresenta uma sequência de tarefas condizente com a realidade?                                        |     Verificar a conformidade com um padrão     |
+|  03   |                                         De que maneira o usuário utiliza o sistema? Em que difere do planejado?                                         |      Analisar a apropriação da tecnologia      |
+|  04   |                                      O quanto os usuários são motivados ou desejam explorar novas funcionalidades?                                      |      Analisar a apropriação da tecnologia      |
+|  05   |                                        Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?                                         |      Analisar a apropriação da tecnologia      |
+|  06   |           Os objetivos dos usuários podem ser alcançados facilmente através do sistema? Quais necessidades e desejos foram ou não atendidos?            |      Analisar a apropriação da tecnologia      |
+|  07   |                             O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho?                             |      Analisar a apropriação da tecnologia      |
+|  08   |                A tecnologia disponível pode oferecer maneiras mais interessantes ou eficientes de os usuários atingirem seus objetivos?                 |      Analisar a apropriação da tecnologia      |
+|  09   |                                           Há alternativas de design mais eficientes? Mais fáceis de aprender?                                           |    Comparar ideias e alternativas de design    |
+|  10   | (Caso a pergunta 09 seja respondida) Qual das alternativas de design (a versão atual do site ou a proposta no protótipo) os usuários preferem? Por quê? |    Comparar ideias e alternativas de design    |
+|  11   |                                                          O usuário consegue operar o sistema?                                                           | Identificar problemas na interação e interface |
+|  12   |                                           Que parte da interface e da interação deixa o usuário insatisfeito?                                           | Identificar problemas na interação e interface |
+|  13   |                                              O usuário entende para que serve cada elemento de interface?                                               | Identificar problemas na interação e interface |
+|  14   |                              Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?                               | Identificar problemas na interação e interface |
+|  15   |                                    Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?                                     | Identificar problemas na interação e interface |
 
 *Tabela 3 - Questionário*
 
@@ -162,7 +163,7 @@ O questionário será desenvolvido no Microsoft Forms e seu conteúdo pode ser c
 
 ## <a>Aspectos Éticos</a>
 
-Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../../Planejamento/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel e foi elaborado levando em consideração os [Aspectos Éticos](../../../Planejamento/AspectosEticos.md) para garantir o bem estar e o respeito ao voluntário participante.
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o [Termo de Consentimento](../../../Planejamento/ModeloTermoConsentimento.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel sendo elaborado considerando os [Aspectos Éticos](../../../Planejamento/AspectosEticos.md) para garantir o bem-estar e o respeito ao voluntário participante.
 
 ## <a>Interpretação</a>
 
@@ -172,7 +173,7 @@ A interpretação é um tópico subjetivo e muito variável, não havendo um mé
 * O usuário estava confortável e atento à tarefa que deveria realizar?
 * As respostas do questionário apresentam um bom alinhamento de ideias?
 * As respostas foram diretas ou subjetivas? Houveram muitas histórias contadas pelo usuário durante as respostas?
-* Ainda de acordo com as respostas, pode-se concluir que o usuário tem uma boa relação com o Simples Nacional?
+* Ainda conforme as respostas, pode-se concluir que o usuário tem uma boa relação com o Simples Nacional?
 
 ## <a>Avaliação dos Resultados</a>
 

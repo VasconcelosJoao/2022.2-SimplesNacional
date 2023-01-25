@@ -2,10 +2,11 @@
 
 ## <a>Histórico de Versão</a>
 
-|Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|11/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)|
-|24/01/2023|25/01/2023|1.1|Correção com base na Verificação|[Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)|
+| Data de Realização | Data Prevista de Revisão | Versão |            Descrição             |                     Autor                      |                  Revisor                   |
+| :----------------: | :----------------------: | :----: | :------------------------------: | :--------------------------------------------: | :----------------------------------------: |
+|     11/01/2022     |        11/01/2022        |  1.0   |       Criação do Documento       | [Thiago Oliveira](https://github.com/Thiab394) |   [Ana Luiza](https://github.com/AnHoff)   |
+|     24/01/2023     |        25/01/2023        |  1.1   | Correção com base na Verificação | [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
+|     25/01/2023     |        25/01/2023        |  1.3   |   Padronização e Revisão Final   |   [João Lucas](https://github.com/HacKairos)   |   [Thiago](https://github.com/Thiab394)    |
 
 ## <a>Introdução </a>
 Este documento contempla o relato dos resultados do Storyboard, onde foi utilizado a metodologia de entrevistas realizadas em uma chamada online ao vivo.
@@ -49,7 +50,10 @@ Antes de realizar a entrevista foi feito um [Teste Piloto](https://interacao-hum
 
 #### <a>Entrevista e Anotações Nicolas</a>
 <center>
+No vídeo a seguir a entrevista com Nicolas:
+
 <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/EaglXgTJUEY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Vídeo 1 - entrevista com Nicolas
 </center><br></br>
 
 
@@ -113,7 +117,10 @@ do site, no problema do codigo para emitir o DAS.
 
 #### <a>Entrevista e Anotações Renan</a>
 <center>
+No vídeo a seguir a entrevista com Renan:
+
 <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/MqAMxyakpoA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Vídeo 2 - entrevista com Renan
 </center><br></br>
 
 
@@ -136,7 +143,10 @@ Anotações retiradas da entrevista:
 
 #### <a>Entrevista e Anotações Guilherme</a>
 <center>
+No vídeo a seguir a entrevista com Guilherme:
+
 <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/E0FEMBB2-e0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Vídeo 2 - entrevista com Guilherme
 </center><br></br>
 
 

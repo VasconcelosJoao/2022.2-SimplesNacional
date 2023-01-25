@@ -1,9 +1,10 @@
 # Termo de Consentimento da Avaliação do protótipo de Papel
 ## <a>Histórico de Versão</a>
 
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:----------:| :------: | :-----------: | :---------: |:---------: |
-|10/01/2022|11/01/2022|1.0|Criação do Termo de Consentimento| [Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)
+|    Data    | Data Prevista de Revisão | Versão |             Descrição             |                     Autor                      |                    Revisor                    |
+| :--------: | :----------------------: | :----: | :-------------------------------: | :--------------------------------------------: | :-------------------------------------------: |
+| 10/01/2022 |        11/01/2022        |  1.0   | Criação do Termo de Consentimento | [Thiago Oliveira](https://github.com/Thiab394) |  [João Lucas](https://github.com/HacKairos)   |
+| 25/01/2023 |        25/01/2023        |  1.1   |   Padronização e Revisão Final    |   [João Lucas](https://github.com/HacKairos)   | [Thiago Olveira](https://github.com/Thiab394) |
 
 ## <a>Termo de Consentimento Livre e Esclarecido</a>
 
@@ -13,21 +14,21 @@
 
 **Nome do(s) Pesquisadores assistentes/alunos**: Thiago Oliveira Cunha
 
-1.	**Natureza da pesquisa**: O senhor(a) está sendo convidado(a) a participar desta pesquisa que tem como finalidade coletar dados acerca da exatidão do protótipo de Papel realizado pelo grupo 3.
-2.	**Participantes da pesquisa**: 2 participante, com foco em perfis semelhantes ao [Perfil do Usuário](../../Tarefas/perfilUsuario.md).
-3.	**Envolvimento na pesquisa**: Ao participar deste estudo o senhor(a) permitirá que o(a) pesquisador(a) colete e utilize todos os dados falados durante a entrevista para pesquisa e 
+1.  **Natureza da pesquisa**: O senhor(a) está sendo convidado(a) a participar desta pesquisa cuja finalidade é coletar dados acerca da exatidão do protótipo de Papel realizado pelo grupo 3.
+2.  **Participantes da pesquisa**: 2 participante, com foco em perfis semelhantes ao [Perfil do Usuário](../../Tarefas/perfilUsuario.md).
+3.  **Envolvimento na pesquisa**: Ao participar deste estudo o senhor(a) permitirá que o(a) pesquisador(a) colete e utilize todos os dados falados durante a entrevista para pesquisa e 
 Melhora do site do Simples Nacional. O senhor(a) tem liberdade de se recusar a participar e ainda se recusar a continuar participando em qualquer fase da pesquisa, 
-sem qualquer prejuízo para o senhor(a). Sempre que quiser, poderá pedir mais informações sobre a pesquisa através do email do(a) pesquisador(a) do projeto.
-4.	**Riscos e desconforto**: A participação nesta pesquisa não traz complicações legais. Os procedimentos adotados nesta pesquisa obedecem aos Critérios da Ética em Pesquisa com Seres Humanos conforme Resolução no. 196/96 do Conselho Nacional de Saúde. Nenhum dos procedimentos usados oferece riscos à sua dignidade.
-5.	**Confidencialidade**: Todas as informações coletadas neste estudo são estritamente confidenciais. Somente os(as) pesquisadores(as) terão conhecimento dos dados.
-6.	**Benefícios**: Ao participar desta pesquisa o senhor(a) não terá nenhum benefício direto. Entretanto, esperamos que este estudo traga informações importantes sobre a avaliação do protótipo de Papel,
+sem qualquer prejuízo para o senhor(a). Sempre que quiser, poderá pedir mais informações sobre a pesquisa através do e-mail do(a) pesquisador(a) do projeto.
+4.  **Riscos e desconforto**: A participação nesta pesquisa não traz complicações legais. Os procedimentos adotados nesta pesquisa obedecem aos Critérios da Ética em Pesquisa com Seres Humanos conforme Resolução no. 196/96 do Conselho Nacional de Saúde. Nenhum dos procedimentos usados oferece riscos à sua dignidade.
+5.  **Confidencialidade**: Todas as informações coletadas neste estudo são estritamente confidenciais. Somente os(as) pesquisadores(as) terão conhecimento dos dados.
+6.  **Benefícios**: Ao participar desta pesquisa o senhor(a) não terá nenhum benefício direto. Entretanto, esperamos que este estudo traga informações importantes sobre a avaliação do protótipo de Papel,
 de forma que o conhecimento que será construído a partir desta pesquisa possa trazer grandes melhorias para o site do Simples Nacional no futuro, 
 onde pesquisador se compromete a divulgar os resultados obtidos. 
-7.	**Pagamento**: o senhor(a) não terá nenhum tipo de despesa para participar desta pesquisa, bem como nada será pago por sua participação.
+7.  **Pagamento**: o senhor(a) não terá nenhum tipo de despesa para participar desta pesquisa, bem como nada será pago por sua participação.
 
-Após estes esclarecimentos, solicitamos o seu consentimento de forma livre para participar desta pesquisa. Portanto preencha, por favor, os itens que se seguem.
+Após estes esclarecimentos, solicitamos o seu consentimento de forma livre para participar desta pesquisa. Portanto, preencha, por favor, os itens seguintes.
 
-**Obs:** Não assine esse termo se ainda tiver dúvidas a respeito da sua participação.
+**Obs.:** Não assine esse termo se ainda tiver dúvidas a respeito da sua participação.
 
 ### <a>Consentimento Livre e Esclarecido</a>
 Tendo em vista os itens acima apresentados, eu, de forma livre e esclarecida, manifesto meu consentimento em participar da pesquisa. 
