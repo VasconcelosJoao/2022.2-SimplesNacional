@@ -27,7 +27,7 @@ A seguir pode ser encontrado o vídeo confeccionado pelo grupo :
 
 <center>
 
-<iframe width="800" height="400" src="https://youtu.be/Euj-sxMNizM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/Euj-sxMNizM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Vídeo 01 - Teste-piloto. (Fonte: Autoria Própria - Eduardo).*
 
 </center>
