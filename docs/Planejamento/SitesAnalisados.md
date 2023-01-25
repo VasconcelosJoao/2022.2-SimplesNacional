@@ -6,6 +6,10 @@
 |22/11/2022|22/11/2022|1.0|Criação do Documento|[Pedro Lucas](https://github.com/PedroLSF)|[Ana](https://github.com/AnHoff)|
 |23/11/2022|23/11/2022|1.1|Adiciona bibliografia, links e conclusão|[Ana](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|
 |23/11/2022|23/11/2022|1.2|Adiciona Simples Nacional e Detran|[Pedro Lucas](https://github.com/PedroLSF)|[Ana](https://github.com/AnHoff)|
+|25/01/2023|25/01/2023|1.3|Correção com base na verificação|[Eduardo](https://github.com/edudsan)|[-](https://github.com/)|
+# Introdução
+
+Este tópcio tem como objetivo expor os sites analisados com o intuito de exibir as caracteríticas que motivaram a escolha do site Simples Nacional. Para realizar essa seleção foi utilizado as Heurísticas de Nielsen[1] para escolher o site que mais se adequa as necessidades da disciplina.
 
 Antes de definir o site conhecido como Simples Nacional, a equipe realizou algumas pesquisas e trabalhos relacionados a outros sites. Este documento irá listar e apresentar todos os aplicativos que foram levantados. <br>
 Caso queira ir diretamente às informações específicas do Simples Nacional, use o menu à lateral direita.
@@ -22,6 +26,8 @@ O responsável por essa pesquisa foi o Pedro Lucas. E os seguintes problemas for
 * Demora para atendimento com uma pessoa;
 * Necessidade de realizar download de um configurador de sistema.
 
+Conforme os problemas realatados acima podemos afirmar que o problema encontrado são os de usabilidade e acessibilidade. Possíveis forma de corrigir alguns dos problemas apresentados seria a apresentação de um site menos consgestionado, um suporte mais completo e ter tudo configurado no site se a necessidade de baixar algo para configura-lo.
+
 Essas características podem ser vistas no site e na avaliação abaixo.
 
 Planejamento: [Planejamento Individual - Pedro Lucas](https://github.com/Interacao-Humano-Computador/2022.2-SimplesNacional/files/10075960/ProjetoParteIndividualMetodoeAvalicaoPedroLucasSiqueiraFernandes.1.pdf)<br>
@@ -36,6 +42,8 @@ O responsável por essa pesquisa foi o Eduardo. Segue alguns pontos analisados:
 * Problemas de leitura no modo escuro;
 * Ausência do menu ao acessar uma opção do menu principal;
 * O botão de “previsão do tempo” não funciona ao acessar o menu “meio ambiente”.
+
+Conforme os problemas realatados acima podemos afirmar que o problema encontrado são os de usabilidade e acessibilidade. Possíveis forma de corrigir alguns dos problemas apresentados seria a correção no template do modo escuro, botão para redirecionar ao menu principal presente em todas as telas e correção do botão previsão do tempo.
 
 Essas características podem ser vistas no site e na avaliação abaixo.
 
