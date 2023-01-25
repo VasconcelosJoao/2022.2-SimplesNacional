@@ -11,14 +11,14 @@ theme:
   palette: 
     - scheme: default
       primary: yellow
-      accent: green
+      accent: yellow
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
     - scheme: slate
       primary: green
-      accent: yellow
+      accent: green
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
