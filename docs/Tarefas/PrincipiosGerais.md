@@ -1,13 +1,14 @@
 # Princípios Gerais
 
 ## <a>Histórico de Versão</a>
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|11/11/2022|12/11/2022|1.0|Criação do Documento de Políticas| [Pedro Lucas](https://github.com/PedroLSF) e [Eduardo Santos](https://github.com/edudsan)|[Ana Luiza](https://github.com/AnHoff)|
-|20/11/2022|21/11/2022|1.1|Adiciona aplicação dos princípios no projeto|[Eduardo Santos](https://github.com/edudsan)|[Arthur Taylor](https://github.com/Eruel6) |
+|    Data    | Data Prevista de Revisão | Versão |                  Descrição                   |                    Autor                     |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------------------------------: | :------------------------------------------: | :----------------------------------------: |
+| 11/11/2022 |        12/11/2022        |  1.0   |      Criação do Documento de Políticas       |  [Pedro Lucas](https://github.com/PedroLSF)  |   [Ana Luiza](https://github.com/AnHoff)   |
+| 20/11/2022 |        21/11/2022        |  1.1   | Adiciona aplicação dos princípios no projeto | [Eduardo Santos](https://github.com/edudsan) | [Arthur Taylor](https://github.com/Eruel6) |
+| 25/01/2023 |        25/01/2023        |  1.2   |         Padronização e Revisão Final         |  [João Lucas](https://github.com/HacKairos)  | [Pedro Lucas](https://github.com/PedroLSF) |
 
 ## <a>Introdução</a>
-Os princípios gerais do projeto são fundamentais para o desenvolvimento do projeto. Esses princípios geralmente são utilizados como roteiro para a elaboração e aperfeiçoamento do projeto selecionado [1]. Os princípios gerais usados estão ligados as seguintes partes: 
+Os princípios gerais do projeto são fundamentais para o desenvolvimento do projeto. Esses princípios são geralmente utilizados como roteiro para a elaboração e aperfeiçoamento do projeto selecionado [1]. Os princípios gerais usados estão ligados as seguintes partes: 
 
 ## <a>Princípios Gerais</a>
 **• Encontrabilidade:** é como o usuário consegue obter informações dispostas no site, seja para o usuário que está fora do site ou para o usuário que já está navegando no site. 
@@ -22,17 +23,17 @@ Os princípios gerais do projeto são fundamentais para o desenvolvimento do pro
 
 ## <a>Aplicação dos princípios no projeto</a>
 
-### <a>• Conteúdo Relevante e Expressão Adequada</a>
+### <a>Conteúdo Relevante e Expressão Adequada</a>
 
-Podemos perceber no site do Simples Nacional, possui botões que não são muito intuitivos, como no caso da chave que aparece em referência para fazer login utilizando o código de acesso. Desse modo acaba não sendo muito claro o que deve ser feito
+Podemos perceber no site do Simples Nacional, possui botões que não são muito intuitivos, como na chave que aparece em referência para fazer login utilizando o código de acesso. Desse modo acaba não sendo muito claro o que deve ser feito
 
-### <a>• Correspondência com as Expectativas dos Usuários</a>
+### <a>Correspondência com as Expectativas dos Usuários</a>
 
 No site do Simples Nacional possui dois tipos de menus com praticamente as mesmas funcionalidades, ondo quando realiza login no menu "Simples" o usuário é redirecionado para uma página com estilos diferentes de quando se loga no menu "Simei".
 
-### <a>• Consistência e padronizção</a>
+### <a>Consistência e padronização</a>
 
-Conforme o usuário acessa algum menu, seja o "Simples" ou o "Simei", os botões de deslogar possuem símbolos diferentes. A logo do Simples Nacional perde a função de levar para a página inicial quando se loga em algum menu. Dessa forma o usuário acaba tendo dificuldade de entender o que fazer em determinadas páginas.
+Conforme o usuário acessa algum menu, seja o "Simples" ou o "Simei", os botões de desconectar possuem símbolos diferentes. A logo do Simples Nacional perde a função de levar para a página inicial quando se loga em algum menu. Dessa forma o usuário acaba tendo dificuldade de entender o que fazer em determinadas páginas.
 
 ## <a>Bibliografia</a>
 

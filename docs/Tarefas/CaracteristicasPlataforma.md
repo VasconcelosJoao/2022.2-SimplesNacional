@@ -1,13 +1,14 @@
 # Características da Plataforma 
 
 ## <a>Histórico de Versão </a>
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor| 
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: | 
-|11/12/2022|12/12/2022|1.0|Criação do documento| [João Lucas](https://github.com/HacKairos) | [Eduardo](https://github.com/edudsan) | 
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 11/12/2022 |        12/12/2022        |  1.0   |     Criação do documento     | [João Lucas](https://github.com/HacKairos) |   [Eduardo](https://github.com/edudsan)    |
+| 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
 
 ## <a>Introdução </a>
-Como parte da análise de requisitos do ciclo de vida de Mayhew, as características da plataforma estão relacionadas às características do usuário e também estão relacionadas aos critérios de usabilidade. Esta é uma análise que aborda tecnologia, portabilidade e outros aspectos importantes da plataforma. Considere o que seus usuários desejam e quais são os principais recursos do seu produto. Representado na figura abaixo parte desse ciclo. 
-<center><img src="../../assets/images/Mayhew2.png" width="800" height=auto>Figura 1 - Análise de requisitos do ciclo de vida de Mayhew.<img></center> 
+Como parte da análise de requisitos do ciclo de vida de Mayhew, as características da plataforma estão relacionadas às características do usuário e também estão relacionadas aos critérios de usabilidade. Esta é uma análise que aborda tecnologia, portabilidade e outros aspectos importantes da plataforma. Considere o que seus usuários desejam e quais são os principais recursos do seu produto. Representado na figura abaixo parte desse ciclo. [1]
+<center><img src="../../assets/images/Mayhew2.png" width="800" height=auto>*Figura 1 - Análise de requisitos do ciclo de vida de Mayhew*.<img></center> 
 
 ## <a>Objetivo </a>
 O objetivo deste documento é descrever as características do site do Simples Nacional a fim de realizar um levantamento de requisitos a fim de desenvolver propostas de intervenções para melhoria da plataforma. 
@@ -20,7 +21,7 @@ A portabilidade, conforme definido pela ISO/IEC 25010, é um dos indicadores de 
 
 ## <a>Tecnologias Utilizadas </a>
 A imagem abaixo contém todas as tecnologias da extensão Google Chrome Webalyzer. 
-<center><img src="../../assets/images/Funcio.png" width="800" height=auto>Figura 2 - Tecnologias utilizadas no site.<img></center> 
+<center><img src="../../assets/images/Funcio.png" width="800" height=auto>*Figura 2 - Tecnologias utilizadas no site*.<img></center> 
 
 ## <a>Funcionalidades </a>
 O site é focado em resolver problemas em relação econômica dos MEI, fornece acesso a notícias e leis ou projeto de leis para os micro empreendedores individuais, Ele contém uma grande variedade de funcionalidades, dividido principalmente em duas seções a do Simples e a do Simei, e muitas delas acabam sendo redundantes, sendo possível: 
@@ -72,8 +73,8 @@ O site é focado em resolver problemas em relação econômica dos MEI, fornece 
 - Emissão de DAS do AINF.<br/> 
 
 ## <a>Características Negativas </a>
-O site possui diversos problemas de usabilidade que podem ser analisados, como por exemplo a falta de independência do site, o qual muitas vezes acaba redirecionando o usuário para o site da receita federal ou outra entidade do governo, como pode ser visto na figura 3, além disso, a existência de muitos caminhos diferentes para realizar uma mesma ação, onde essas diferentes rotas causam estranheza ao usuário. Outra característica negativa é o lapso de intuitividade dentro do sistema, o usuário passa por certa dificuldade para entender como realizar certas ações e até mesmo como acessa-las. 
-<center><img src="../../assets/images/Receita.png" width="800" height=auto>Figura 3 - Site da receita ao tentar realizar Consulta de Declaração Transmitida do MEI.<img></center> 
+O site possui diversos problemas de usabilidade que podem ser analisados, como por exemplo a falta de independência do site, o qual muitas vezes acaba redirecionando o usuário para o site da receita federal ou outra entidade do governo, como pode ser visto na *figura 3*, além disso, a existência de muitos caminhos diferentes para realizar uma mesma ação, onde essas diferentes rotas causam estranheza ao usuário. Outra característica negativa é o lapso de intuitividade dentro do sistema, o usuário passa por certa dificuldade para entender como realizar certas ações e até mesmo como acessa-las. [3]
+<center><img src="../../assets/images/Receita.png" width="800" height=auto>*Figura 3 - Site da receita ao tentar realizar Consulta de Declaração Transmitida do MEI*.<img></center> 
 
 ## <a>Bibliografia </a>
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. <b>Interação Humano-Computador e Experiência do usuário</b>. Auto publicação. 2021.<br> 

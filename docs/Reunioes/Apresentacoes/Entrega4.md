@@ -23,6 +23,6 @@ A reunião foi realizada dia 14 de dezembro de 2022, de forma remota com início
 
 ## <a>Gravação</a>
 A seguir a gravação do Quarto Ponto de Controle :
-<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/S741_WSpXfQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/IrlUb9FxGlo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Video 1 - Quarto Ponto de Controle*
 </center>
