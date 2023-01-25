@@ -91,7 +91,7 @@ O teste piloto requer as seguintes etapas para ser conduzido:
 1. **Site**: Simples Nacional (protótipo que reformula o design original, propondo melhorias de usabilidade);
 2. **Script do teste**: apresentado no presente documento;
 3. **Local**: o usuário e o avaliador devem estar em salas silenciosas com boa conexão à internet e devem possuir bons microfones. De preferência, deve-se deixar a câmera aberta durante o uso do protótipo. Será utilizada a plataforma Microsoft Teams para isso e apenas as pessoas requisitadas estarão presentes na reunião;
-4. **Teste Piloto**: será realizado em breve e estará presente [aqui](../../TestesPiloto/TestePilotoProtAlta.md);
+4. **Teste Piloto**: será realizado em breve e estará presente [aqui](../../TestesPiloto/TestePilotoProtAltaFidelidade.md);
 5. **Recrutamento do usuário**: os usuários recrutados podem ser conferidos no cronograma desse documento;
 6. **Condução do teste**;
 7. **Análise dos resultados**: foca em revisar problemas encontrados, priorizar problemas baseados em frequência e severidade, identificar possíveis soluções;
