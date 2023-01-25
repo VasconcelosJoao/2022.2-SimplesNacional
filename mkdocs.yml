@@ -101,15 +101,18 @@ nav:
       - Protótipo de Alta Fidelidade:
         - Planejamento da Avaliação: DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoProtAlta.md
         - Planejamento do Relato : DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoRelatoResuProtAlta.md
+        - Relato de Resultados: DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/RelatoResProtAlta.md
     - Testes Piloto: 
       - Storyboard: DesignAvaliacaoDesen/TestesPiloto/TestePilotoStoryboard.md
       - Analise de Tarefas: DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas.md
       - Avaliação do 1º Nível: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoAvaliacoes.md
       - Protótipo de Papel: DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtPapel.md
+      - Protótipo de Alta Fidelidade: DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtAltaFidelidade.md
     - Termos de consentimento:
       - Avaliação da Analise de Tarefas: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoAnaliseTarefas.md
       - Avaliação do Storyboard: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoStoryboard.md
       - Avaliação do Protótipo de Papel: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtPapel.md
+      - Avaliação do Protótipo de Alta Fidelidade: DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtAlta.md
   - Verificação:
     - Introdução: Verificacao/index.md
     - Planejamento:

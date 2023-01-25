@@ -90,7 +90,7 @@ O storyboard confeccionado pode ser conferido na figura 3 abaixo ou em [PDF](../
 
 No storyboard confeccionado, tem-se um ator fictício, baseado em um perfil real, que deseja realizar a tarefa de Realizar a Restituição. O ator encontra alguns problemas do mundo real, como filas e burocracias, e procura, a partir do uso do site, conseguir Realizar a Restituição de seus boletos. Assim, o objetivo final do ator é evitar a necessidade de ir até agências físicas para realizar um processo básico para não ter que desperdiçar seu tempo com locomoção e filas.
 
-O storyboard confeccionado pode ser conferido na figura 4 abaixo ou em [PDF](../../../assets/storyboard/storyboarDesativarDebitoAutomatico.pdf).
+O storyboard confeccionado pode ser conferido na figura 4 abaixo ou em [PDF](../../../assets/storyboard/storyboardDesativarDebitoAutomatico.pdf).
 
 <center>
 
