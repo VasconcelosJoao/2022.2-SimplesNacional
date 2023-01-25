@@ -1,8 +1,9 @@
 # Verificação do Termo de Consentimento
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                  |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :------------------------------------: | :----------------------------------------: |
-| 18/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Ana Luiza](https://github.com/AnHoff) | [Arthur Taylor](https://github.com/Eruel6) |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 18/01/2023 |        18/01/2023        |  1.0   |     Criação do documento     |   [Ana Luiza](https://github.com/AnHoff)   | [Arthur Taylor](https://github.com/Eruel6) |
+| 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) |   [Eduardo](https://github.com/edudsan)    |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Princípios Gerais](../../Tarefas/PrincipiosGerais.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.1 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -21,24 +22,24 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 
 <center>
 
-|  ID   |                              Questão                                                       | Inspeção |
-| :---: | :----------------------------------------------------------------------------------------: | :------: |
-|   1   | Possui histórico de versão conforme o padrão utilizado no projeto?                         |          |
-|   2   | Possui bibliografia correta?                                                               |          |
-|   3   | Há uma introdução para o artefato?                                                         |          |
-|   4   | O documento apresenta os princípios gerais que serão usados no projeto?                    |          |
-|   5   | O documento apresenta a correspondência com as expectativas dos usuários?                  |          |
-|   6   | O documento apresenta a simplicidade nas estruturas das tarefas?                           |          |
-|   7   | O documento apresenta o equilíbrio entre controle e liberdade do usuário?                  |          |
-|   8   | O documento apresenta a consistência e padronização?                                       |          |
-|   9   | O documento apresenta a promoção da eficiência do usuário?                                 |          |
-|   10  | O documento apresenta antecipação das necessidades do usuário?                             |          |
-|   11  | O documento apresenta a visibilidade e reconhecimento?                                     |          |
-|   12  | O documento apresenta conteúdo relevante e expressão adequada?                             |          |
-|   13  | O documento apresenta projeto para erros?                                                  |          |
-|   14  | Há descrição para cada um dos princípios?                                                  |          |
-|   15  | O documento demonstra como aplicar os princípios na prática?                               |          |
-|   16  | O documento deixa claro porquê os princípios devem ser aplicados?                          |          |
+|  ID   |                                  Questão                                  | Inspeção |
+| :---: | :-----------------------------------------------------------------------: | :------: |
+|   1   |    Possui histórico de versão conforme o padrão utilizado no projeto?     |          |
+|   2   |                       Possui bibliografia correta?                        |          |
+|   3   |                    Há uma introdução para o artefato?                     |          |
+|   4   |  O documento apresenta os princípios gerais que serão usados no projeto?  |          |
+|   5   | O documento apresenta a correspondência com as expectativas dos usuários? |          |
+|   6   |     O documento apresenta a simplicidade nas estruturas das tarefas?      |          |
+|   7   | O documento apresenta o equilíbrio entre controle e liberdade do usuário? |          |
+|   8   |           O documento apresenta a consistência e padronização?            |          |
+|   9   |        O documento apresenta a promoção da eficiência do usuário?         |          |
+|  10   |      O documento apresenta antecipação das necessidades do usuário?       |          |
+|  11   |          O documento apresenta a visibilidade e reconhecimento?           |          |
+|  12   |      O documento apresenta conteúdo relevante e expressão adequada?       |          |
+|  13   |                 O documento apresenta projeto para erros?                 |          |
+|  14   |                 Há descrição para cada um dos princípios?                 |          |
+|  15   |       O documento demonstra como aplicar os princípios na prática?        |          |
+|  16   |     O documento deixa claro porquê os princípios devem ser aplicados?     |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -50,24 +51,24 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.1:
 
 <center>
 
-|  ID   |                              Questão                                                       | Inspeção |
-| :---: | :----------------------------------------------------------------------------------------: | :------: |
-|   1   | Possui histórico de versão conforme o padrão utilizado no projeto?                         |    🟢    |
-|   2   | Possui bibliografia correta?                                                               |    🟢    |
-|   3   | Há uma introdução para o artefato?                                                         |    🟢    |
-|   4   | O documento apresenta os princípios gerais que serão usados no projeto?                    |    🟢    |
-|   5   | O documento apresenta a correspondência com as expectativas dos usuários?                  |    🟡    |
-|   6   | O documento apresenta a simplicidade nas estruturas das tarefas?                           |    🟢    |
-|   7   | O documento apresenta o equilíbrio entre controle e liberdade do usuário?                  |    🟡    |
-|   8   | O documento apresenta a consistência e padronização?                                       |    🟢    |
-|   9   | O documento apresenta a promoção da eficiência do usuário?                                 |    🟡    |
-|   10  | O documento apresenta antecipação das necessidades do usuário?                             |    🔴    |
-|   11  | O documento apresenta a visibilidade e reconhecimento?                                     |    🟢    |
-|   12  | O documento apresenta conteúdo relevante e expressão adequada?                             |    🟢    |
-|   13  | O documento apresenta projeto para erros?                                                  |    🟢    |
-|   14  | Há descrição para cada um dos princípios?                                                  |    🟢    |
-|   15  | O documento demonstra como aplicar os princípios na prática?                               |    🔴    |
-|   16  | O documento deixa claro porquê os princípios devem ser aplicados?                          |    🟢    |
+|  ID   |                                  Questão                                  | Inspeção |
+| :---: | :-----------------------------------------------------------------------: | :------: |
+|   1   |    Possui histórico de versão conforme o padrão utilizado no projeto?     |    🟢     |
+|   2   |                       Possui bibliografia correta?                        |    🟢     |
+|   3   |                    Há uma introdução para o artefato?                     |    🟢     |
+|   4   |  O documento apresenta os princípios gerais que serão usados no projeto?  |    🟢     |
+|   5   | O documento apresenta a correspondência com as expectativas dos usuários? |    🟡     |
+|   6   |     O documento apresenta a simplicidade nas estruturas das tarefas?      |    🟢     |
+|   7   | O documento apresenta o equilíbrio entre controle e liberdade do usuário? |    🟡     |
+|   8   |           O documento apresenta a consistência e padronização?            |    🟢     |
+|   9   |        O documento apresenta a promoção da eficiência do usuário?         |    🟡     |
+|  10   |      O documento apresenta antecipação das necessidades do usuário?       |    🔴     |
+|  11   |          O documento apresenta a visibilidade e reconhecimento?           |    🟢     |
+|  12   |      O documento apresenta conteúdo relevante e expressão adequada?       |    🟢     |
+|  13   |                 O documento apresenta projeto para erros?                 |    🟢     |
+|  14   |                 Há descrição para cada um dos princípios?                 |    🟢     |
+|  15   |       O documento demonstra como aplicar os princípios na prática?        |    🔴     |
+|  16   |     O documento deixa claro porquê os princípios devem ser aplicados?     |    🟢     |
   
 *Tabela 2 - Checklist efetivado*
 

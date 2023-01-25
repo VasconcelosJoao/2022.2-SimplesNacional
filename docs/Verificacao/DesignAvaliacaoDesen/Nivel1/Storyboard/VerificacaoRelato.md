@@ -1,8 +1,9 @@
 # Verificação do Relato dos Resultados Do Storyboard
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
-| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
-| 16/01/2023 |        17/01/2023        |  1.0   | Criação do documento | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 16/01/2023 |        17/01/2023        |  1.0   |     Criação do documento     | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
+| 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) |   [Eduardo](https://github.com/edudsan)    |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Relato dos Resultados Do Storyboard](../../../DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoRelato.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.

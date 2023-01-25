@@ -1,8 +1,9 @@
 # Verificação do Planejamento da Avaliação do Storyboard
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
-| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
-| 16/01/2023 |        17/01/2023        |  1.0   | Criação do documento | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 16/01/2023 |        17/01/2023        |  1.0   |     Criação do documento     | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
+| 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) |   [Eduardo](https://github.com/edudsan)    |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Planejamento da Avaliação do Storyboard](../../../../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -47,16 +48,16 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 |  ID   |                              Questão                               | Inspeção |
 | :---: | :----------------------------------------------------------------: | :------: |
-|   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |     🟢     |
-|   2   |                    Possui bibliografia correta?                    |     🟢     |
-|   3   |                 Há uma introdução para o artefato?                 |      🟢    |
-|   4   |            Há chamada e legendas para imagens e tabelas            |      🟢    |
-|   5   |             Os textos estão ortograficamente corretos?             |     🟢     |
-|   6   |             O planejamento apresenta um teste-piloto?              |      🟡    |
-|   7   |  Existe um roteiro da avaliação seguindo a metodologia escolhida?  |     🟢     |
-|   8   |              O termo de consentimento é apresentado?               |      🟢    |
-|   9   | O documento apresenta definição dos participantes e recrutamento?  |      🟢    |
-|  10   |   O documento descreve de que forma será realizada a avaliação?    |     🟢     |
+|   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |    🟢     |
+|   2   |                    Possui bibliografia correta?                    |    🟢     |
+|   3   |                 Há uma introdução para o artefato?                 |    🟢     |
+|   4   |            Há chamada e legendas para imagens e tabelas            |    🟢     |
+|   5   |             Os textos estão ortograficamente corretos?             |    🟢     |
+|   6   |             O planejamento apresenta um teste-piloto?              |    🟡     |
+|   7   |  Existe um roteiro da avaliação seguindo a metodologia escolhida?  |    🟢     |
+|   8   |              O termo de consentimento é apresentado?               |    🟢     |
+|   9   | O documento apresenta definição dos participantes e recrutamento?  |    🟢     |
+|  10   |   O documento descreve de que forma será realizada a avaliação?    |    🟢     |
 
 
 

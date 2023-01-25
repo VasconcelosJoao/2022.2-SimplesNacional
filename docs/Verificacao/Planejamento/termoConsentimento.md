@@ -1,8 +1,9 @@
 # Verificação do Termo de Consentimento
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                  |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :------------------------------------: | :----------------------------------------: |
-| 14/01/2023 |        15/01/2023        |  1.0   | Criação do documento | [Ana Luiza](https://github.com/AnHoff) | [Pedro Lucas](https://github.com/PedroLSF) |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 14/01/2023 |        15/01/2023        |  1.0   |     Criação do documento     |   [Ana Luiza](https://github.com/AnHoff)   | [Pedro Lucas](https://github.com/PedroLSF) |
+| 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) |   [Eduardo](https://github.com/edudsan)    |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Termo de Consentimento](../../Planejamento/ModeloTermoConsentimento.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -50,15 +51,15 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 |  ID   |                              Questão                               | Inspeção |
 | :---: | :----------------------------------------------------------------: | :------: |
-|   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |    🟢    |
-|   2   |                    Possui bibliografia correta?                    |    🔴    |
-|   3   |                 Há uma introdução para o artefato?                 |    🔴    |
-|   4   |           O termo deixa claro os objetivos da pesquisa?            |    🟡    |
-|   5   |            O termo deixa claro o nome dos responsáveis?            |    🟢    |
-|   6   |            O termo deixa clara a natureza da pesquisa?             |    🟢    |
-|   7   |         O termo deixa claro os participantes da pesquisa?          |    🟡    |
-|   8   |     O termo deixa claro como será o envolvimento na pesquisa?      |    🟡    |
-|   9   |  O termo deixa claro possíveis riscos ao participar da pesquisa?   |    🟡    |
+|   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |    🟢     |
+|   2   |                    Possui bibliografia correta?                    |    🔴     |
+|   3   |                 Há uma introdução para o artefato?                 |    🔴     |
+|   4   |           O termo deixa claro os objetivos da pesquisa?            |    🟡     |
+|   5   |            O termo deixa claro o nome dos responsáveis?            |    🟢     |
+|   6   |            O termo deixa clara a natureza da pesquisa?             |    🟢     |
+|   7   |         O termo deixa claro os participantes da pesquisa?          |    🟡     |
+|   8   |     O termo deixa claro como será o envolvimento na pesquisa?      |    🟡     |
+|   9   |  O termo deixa claro possíveis riscos ao participar da pesquisa?   |    🟡     |
 |  10   |           O termo deixa claro os benefícios da pesquisa?           |    🟢     |
 |  11   |   O termo deixa claro o pagamento pela participação na pesquisa?   |    🟢     |
 |  12   |        O termo deixa clara a confidencialidade da pesquisa?        |    🟢     |

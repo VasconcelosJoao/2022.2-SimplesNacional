@@ -1,8 +1,9 @@
 # Verificação das características da plataforma
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                  |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :------------------------------------: | :----------------------------------------: |
-| 17/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Arthur Taylor](https://github.com/Eruel6) | [Ana Luiza](https://github.com/AnHoff) |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
+| 17/01/2023 |        18/01/2023        |  1.0   |     Criação do documento     | [Arthur Taylor](https://github.com/Eruel6) | [Ana Luiza](https://github.com/AnHoff) |
+| 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Eduardo](https://github.com/edudsan)  |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Características da plataforma](../../Tarefas/CaracteristicasPlataforma.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -21,17 +22,17 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 
 <center>
 
-|  ID   |                              Questão                                    | Inspeção |
+|  ID   |                                 Questão                                 | Inspeção |
 | :---: | :---------------------------------------------------------------------: | :------: |
-|   1   | Possui histórico de versão conforme o padrão utilizado no projeto?      |          |
-|   2   | Possui bibliografia correta?                                            |          |
-|   3   | Há uma introdução para o artefato?                                      |          |
-|   4   | Existe uma verificação sobre a portabilidade do site?                   |          |
-|   5   | Existe a descrição de tecnologias utilizadas no site?                   |          |
-|   6   | O documento apresenta a fonte das tecnologias utilizadas?               |          |
-|   7   | Existe a identificação das principais funcionalidades do sistema?       |          |
+|   1   |   Possui histórico de versão conforme o padrão utilizado no projeto?    |          |
+|   2   |                      Possui bibliografia correta?                       |          |
+|   3   |                   Há uma introdução para o artefato?                    |          |
+|   4   |          Existe uma verificação sobre a portabilidade do site?          |          |
+|   5   |          Existe a descrição de tecnologias utilizadas no site?          |          |
+|   6   |        O documento apresenta a fonte das tecnologias utilizadas?        |          |
+|   7   |    Existe a identificação das principais funcionalidades do sistema?    |          |
 |   8   | Existe uma validação das características por alguma persona ou usuário? |          |
-|   9   | Existe a identificação de pontos negativos do sistema?                  |          |
+|   9   |         Existe a identificação de pontos negativos do sistema?          |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -43,17 +44,17 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 <center>
 
-|  ID   |                              Questão                                    | Inspeção |
+|  ID   |                                 Questão                                 | Inspeção |
 | :---: | :---------------------------------------------------------------------: | :------: |
-|   1   | Possui histórico de versão conforme o padrão utilizado no projeto?      |     🟢     |
-|   2   | Possui bibliografia correta?                                            |     🟢     |
-|   3   | Há uma introdução para o artefato?                                      |     🟢     |
-|   4   | Existe uma verificação sobre a portabilidade do site?                   |     🟢     |
-|   5   | Existe a descrição de tecnologias utilizadas no site?                   |     🟢     |
-|   6   | O documento apresenta a fonte das tecnologias utilizadas?               |     🟡     |
-|   7   | Existe a identificação das principais funcionalidades do sistema?       |     🟢     |
-|   8   | Existe uma validação das características por alguma persona ou usuário? |     🔴     |
-|   9   | Existe a identificação de pontos negativos do sistema?                  |     🟢     |
+|   1   |   Possui histórico de versão conforme o padrão utilizado no projeto?    |    🟢     |
+|   2   |                      Possui bibliografia correta?                       |    🟢     |
+|   3   |                   Há uma introdução para o artefato?                    |    🟢     |
+|   4   |          Existe uma verificação sobre a portabilidade do site?          |    🟢     |
+|   5   |          Existe a descrição de tecnologias utilizadas no site?          |    🟢     |
+|   6   |        O documento apresenta a fonte das tecnologias utilizadas?        |    🟡     |
+|   7   |    Existe a identificação das principais funcionalidades do sistema?    |    🟢     |
+|   8   | Existe uma validação das características por alguma persona ou usuário? |    🔴     |
+|   9   |         Existe a identificação de pontos negativos do sistema?          |    🟢     |
   
 *Tabela 2 - Checklist efetivado*
 

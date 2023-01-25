@@ -5,7 +5,7 @@
 | :--------: | :----------------------: | :----: | :---------------------------------------: | :----------------------------------------: | :--------------------------------------------: |
 | 09/12/2022 |        10/12/2022        |  1.0   |           Criação do documento            | [João Lucas](https://github.com/HacKairos) |   [Pedro Lucas](https://github.com/PedroLSF)   |
 | 18/01/2023 |        20/12/2022        |  1.1   | Adição dos Cenários que estavam com erros | [Pedro Lucas](https://github.com/PedroLSF) | [Thiago Oliveira](https://github.com/Thiab394) |
-| 25/01/2023 |        25/01/2023        |  1.1   |       Padronização e Revisão Final        | [João Lucas](https://github.com/HacKairos) |   [Pedro Lucas](https://github.com/PedroLSF)   |
+| 25/01/2023 |        25/01/2023        |  1.2   |       Padronização e Revisão Final        | [João Lucas](https://github.com/HacKairos) |   [Pedro Lucas](https://github.com/PedroLSF)   |
 
 
 ## <a>Introdução</a>

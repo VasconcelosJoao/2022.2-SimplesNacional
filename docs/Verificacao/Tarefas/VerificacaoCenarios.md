@@ -1,8 +1,9 @@
 # Verificação dos Cenários
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                     Autor                      |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :----------------------------------------: |
-| 15/01/2023 |        16/01/2023        |  1.0   | Criação do documento | [Thiago Oliveira](https://github.com/Thiab394) | [Ana Luiza](https://github.com/AnHoff) |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                     Autor                      |                Revisor                 |
+| :--------: | :----------------------: | :----: | :--------------------------: | :--------------------------------------------: | :------------------------------------: |
+| 15/01/2023 |        16/01/2023        |  1.0   |     Criação do documento     | [Thiago Oliveira](https://github.com/Thiab394) | [Ana Luiza](https://github.com/AnHoff) |
+| 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final |   [João Lucas](https://github.com/HacKairos)   | [Eduardo](https://github.com/edudsan)  |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Cenários](../../Tarefas/Cenario.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.1 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -21,30 +22,30 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 
 <center>
   
-|  ID   |                           Questão                           | Avaliação |
-| :---: | :---------------------------------------------------------: | :---: | 
-|   1   |                  O Cenário possui Título?                   | 
-|   2   |                O Cenário possui Objetivo(s)?                | 
-|   3   |                 O Cenário possui Contexto?                  |  
-|   4   |                  O Cenário possui Recurso?                  |  
-|   5   |                 O cenário possui Episódios?                 |  
-|   6   |                  O cenário possui Exceção?                  |  
-|   7   |                  O cenário possui Restrição?                |  
-|   8   |          É possível associar o título ao objetivo?          |  
-|   9   |                O contexto foi bem definido?                 |  
-|   10  |            Os atores foram colocados no cenário?            |  
-|  11   |     Os episódios ajudam a atingir o objetivo descrito?      |  
-|  12   |     As exceções realmente condizem com o cenário da mesma?  |  
-|  13   |    As restrições realmente condizem com o cenário da mesma? |  
-|  14   |           Os recursos são realmente necessários?            |  
-|  15   |               O Documento possui Introdução?                | 
-|  16   |               O Documento possui Metodologia?               | 
-|  17   | O Documento possui um modelo de representação dos cenários? | 
-|  18   | O Documento possui um link para a elicitação/priorização de requisitos? |  
-|  19   | O documento apresenta histórico de versão de acordo com o padrão utilizado no projeto?|   |
-|  20   | O documento apresenta bibliografia correta?|   |
-|  21   | Tabelas são chamadas dentro do texto?|   |
-|  22   | Tabelas possuem legenda?|   |
+|  ID   |                                        Questão                                         | Avaliação |
+| :---: | :------------------------------------------------------------------------------------: | :-------: |
+|   1   |                                O Cenário possui Título?                                |
+|   2   |                             O Cenário possui Objetivo(s)?                              |
+|   3   |                               O Cenário possui Contexto?                               |
+|   4   |                               O Cenário possui Recurso?                                |
+|   5   |                              O cenário possui Episódios?                               |
+|   6   |                               O cenário possui Exceção?                                |
+|   7   |                              O cenário possui Restrição?                               |
+|   8   |                       É possível associar o título ao objetivo?                        |
+|   9   |                              O contexto foi bem definido?                              |
+|  10   |                         Os atores foram colocados no cenário?                          |
+|  11   |                   Os episódios ajudam a atingir o objetivo descrito?                   |
+|  12   |                 As exceções realmente condizem com o cenário da mesma?                 |
+|  13   |                As restrições realmente condizem com o cenário da mesma?                |
+|  14   |                         Os recursos são realmente necessários?                         |
+|  15   |                             O Documento possui Introdução?                             |
+|  16   |                            O Documento possui Metodologia?                             |
+|  17   |              O Documento possui um modelo de representação dos cenários?               |
+|  18   |        O Documento possui um link para a elicitação/priorização de requisitos?         |
+|  19   | O documento apresenta histórico de versão de acordo com o padrão utilizado no projeto? |           |
+|  20   |                      O documento apresenta bibliografia correta?                       |           |
+|  21   |                         Tabelas são chamadas dentro do texto?                          |           |
+|  22   |                                Tabelas possuem legenda?                                |           |
 
 *Tabela 1 - Checklist planejado*
 
@@ -57,30 +58,30 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.1:
 <center>
 
   
-|  ID   |                           Questão                           | Geral |  C1   |  C2   |  C3   |  C4   |  C5   |  C6   |  C7   |  C8   |  C9   |  C10  |
-| :---: | :---------------------------------------------------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|   1   |                  O Cenário possui Título?                   |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   2   |                O Cenário possui Objetivo(s)?                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   3   |                 O Cenário possui Contexto?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   4   |                  O Cenário possui Recurso?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   5   |                 O cenário possui Episódios?                 |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   6   |                  O cenário possui Exceção?                  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   7   |                  O cenário possui Restrição?                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|   8   |          É possível associar o título ao objetivo?          |  N/A  |   🟢   |   🟢   |   🟢   |   🟡   |   🟢   |   🔴   |   🟢   |   🟢   |   🟢   |   🔴   |
-|   9   |                O contexto foi bem definido?                 |  N/A  |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |
-|   10  |            Os atores foram colocados no cenário?            |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|  11   |     Os episódios ajudam a atingir o objetivo descrito?      |  N/A  |   🟡   |   🟢   |   🟢   |   🟡   |   🟡   |   🟡   |   🟢   |   🟢   |   🟢   |   🟢   |
-|  12   |     As exceções realmente condizem com o cenário da mesma?  |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|  13   |    As restrições realmente condizem com o cenário da mesma? |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|  14   |           Os recursos são realmente necessários?            |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
-|  15   |               O Documento possui Introdução?                |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  16   |               O Documento possui Metodologia?               |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  17   | O Documento possui um modelo de representação dos cenários? |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  18   | O Documento possui um link para a elicitação/priorização de requisitos? |   🔴   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  19   | O documento apresenta histórico de versão de acordo com o padrão utilizado no projeto?|   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  20   | O documento apresenta bibliografia correta?|   🟡   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  21   | Tabelas são chamadas dentro do texto?|   🟢  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
-|  22   | Tabelas possuem legenda?|   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  ID   |                                        Questão                                         | Geral |  C1   |  C2   |  C3   |  C4   |  C5   |  C6   |  C7   |  C8   |  C9   |  C10  |
+| :---: | :------------------------------------------------------------------------------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|   1   |                                O Cenário possui Título?                                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   2   |                             O Cenário possui Objetivo(s)?                              |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   3   |                               O Cenário possui Contexto?                               |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   4   |                               O Cenário possui Recurso?                                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   5   |                              O cenário possui Episódios?                               |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   6   |                               O cenário possui Exceção?                                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   7   |                              O cenário possui Restrição?                               |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|   8   |                       É possível associar o título ao objetivo?                        |  N/A  |   🟢   |   🟢   |   🟢   |   🟡   |   🟢   |   🔴   |   🟢   |   🟢   |   🟢   |   🔴   |
+|   9   |                              O contexto foi bem definido?                              |  N/A  |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |   🟡   |
+|  10   |                         Os atores foram colocados no cenário?                          |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  11   |                   Os episódios ajudam a atingir o objetivo descrito?                   |  N/A  |   🟡   |   🟢   |   🟢   |   🟡   |   🟡   |   🟡   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  12   |                 As exceções realmente condizem com o cenário da mesma?                 |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  13   |                As restrições realmente condizem com o cenário da mesma?                |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  14   |                         Os recursos são realmente necessários?                         |  N/A  |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |   🟢   |
+|  15   |                             O Documento possui Introdução?                             |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  16   |                            O Documento possui Metodologia?                             |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  17   |              O Documento possui um modelo de representação dos cenários?               |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  18   |        O Documento possui um link para a elicitação/priorização de requisitos?         |   🔴   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  19   | O documento apresenta histórico de versão de acordo com o padrão utilizado no projeto? |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  20   |                      O documento apresenta bibliografia correta?                       |   🟡   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  21   |                         Tabelas são chamadas dentro do texto?                          |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
+|  22   |                                Tabelas possuem legenda?                                |   🟢   |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |  N/A  |
   
 *Tabela 2 - Checklist efetivado*
 

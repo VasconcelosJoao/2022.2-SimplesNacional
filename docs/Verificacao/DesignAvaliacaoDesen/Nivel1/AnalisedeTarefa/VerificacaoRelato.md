@@ -1,13 +1,12 @@
 # Verificação do Relato dos Resultados Da Analise de Tarefas
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
-| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
-| 16/01/2023 |        17/01/2023        |  1.0   | Criação do documento | [Pedro Lucas](https://github.com/PedroLSF) | [Thiago Oliveira](https://github.com/Thiab394) |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                     |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :--------------------------------------------: |
+| 16/01/2023 |        17/01/2023        |  1.0   |     Criação do documento     | [Pedro Lucas](https://github.com/PedroLSF) | [Thiago Oliveira](https://github.com/Thiab394) |
+| 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) |     [Eduardo](https://github.com/edudsan)      |
 
 ## <a>Introdução</a>
-O presente documento tem como objetivo realizar a verificação do artefato [Relato dos Resultados Da Análise de Tarefa](../../../../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/RelatoResultadosAnaliseTarefas.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos.
-
-A técnica de inspeção será utilizada para realizar esse processo. [1]
+O presente documento tem como objetivo realizar a verificação do artefato [Relato dos Resultados Da Análise de Tarefa](../../../../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/RelatoResultadosAnaliseTarefas.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
 
 ## <a>Metodologia</a>
 Para a verificação em questão, será utilizada a técnica de inspeção. Para a aplicação dessa técnica, haverá o uso de uma tabela com perguntas que visam avaliar se o artefato foi feito da maneira demandada pela disciplina.
@@ -35,9 +34,9 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |   8   |                            A entrevista da avaliação está gravada?                            |          |
 |   9   |                      Foi realizado um teste-piloto para as entrevistas?                       |          |
 |  10   | O artefato apresenta as resposta dos entrevistados transcritas para facilitar o entendimento? |          |
-|  11   | 	              Os resultados estão separados em subcategorias para análise?                  |          |
+|  11   |                 Os resultados estão separados em subcategorias para análise?                  |          |
 |  12   |                             Os participantes foram bem definidos?                             |          |
-|  13   | 	                  No artefato está presente como foi realizada a pesquisa?                  |          |
+|  13   |                   No artefato está presente como foi realizada a pesquisa?                    |          |
 
 
 
@@ -55,19 +54,19 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 |  ID   |                                            Questão                                            | Inspeção |
 | :---: | :-------------------------------------------------------------------------------------------: | :------: |
-|   1   |              Possui histórico de versão conforme o padrão utilizado no projeto?               |    🟢    |
-|   2   |                                 Possui bibliografia correta?                                  |    🟢    |
-|   3   |                              Há uma introdução para o artefato?                               |    🟢    |
-|   4   |                         Há chamada e legendas para imagens e tabelas                          |    🟢    |
-|   5   |       O documento especifica a data, horário e a plataforma utilizada para a avaliação?       |    🟡    |
-|   6   |        O documento apresenta hyperlinks que facilitem o acesso aos storyboard criados?        |    🟢    |
-|   7   |                 O documento especifica a metodologia utilizada na avaliação?                  |    🟢    |
-|   8   |                            A entrevista da avaliação está gravada?                            |    🟢    |
-|   9   |                      Foi realizado um teste-piloto para as entrevistas?                       |    🟡    |
-|  10   | O artefato apresenta as resposta dos entrevistados transcritas para facilitar o entendimento? |    🟢    |
-|  11   | 	              Os resultados estão separados em subcategorias para análise?                  |    🟢    |
-|  12   |                             Os participantes foram bem definidos?                             |    🟢    |
-|  13   | 	                  No artefato está presente como foi realizada a pesquisa?                  |    🟢    |
+|   1   |              Possui histórico de versão conforme o padrão utilizado no projeto?               |    🟢     |
+|   2   |                                 Possui bibliografia correta?                                  |    🟢     |
+|   3   |                              Há uma introdução para o artefato?                               |    🟢     |
+|   4   |                         Há chamada e legendas para imagens e tabelas                          |    🟢     |
+|   5   |       O documento especifica a data, horário e a plataforma utilizada para a avaliação?       |    🟡     |
+|   6   |        O documento apresenta hyperlinks que facilitem o acesso aos storyboard criados?        |    🟢     |
+|   7   |                 O documento especifica a metodologia utilizada na avaliação?                  |    🟢     |
+|   8   |                            A entrevista da avaliação está gravada?                            |    🟢     |
+|   9   |                      Foi realizado um teste-piloto para as entrevistas?                       |    🟡     |
+|  10   | O artefato apresenta as resposta dos entrevistados transcritas para facilitar o entendimento? |    🟢     |
+|  11   |                 Os resultados estão separados em subcategorias para análise?                  |    🟢     |
+|  12   |                             Os participantes foram bem definidos?                             |    🟢     |
+|  13   |                   No artefato está presente como foi realizada a pesquisa?                    |    🟢     |
 
 
 

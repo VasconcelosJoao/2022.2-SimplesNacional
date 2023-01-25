@@ -1,10 +1,11 @@
 # Verificação
 
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |          Descrição          |                   Autor                    |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :-------------------------: | :----------------------------------------: | :----------------------------------------: |
-| 07/01/2023 |        08/01/2023        |  1.0   |    Criação do documento     | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
-| 07/01/2023 |        16/01/2023        |  1.1   | Adição sobre o Planejamento | [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos) |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 07/01/2023 |        08/01/2023        |  1.0   |     Criação do documento     | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
+| 07/01/2023 |        16/01/2023        |  1.1   | Adição sobre o Planejamento  | [Pedro Lucas](https://github.com/PedroLSF) | [João Lucas](https://github.com/HacKairos) |
+| 25/01/2023 |        25/01/2023        |  1.2   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) |   [Eduardo](https://github.com/edudsan)    |
 
 
 ## <a>Introdução</a>

@@ -1,8 +1,9 @@
 # Verificação do Termo de Consentimento
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                  |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :------------------------------------: | :----------------------------------------: |
-| 18/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Ana Luiza](https://github.com/AnHoff) | [Pedro Lucas](https://github.com/PedroLSF) |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
+| 18/01/2023 |        18/01/2023        |  1.0   |     Criação do documento     |   [Ana Luiza](https://github.com/AnHoff)   | [Pedro Lucas](https://github.com/PedroLSF) |
+| 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) |   [Eduardo](https://github.com/edudsan)    |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Modelo de Design](../../Planejamento/ModeloDesign.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -21,20 +22,20 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 
 <center>
 
-|  ID   |                              Questão                                                       | Inspeção |
-| :---: | :----------------------------------------------------------------------------------------: | :------: |
-|   1   | Possui histórico de versão conforme o padrão utilizado no projeto?                         |          |
-|   2   | Possui bibliografia correta?                                                               |          |
-|   3   | Há uma introdução para o artefato?                                                         |          |
-|   4   | O documento apresenta o quê é um modelo de design?                                         |          |
-|   5   | O documento apresenta as tarefas presentes em um modelo de design?                         |          |
-|   6   | O documento apresenta o(s) objetivo(s) de um modelo de design?                             |          |
-|   7   | O documento apresenta a justificativa para a escolha de um modelo?                         |          |
-|   8   | A figura possui legenda?                                                                   |          |
-|   9   | O documento explica cada etapa do modelo escolhido?                                        |          |
-|   10  | Cada etapa possui links para os artefatos elaborados?                                      |          |
-|   11  | Há imagens e/ou tabelas representando o modelo escolhido?                                  |          |
-|   12  | A estrutura escolhida foi corretamente aplicada no projeto?                                |          |
+|  ID   |                              Questão                               | Inspeção |
+| :---: | :----------------------------------------------------------------: | :------: |
+|   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |          |
+|   2   |                    Possui bibliografia correta?                    |          |
+|   3   |                 Há uma introdução para o artefato?                 |          |
+|   4   |         O documento apresenta o quê é um modelo de design?         |          |
+|   5   | O documento apresenta as tarefas presentes em um modelo de design? |          |
+|   6   |   O documento apresenta o(s) objetivo(s) de um modelo de design?   |          |
+|   7   | O documento apresenta a justificativa para a escolha de um modelo? |          |
+|   8   |                      A figura possui legenda?                      |          |
+|   9   |        O documento explica cada etapa do modelo escolhido?         |          |
+|  10   |       Cada etapa possui links para os artefatos elaborados?        |          |
+|  11   |     Há imagens e/ou tabelas representando o modelo escolhido?      |          |
+|  12   |    A estrutura escolhida foi corretamente aplicada no projeto?     |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -46,20 +47,20 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 <center>
 
-|  ID   |                              Questão                                                       | Inspeção |
-| :---: | :----------------------------------------------------------------------------------------: | :------: |
-|   1   | Possui histórico de versão conforme o padrão utilizado no projeto?                         |    🟢    |
-|   2   | Possui bibliografia correta?                                                               |    🟡    |
-|   3   | Há uma introdução para o artefato?                                                         |    🟢    |
-|   4   | O documento apresenta o quê é um processo de design?                                       |    🟢    |
-|   5   | O documento apresenta as tarefas presentes em um processo de design?                       |    🟢    |
-|   6   | O documento apresenta o(s) objetivo(s) de um processo de design?                           |    🔴    |
-|   7   | O documento apresenta a justificativa para a escolha de um processo?                       |    🟢    |
-|   8   | A figura possui legenda?                                                                   |    🟢    |
-|   9   | O documento explica cada etapa do processo escolhido?                                      |    🟢    |
-|   10  | Cada etapa possui links para os artefatos elaborados?                                      |    🔴    |
-|   11  | Há imagens e/ou tabelas representando o processo escolhido?                                |    🟢    |
-|   12  | A estrutura escolhida foi corretamente aplicada no projeto?                                |    🟡    |
+|  ID   |                               Questão                                | Inspeção |
+| :---: | :------------------------------------------------------------------: | :------: |
+|   1   |  Possui histórico de versão conforme o padrão utilizado no projeto?  |    🟢     |
+|   2   |                     Possui bibliografia correta?                     |    🟡     |
+|   3   |                  Há uma introdução para o artefato?                  |    🟢     |
+|   4   |         O documento apresenta o quê é um processo de design?         |    🟢     |
+|   5   | O documento apresenta as tarefas presentes em um processo de design? |    🟢     |
+|   6   |   O documento apresenta o(s) objetivo(s) de um processo de design?   |    🔴     |
+|   7   | O documento apresenta a justificativa para a escolha de um processo? |    🟢     |
+|   8   |                       A figura possui legenda?                       |    🟢     |
+|   9   |        O documento explica cada etapa do processo escolhido?         |    🟢     |
+|  10   |        Cada etapa possui links para os artefatos elaborados?         |    🔴     |
+|  11   |     Há imagens e/ou tabelas representando o processo escolhido?      |    🟢     |
+|  12   |     A estrutura escolhida foi corretamente aplicada no projeto?      |    🟡     |
   
 *Tabela 2 - Checklist efetivado*
 

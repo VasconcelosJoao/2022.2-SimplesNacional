@@ -1,8 +1,9 @@
 # Verificação da Analise de Tarefas 
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                   Autor                    |         Revisor          |
-| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :----------------------: |
-| 16/01/2023 |        17/01/2023        |  1.0   | Criação do documento | [João Lucas](https://github.com/HacKairos) | [Ana Luiza](https://github.com/AnHoff) |
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
+| 16/01/2023 |        17/01/2023        |  1.0   |     Criação do documento     | [João Lucas](https://github.com/HacKairos) | [Ana Luiza](https://github.com/AnHoff) |
+| 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Eduardo](https://github.com/edudsan)  |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Analise de Tarefas](../../Tarefas/Analise.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.3 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo. [1]
@@ -26,8 +27,8 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |          |
 |   2   |                    Possui bibliografia correta?                    |          |
 |   3   |                 Há uma introdução para o artefato?                 |          |
-|   4   |            Há chamada e legendas para imagens e tabelas?           |          |
-|   5   |             Os textos explicam cada elemento do artefato?          |          |
+|   4   |           Há chamada e legendas para imagens e tabelas?            |          |
+|   5   |           Os textos explicam cada elemento do artefato?            |          |
 |   6   |                  Cada tarefa possui um diagrama?                   |          |
 |   7   |         Cada diagrama possui uma tabela de especificação?          |          |
 |   8   |                    Os objetivos estão corretos?                    |          |
@@ -35,7 +36,7 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 |  10   |                O nível dos objetivos estã corretos?                |          |
 |  11   |             Os níveis dos sub-objetivos estã corretos?             |          |
 |  12   |         As relações entre os sub-objetivos estão corretos?         |          |
-|  13   | As principais tarefas do sistema são apresentadas?                 |          |
+|  13   |         As principais tarefas do sistema são apresentadas?         |          |
 
 *Tabela 1 - Checklist planejado*
 
@@ -49,19 +50,19 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.3:
 
 |  ID   |                              Questão                               | Inspeção |
 | :---: | :----------------------------------------------------------------: | :------: |
-|   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |    🟢    |
-|   2   |                    Possui bibliografia correta?                    |    🟢    |
-|   3   |                 Há uma introdução para o artefato?                 |    🟢    |
-|   4   |            Há chamada e legendas para imagens e tabelas            |    🟢    |
-|   5   |             Os textos estão ortograficamente corretos?             |    🟢    |
-|   6   |                  Cada tarefa possui um diagrama?                   |    🟢    |
-|   7   |         Cada diagrama possui uma tabela de especificação?          |    🟢    |
-|   8   |                    Os objetivos estão corretos?                    |    🟢    |
-|   9   |                    As operações estão corretas?                    |    🟢    |
-|  10   |                O nível dos objetivos estã corretos?                |    🟢    |
-|  11   |             Os níveis dos subobjetivos estã corretos?              |    🟢    |
-|  12   |         As relações entre os subobjetivos estão corretos?          |    🟢    |
-|  13   | As principais tarefas do sistema são apresentadas?                 |    🟢    |
+|   1   | Possui histórico de versão conforme o padrão utilizado no projeto? |    🟢     |
+|   2   |                    Possui bibliografia correta?                    |    🟢     |
+|   3   |                 Há uma introdução para o artefato?                 |    🟢     |
+|   4   |            Há chamada e legendas para imagens e tabelas            |    🟢     |
+|   5   |             Os textos estão ortograficamente corretos?             |    🟢     |
+|   6   |                  Cada tarefa possui um diagrama?                   |    🟢     |
+|   7   |         Cada diagrama possui uma tabela de especificação?          |    🟢     |
+|   8   |                    Os objetivos estão corretos?                    |    🟢     |
+|   9   |                    As operações estão corretas?                    |    🟢     |
+|  10   |                O nível dos objetivos estã corretos?                |    🟢     |
+|  11   |             Os níveis dos subobjetivos estã corretos?              |    🟢     |
+|  12   |         As relações entre os subobjetivos estão corretos?          |    🟢     |
+|  13   |         As principais tarefas do sistema são apresentadas?         |    🟢     |
 
   
 *Tabela 2 - Checklist efetivado*
