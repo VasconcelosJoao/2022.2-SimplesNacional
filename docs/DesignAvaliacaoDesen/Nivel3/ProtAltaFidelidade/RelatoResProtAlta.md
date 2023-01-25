@@ -4,7 +4,7 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|24/01/2023|25/01/2023|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[-](https://github.com/)|
+|24/01/2023|25/01/2023|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[Eduardo](https://github.com/edudsan)|
 
 ## <a>Introdução </a>
 Este documento contempla o relato dos resultados do Prototipo de Alta Fidelidade, onde foi utilizado a metodologia de entrevista(s)/Teste(s) de Usabilidade,
