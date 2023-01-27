@@ -7,17 +7,12 @@
 |     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final |                       [João Lucas](https://github.com/HacKairos)                       | [Thiago Olveira](https://github.com/Thiab394) |
 
 ## <a>Introdução </a>
-Durante o planejamento da avaliação notou-se a necessidade de realizar um teste-piloto para e avaliar o planejamento desenvolvido pela equipe, se ele produz os dados 
-necessário para responder às questões levantadas pelo estudo e auxiliar os desenvolvedores na busca de erros ou a falta de clareza no formulário da Análise de tarefas. 
+Foi constatado que era preciso fazer um teste piloto antes da avaliação, para verificar se o plano elaborado pela equipe estava correto e se produzia os dados necessários para responder as perguntas levantadas pelo estudo e ajudar os desenvolvedores a encontrar problemas ou falta de precisão no formulário da Análise de Tarefas. 
 
 ## <a>Objetivo </a>
-O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder às questões e objetivos do estudo. 
+O objetivo deste teste é verificar se o plano está correto e se ele produz os dados necessários para responder as perguntas e alcançar os objetivos do estudo. Isso permite verificar se as instruções e os materiais fornecidos são claros e precisos, e se eles contêm informações adequadas e suficientes para guiar os participantes durante a avaliação. [1]
 
-O avaliador deve conduzir o teste piloto como se fosse uma sessão normal de avaliação. 
-
-Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação [1].
-
-Caso algum problema for detectado o material de apoio deve ser corrigido, caso haja diversas mudanças, caso o avaliador sinta necessidade ele pode aplicar outra avaliação descartando os dados das avaliações anteriores. 
+Caso algum problema pequeno seja detectado no material de apoio, este deve ser corrigido, caso haja diversas mudanças, o verificador deve informar a equipe para corrgir os problemas antes das entrevistas.
 
 ## <a>Teste Piloto </a>
 
