@@ -22,6 +22,8 @@ Tendo isto em mente, pode-se utilizar diferentes técnicas para coletar dados so
 ## <a>Resultados</a>
 Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há grande divergência nos dados obtidos. Alguns dados obtidos pelo questionário foram por meio das perguntas que podem ser lidas na tabela 1:
 
+<Center>
+
 |Número |                            Pergunta                          |
 |:-----:| :-----------------------------------------------------------:|
 |   1   |    Qual a sua idade?                                         |
@@ -35,13 +37,11 @@ Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há
 |   9   |    Qual sua ocupação atual?                                  |
 |   10  |    Por quanto tempo você usa o dispositivo eletrônico no dia?|
 
+*Tabela 1 - Peruntas do formulário eletrônico.*
 
-1. Escolaridade;
-2. Idade;
-3. Objetivo;
-4. Experiência com o Simples Nacional;
-5. Experiência com Tecnologia;
-
+ 
+</Center>
+ 
 O questionário também dá suporte às pesquisas realizadas, que nos dizem que, aproximadamente 28,6% dos usuários são do sexo feminino e que a idade da maior parte dos usuários fica entre 16 e 60 anos. Abaixo há um resumo dos perfis de usuário determinados a partir do uso de ambos os meios.
 
 Os dados abaixo exbido, são os resultados obtidos por meio de formulário eletrônico, onde apenas 7 pessoas responderam o formulário até a data da útima atualização deste arquivo:
@@ -59,19 +59,19 @@ Os dados abaixo exbido, são os resultados obtidos por meio de formulário eletr
 * Motivação: o Simples Nacional é uma alternativa para quem está empreendendo como microempresa e empresa de pequeno porte.
 
 <Center>
-A seguir o grafico exibido na figura 1 tem como base as pesquisas que indicam a relação de sexos dentro do projeto:
+A seguir o gráfico exibido na figura 1 tem como base as pesquisas que indicam a relação de sexos dentro do projeto:
 <br>
 <img src='./../../assets/images/Sexo.png'><br>*Figura 1 - Gráfico de dados relacionados ao sexo*</img>
 </Center>
 <br>
 <Center>
-A seguir os objetivos dos usuários:
+A seguir os objetivos dos usuários na figura 2:
  <br>
 <img src='./../../assets/images/Objetivos.png'><br>*Figura 2 - Relação dos objetivos dos usuarios*</img>
 </Center>
 <br>
 <Center>
-Na figura 3 pode ser observado aescolaridade das pessoas que fazem uso do Simples Nacional:
+Na figura 3 pode ser observado a escolaridade das pessoas que fazem uso do Simples Nacional:
 <br>
 <img src='./../../assets/images/Escolaridade.png'><br>*Figura 3 - Gráfico de dados relacionados a escolaridade*</img>
 </Center>
@@ -89,23 +89,29 @@ Na figura 5 é exibido o nível de afinidade das pessoas que utilizam o sistema 
 </Center>
 <br>
 <Center>
-A seguir o grafico exibido na figura 6 tem como base as pesquisas que indicam a idade dos usuários que fazem uso do sistema:
+A seguir o gráfico exibido na figura 6 tem como base as pesquisas que indicam a idade dos usuários que fazem uso do sistema:
 <br>
 <img src='./../../assets/images/Idade.png'><br>*Figura 6 - Gráfico da idade dos usuarios*</img>
 </Center>
 <br>
 <Center>
-A seguir o grafico exibido na figura 7 tem como objetivo compreender qual é o dispositivo mais usado pelo usuário:
+A seguir o gráfico exibido na figura 7 tem como objetivo compreender qual é o dispositivo mais usado pelo usuário:
 <br>
 <img src='./../../assets/images/dispositioUsado.png'><br>*Figura 7 - Gráfico de dispositivo mais usado*</img>
 </Center>
 <br>
 <Center>
-A seguir o grafico exibido na figura 8 exibi qual a situação de ocupação do usuário que estão utilizando o sistema:
+A seguir o gráfico exibido na figura 8 exibi qual a situação de ocupação do usuário que estão utilizando o sistema:
 <br>
 <img src='./../../assets/images/situacaoAtual.png'><br>*Figura 8 - Gráfico da ocupação do usuário*</img>
 </Center>
 <br>
+Na figura 9 temos um gráfico que podemos ter uma noção do tempo médio de uso de dispositivos eletrônicos no dia do usuário:
+<br>
+<img src='./../../assets/images/tempoUso.png'><br>*Figura 9 - Gráfico do tempo de uso de dispositivo eletrônico no dia*</img>
+</Center>
+<br>
+
 
 ## <a>Bibliografia</a>
 [1] Gomes, R.S. (2016) Análise do perfil do microempreendedor individual mei no DF - unb, Trabalho de conclusao de curso. Available at: https://bdm.unb.br/bitstream/10483/16081/1/2016_RafaelaDaSilvaGomes_tcc.pdf (Accessed: December 8, 2022). 
