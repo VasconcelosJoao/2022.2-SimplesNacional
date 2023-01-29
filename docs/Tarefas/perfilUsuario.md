@@ -5,6 +5,7 @@
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
 | 05/12/2022 |        06/12/2022        |  1.0   |     Criação do documento     |   [Eduardo](https://github.com/edudsan)    | [João Lucas](https://github.com/HacKairos) |
 | 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
+| 29/01/2023 |        30/01/2023        |  1.2   | Correção com base na verificação | [Eduardo](https://github.com/edudsan) | [-](https://github.com/) |
 
 
 ## <a>Introdução</a>
@@ -28,6 +29,8 @@ Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há
 5. Experiência com Tecnologia;
 
 O questionário também dá suporte às pesquisas realizadas, que nos dizem que, aproximadamente 28,6% dos usuários são do sexo feminino e que a idade da maior parte dos usuários fica entre 16 e 60 anos. Abaixo há um resumo dos perfis de usuário determinados a partir do uso de ambos os meios.
+
+Os dados abaixo exbido, são os resultados obtidos por meio de formulário eletrônico, onde apenas 7 pessoas responderam o formulário:
 
 * Idade: entre 16 e 60 anos;
 * Sexo: 71,4 % do sexo masculino e 28,6 % do sexo feminino;
@@ -62,7 +65,7 @@ Na figura 3 pode ser observado aescolaridade das pessoas que fazem uso do Simple
 <Center>
 O grau de afinidade com o sistema do Simples Nacional pode ser observado na figura 4:
 <br>
-<img src='./../../assets/images/ExperienciaSN.png'><br>*Figura 4 - Gráfico da experiência com o Imples Nacional *</img>
+<img src='./../../assets/images/ExperienciaSN.png'><br>*Figura 4 - Gráfico da experiência com o Simples Nacional *</img>
 </Center>
 <br>
 <Center>
@@ -77,7 +80,18 @@ A seguir o grafico exibido na figura 6 tem como base as pesquisas que indicam a 
 <img src='./../../assets/images/Idade.png'><br>*Figura 6 - Gráfico da idade dos usuarios*</img>
 </Center>
 <br>
-
+<Center>
+A seguir o grafico exibido na figura 7 tem como objetivo compreender qual é o dispositivo mais usado pelo usuário:
+<br>
+<img src='./../../assets/images/dispositioUsado.png'><br>*Figura 7 - Gráfico de dispositivo mais usado*</img>
+</Center>
+<br>
+<Center>
+A seguir o grafico exibido na figura 8 exibi qual a situação de ocupação do usuário que estão utilizando o sistema:
+<br>
+<img src='./../../assets/images/situacaoAtual.png'><br>*Figura 8 - Gráfico da ocupação do usuário*</img>
+</Center>
+<br>
 
 ## <a>Bibliografia</a>
 [1] Gomes, R.S. (2016) Análise do perfil do microempreendedor individual mei no DF - unb, Trabalho de conclusao de curso. Available at: https://bdm.unb.br/bitstream/10483/16081/1/2016_RafaelaDaSilvaGomes_tcc.pdf (Accessed: December 8, 2022). 
