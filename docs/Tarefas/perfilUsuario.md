@@ -37,7 +37,7 @@ Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há
 |   9   |    Qual sua ocupação atual?                                  |
 |   10  |    Por quanto tempo você usa o dispositivo eletrônico no dia?|
 
-*Tabela 1 - Peruntas do formulário eletrônico.*
+*Tabela 1 - Perguntas do formulário eletrônico.*
 
  
 </Center>
