@@ -30,7 +30,7 @@ Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há
 
 O questionário também dá suporte às pesquisas realizadas, que nos dizem que, aproximadamente 28,6% dos usuários são do sexo feminino e que a idade da maior parte dos usuários fica entre 16 e 60 anos. Abaixo há um resumo dos perfis de usuário determinados a partir do uso de ambos os meios.
 
-Os dados abaixo exbido, são os resultados obtidos por meio de formulário eletrônico, onde apenas 7 pessoas responderam o formulário:
+Os dados abaixo exbido, são os resultados obtidos por meio de formulário eletrônico, onde apenas 7 pessoas responderam o formulário até a data da útima atualização deste arquivo:
 
 * Idade: entre 16 e 60 anos;
 * Sexo: 71,4 % do sexo masculino e 28,6 % do sexo feminino;
