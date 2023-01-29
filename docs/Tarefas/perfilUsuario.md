@@ -20,7 +20,21 @@ O perfil do usuário deve ser definido levando em conta o maior número possíve
 Tendo isto em mente, pode-se utilizar diferentes técnicas para coletar dados sobre o perfil dos usuários. Nesse projeto, foram utilizadas duas técnicas: um questionário em formato de formulário virtual e Baseados no TCC da ex aluna da UNB Rafaela da Silva Gomes [1] , método que complementa e orienta a obtenção de novos dados [2].
 
 ## <a>Resultados</a>
-Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há grande divergência nos dados obtidos. Alguns dados obtidos pelo questionário são:
+Os resultados da pesquisa e do questionário são semelhantes, ou seja, não há grande divergência nos dados obtidos. Alguns dados obtidos pelo questionário foram por meio das perguntas que podem ser lidas na tabela 1:
+
+|Número |                            Pergunta                          |
+|:-----:| :-----------------------------------------------------------:|
+|   1   |    Qual a sua idade?                                         |
+|   2   |    Qual o seu sexo?                                          |
+|   3   |    Qual a sua esolaridade?                                   |
+|   4   |    Qual a sua experiência com o Simples Nacional?            |
+|   5   |    Qual a sua experiência com a tecnologia atual?            |
+|   6   |    Principal motivo para usar o Simples Nacional             |
+|   7   |    Qual seu status socioeconômico?                           |
+|   8   |    Qual dispositivo você mais usa?                           |
+|   9   |    Qual sua ocupação atual?                                  |
+|   10  |    Por quanto tempo você usa o dispositivo eletrônico no dia?|
+
 
 1. Escolaridade;
 2. Idade;
