@@ -229,12 +229,44 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 
 ## <a>V&V</a>
 ### <a>Verificação</a>
+Para realizar a verificação dos artefatos do projeto, foram escolhidas pessoas não envolvidas na criação de cada artefato. Com isso, buscava-se encontrar erros não percebidos pelo criador e/ou revisor do mesmo até então.
 
+A metodologia adotada foi a [Inspeção](../Verificacao/#inspecao) com o auxílio de [Checklists](../Verificação/#metodo-de-avaliacao). Na tabela X abaixo, Autor representa o criador da checklist e Revisor o responsável por aplicar a inspeção.
 
+<center>
+
+|Artefato|Autor|Revisor|Data de Aplicação|
+|--------|-------|-------|-------------------|
+|[Sites Analisados](../Verificacao/Planejamento/VerificacaoSitesAnalisados.md)|[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|[Termo de Consentimento](../Verificacao/Planejamento/termoConsentimento.md)|[Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
+|[Modelo de Design](../Verificacao/Planejamento/modeloDesign.md)|[Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
+|[Aspectos Éticos](../Verificacao/Planejamento/aspectosEticos.md)|[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|[Princípios Gerais](../Verificacao/Tarefas/principiosGerais.md)|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
+|[Perfil de Usuário](../Verificacao/Tarefas/VerificacaoPerfilUsuario.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|[Análise de Tarefas](../Verificacao/Tarefas/AnaliseDeTarefas.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
+|[Cenários](../Verificacao/Tarefas/VerificacaoCenarios.md)|[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
+|[Metas de Usabilidade](../Verificacao/Tarefas/verificacaoMetasDeUsabilidade.md)|[Eduardo](https://github.com/edudsan)|[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
+|[Características da Plataforma](../Verificacao/Tarefas/VerificacaoCaracteristicasPlataforma.md)|[Arthur Taylor](https://github.com/Eruel6)|[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
+|[Guia de Estilo](../Verificacao/Tarefas/verificacaoGuiaDeEstilo.md)|[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|Análise de Tarefas - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoPlanAval.md)|[Pedro Lucas](https://github.com/PedroLSF)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
+|Análise de Tarefas - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoPlanejamentoRelato.md)|[Pedro Lucas](https://github.com/PedroLSF)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
+|Análise de Tarefas - [Relato dos Resultados](../Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoRelato.md)|[Pedro Lucas](https://github.com/PedroLSF)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
+|Storyboard - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerficacaoPlanejamentoAval.md)|[João Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
+|Storyboard - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoPlanejamentoRelato.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
+|Storyboard - [Relato dos Resultados](../Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoRelato.md)|[João Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
+|Protótipo de Papel - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel2/VerficacaoPlanejamentoAval.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|Protótipo de Papel - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel2/VerificacaoPlanejamentoRelato.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|Protótipo de Papel - [Relato dos Resultados](../Verificacao/DesignAvaliacaoDesen/Nivel2/VerificacaoRelato.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|Protótipo de Alta Fidelidade - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoAvaliacao.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
+|Protótipo de Alta Fidelidade - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoRelato.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
+
+*Tabela X - Artefatos de verificação*
+<br><br>
+
+</center>
 
 ### <a>Validação</a>
-
-
+A validação foi realizada por diversos usuários durante o desenvolvimento do projeto. Conforme o grupo desenvolvia artefatos, havia a realização de entrevistas com o usuário, visando saber se o trabalho produzido correspondia com a expectativa do usuário e/ou realidade.
 
 ## <a>BIbliografia</a>
 [1] 2022.1-YouTube. Disponível em: https://requisitos-de-software.github.io/2022.1-Youtube/apresentacao-final/. Acesso em: 27 de Janeiro de 2023.
