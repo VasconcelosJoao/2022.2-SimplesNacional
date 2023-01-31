@@ -291,7 +291,7 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 |Integrante|Criados|Revisados|
 |----------|-------|---------|
 |[Ana Luiza](https://github.com/AnHoff)|12|14|
-|[Arthur Taylor](https://github.com/Eruel6)|8|9|
+|[Arthur Taylor](https://github.com/Eruel6)|8|10|
 |[Eduardo](https://github.com/edudsan)|10|8|
 |[João Lucas](https://github.com/HacKairos)|18|20|
 |[Pedro Lucas](https://github.com/PedroLSF)|20|9|
