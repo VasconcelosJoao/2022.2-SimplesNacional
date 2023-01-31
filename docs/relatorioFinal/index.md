@@ -4,8 +4,9 @@
 
 | Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                    |
 | :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
-|     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   | -   |
-|     29/01/2023     |        30/01/2023        |  1.1   |     Adiciona artefatos e V&V     |   [Ana Luiza](https://github.com/AnHoff)   | -   |
+|     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
+|     29/01/2023     |        30/01/2023        |  1.1   |     Adiciona artefatos e V&V     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
+|     31/01/2023     |       01/02/2023        |  1.2   |     Adição Das seções Planejamento e execução     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Interação Humano Computador da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -37,8 +38,98 @@ Vale destacar que o documento foi elaborado seguindo o template utilizado pelo p
 
 
 ## <a>Planejamento</a>
+Esta seção tem como objetivo relatar o planejamento feito ao decorrer da disciplina, que consiste basicamente nos documentos realizadas como um meio de "preparação" para o bom desenvolvimento da mesma.
 
+Em tal etapa temos diversos documentos, tais como sites analisados, metodologia e processos, Ferramentas, etc, que estão listados e podem ser visualizados na seção de [Artefatos - Etapa 1](#etapa 1), porém aqui será mostrado apenas o cronograma planejado do projeto, que seria a essência do planejamento do mesmo, por possuir em detalhes a realização de cada artefate e de cada "Sub-artefato" ou até documentos e etapas auxiliares para que seja realizada uma boa execução.
 
+O Cronograma Planejado pode ser visto [aqui](https://requisitos-de-software.github.io/2022.2-MEI/Planejamento/Roadmap/#cronograma-planejado), porém também será listado logo abaixo, nas Tabelas de 1-7 Relacionadas ás etapas 1-7 respectivamente:
+
+<center>
+
+### <a>Etapa 1</a>
+
+|               Tarefa               |               Responsáveis                |   Início   |    Fim     |  Revisão   | Revisor |
+| :--------------------------------: | :---------------------------------------: | :--------: | :--------: | :--------: | :-----: |
+|       Listar sites avaliados       |                Ana e Pedro                | 28/10/2022 | 01/11/2022 | 02/11/2022 |  João   |
+| Discorrer sobre o site selecionado |                Ana e Pedro                | 01/11/2022 | 19/11/2022 | 20/11/2022 |  Pedro  |
+|       Ferramentas do projeto       |         Arthur, Eduardo e Thiago          | 12/11/2022 | 19/11/2022 | 20/11/2022 |   Ana   |
+|      Planejamento Individual       | Ana, Arthur, Pedro, João, Thiago, Eduardo | 12/11/2022 | 19/11/2022 | 20/11/2022 | Thiago  |
+|      Cronograma de atividades      |              Arthur e Thiago              | 16/11/2022 | 23/11/2022 | 24/11/2022 | Eduardo |
+|              Heatmap               |                  Eduardo                  | 16/11/2022 | 23/11/2022 | 24/11/2022 | Thiago  |
+|            Metodologias            |              Arthur e Thiago              | 16/11/2022 | 23/11/2022 | 24/11/2022 |  Pedro  |
+|               Equipe               |                  Thiago                   | 16/11/2022 | 23/11/2022 | 24/11/2022 |  João   |
+|                Atas                |                  Arthur                   | 16/11/2022 | 23/11/2022 | 24/11/2022 |   Ana   |
+|         Processo de Design         |              João e Eduardo               | 16/11/2022 | 23/11/2022 | 24/11/2022 | Arthur  |
+
+*Tabela 1 - Tarefas para a Etapa 1*<br><br>
+
+### <a>Etapa 2</a>
+
+|          Tarefa           |     Responsáveis      |   Início   |    Fim     |  Revisão   |  Revisor  |
+| :-----------------------: | :-------------------: | :--------: | :--------: | :--------: | :-------: |
+| Traçar perfil de usuários | Eduardo, João e Pedro | 23/11/2022 | 30/11/2022 | 01/12/2022 | João, Ana |
+|         Personas          |         Pedro         | 23/11/2022 | 06/12/2022 | 07/12/2022 |   João    |
+|   Perfil - Questionário   |        Eduardo        | 23/11/2022 | 29/11/2022 | 30/11/2022 |  Thiago   |
+|   Mapear possibilidades   |         Pedro         | 30/11/2022 | 06/12/2022 | 07/12/2022 |  Arthur   |
+|     Mapear limitações     |        Eduardo        | 30/11/2022 | 06/12/2022 | 07/12/2022 |  Arthur   |
+| Análise de tarefas - HTA  |          Ana          | 23/11/2022 | 06/12/2022 | 07/12/2022 |  Eduardo  |
+| Análise de tarefas - GOMS |         Pedro         | 23/11/2022 | 06/12/2022 | 07/12/2022 |  Thiago   |
+
+*Tabela 2 - Tarefas para a Etapa 2*<br><br>
+
+### <a>Etapa 3</a>
+
+|            Tarefa             | Responsáveis |   Início   |    Fim     |  Revisão   | Revisor |
+| :---------------------------: | :----------: | :--------: | :--------: | :--------: | :-----: |
+| Princípios gerais do projeto  | Ana e Thiago | 04/12/2022 | 08/12/2022 | 09/12/2022 | Arthur  |
+|        Guia de estilo         |    Arthur    | 04/12/2022 | 08/12/2022 | 09/12/2022 | Thiago  |
+| Características da plataforma |   Eduardo    | 07/12/2022 | 11/12/2022 | 12/11/2022 |  João   |
+|     Metas de usabilidade      | Pedro e João | 07/12/2022 | 11/12/2022 | 12/11/2022 | Eduardo |
+
+*Tabela 3 - Tarefas para a Etapa 3*<br><br>
+
+### <a>Etapa 4</a>
+
+|                                  Tarefa                                   | Responsáveis  |   Início   |    Fim     |  Revisão   | Revisor |
+| :-----------------------------------------------------------------------: | :-----------: | :--------: | :--------: | :--------: | :-----: |
+|                  Storyboard - planejamento da avaliação                   |     Pedro     | 09/12/2022 | 13/12/2022 | 14/12/2022 |   Ana   |
+|              Análise de tarefas - planejamento de avaliação               | João e Thiago | 09/12/2022 | 13/12/2022 | 14/12/2022 |  Pedro  |
+|     Storyboard - planejamento dos relatos dos resultados da avaliação     | Arthur e Ana  | 13/12/2022 | 14/12/2022 | 15/12/2022 |  João   |
+| Análise de tarefas - planejamento dos relatos dos resultados da avaliação |    Eduardo    | 13/12/2022 | 14/12/2022 | 15/12/2022 | Arthur  |
+
+*Tabela 4 - Tarefas para a Etapa 4*<br><br>
+
+### <a>Etapa 5</a>
+
+|                           Tarefa                           |  Responsáveis   |   Início   |    Fim     |  Revisão   | Revisor |
+| :--------------------------------------------------------: | :-------------: | :--------: | :--------: | :--------: | :-----: |
+|                     Análise de tarefas                     | Thiago e Arthur | 14/12/2022 | 01/01/2023 | 02/01/2023 |   Ana   |
+|       Protótipo de papel - planejamento da avaliação       |   João e Ana    | 14/12/2022 | 01/01/2023 | 02/01/2023 |  Pedro  |
+|             Storyboard - relato dos resultados             |     Eduardo     | 14/12/2022 | 01/01/2023 | 02/01/2023 | Thiago  |
+| Protótipo de papel - planejamento do relato dos resultados |      Pedro      | 14/12/2022 | 01/01/2023 | 02/01/2023 |  João   |
+
+*Tabela 5 - Tarefas para a Etapa 5*<br><br>
+
+### <a>Etapa 6</a>
+
+|                  Tarefa                   |      Responsáveis       |   Início   |    Fim     |  Revisão   | Revisor |
+| :---------------------------------------: | :---------------------: | :--------: | :--------: | :--------: | :-----: |
+| Definir os padrões de design de interface | Pedro, Thiago e Eduardo | 01/01/2023 | 10/01/2023 | 11/01/2023 |  João   |
+|    Protótipos dos designs de interface    |   João, Ana e Arthur    | 01/01/2023 | 10/01/2023 | 11/01/2023 | Thiago  |
+
+*Tabela 6 - Tarefas para a Etapa 6*<br><br>
+
+### <a>Etapa 7</a>
+
+|                          Tarefa                          |  Responsáveis   |   Início   |    Fim     |  Revisão   | Revisor |
+| :------------------------------------------------------: | :-------------: | :--------: | :--------: | :--------: | :-----: |
+| Protótipo de alta fidelidade - planejamento de avaliação | Arthur e Thiago | 11/01/2023 | 17/01/2023 | 18/01/2023 |   Ana   |
+|    Coleta de opinião dos usuários e melhorias de IHC     |  Pedro e João   | 16/01/2023 | 24/01/2023 | 25/01/2023 | Eduardo |
+|        Protótipo de papel - relato dos resultados        |  Ana e Eduardo  | 17/01/2023 | 20/01/2023 | 21/01/2023 |  João   |
+
+*Tabela 7 - Tarefas para a Etapa 7*<br><br>
+
+</center>
 
 ## <a>Execução</a>
 
