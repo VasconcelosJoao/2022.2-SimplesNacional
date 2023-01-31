@@ -4,7 +4,7 @@
 
 |Data de Realização|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: | :------: | :-----------: | :---------: |:---------: | :---------: |
-|11/01/2022|11/01/2022|1.0|Criação do Documento|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|
+|11/01/2022|11/01/2022|1.0|Criação do Documento|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|
 
 ## <a>Introdução </a>
 Este documento contempla o relato dos resultados do Protótipo de Papel, onde foi utilizado a metodologia de entrevista(s), onde em uma chamada online ao vivo,
