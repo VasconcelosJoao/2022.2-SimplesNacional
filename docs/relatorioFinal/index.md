@@ -184,7 +184,7 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 |[Termo de Consentimento](../Planejamento/ModeloTermoConsentimento.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
 |[Aspectos Éticos](../Planejamento/AspectosEticos.md)|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
 |[Análise de Tarefas](../Tarefas/Analise.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
-|[Perfil de Usuários](../Tarefas/perfilUsuario.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)|[Pedro Lucas](https://github.com/PedroLSF)[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|[Perfil de Usuários](../Tarefas/perfilUsuario.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)|[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)|25/01/2023|
 |[Personas](../Tarefas/personas.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
 |[Cenários](../Tarefas/Cenario.md)|[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
 |[Metas de Usabilidade](../Tarefas/MetasUsabilidade.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
@@ -291,11 +291,11 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 |Integrante|Criados|Revisados|
 |----------|-------|---------|
 |[Ana Luiza](https://github.com/AnHoff)|12|14|
-|[Arthur Taylor](https://github.com/Eruel6)|7|5|
+|[Arthur Taylor](https://github.com/Eruel6)|7|9|
 |[Eduardo](https://github.com/edudsan)|10|8|
 |[João Lucas](https://github.com/HacKairos)|18|20|
-|[Pedro Lucas](https://github.com/PedroLSF)|20|4|
-|[Thiago Oliveira](https://github.com/Thiab394)|19|11|
+|[Pedro Lucas](https://github.com/PedroLSF)|20|9|
+|[Thiago Oliveira](https://github.com/Thiab394)|19|13|
 
 *Tabela X - Artefatos por integrante*
 <br><br>
