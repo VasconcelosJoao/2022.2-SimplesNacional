@@ -219,7 +219,7 @@ Assim como a Análise de tarefa, o storyboard se divide em 3 documentos principa
 * [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard/)
 * [Relato dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/RelatoResultadosStoryboard/)
 
-Depois de identificar os usuários do Simples Nacional
+Depois de identificar os usuários do Simples Nacional, o grupo foi atrás de desenvolver o Storyboard para verificarmos se atendia com o planejado.
 
 ### <a>Nível 2</a>
 #### <a>Protótipo de Papel</a>
