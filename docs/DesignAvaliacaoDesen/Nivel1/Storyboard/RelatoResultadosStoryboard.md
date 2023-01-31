@@ -4,7 +4,7 @@
 
 | Data de Realização | Data Prevista de Revisão | Versão |            Descrição             |                     Autor                      |                  Revisor                   |
 | :----------------: | :----------------------: | :----: | :------------------------------: | :--------------------------------------------: | :----------------------------------------: |
-|     11/01/2022     |        11/01/2022        |  1.0   |       Criação do Documento       | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394) |   [Ana Luiza](https://github.com/AnHoff)   |
+|     11/01/2022     |        11/01/2022        |  1.0   |       Criação do Documento       | [Thiago Oliveira](https://github.com/Thiab394) |   [Ana Luiza](https://github.com/AnHoff)   |
 |     24/01/2023     |        25/01/2023        |  1.1   | Correção com base na Verificação | [Thiago Oliveira](https://github.com/Thiab394) | [João Lucas](https://github.com/HacKairos) |
 |     25/01/2023     |        25/01/2023        |  1.3   |   Padronização e Revisão Final   |   [João Lucas](https://github.com/HacKairos)   |   [Thiago](https://github.com/Thiab394)    |
 
