@@ -1,8 +1,8 @@
-# Verificação do Termo de Consentimento
+# Verificação do Aspectos Éticos
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
-| 16/01/2023 |        17/01/2023        |  1.0   |     Criação do documento     |   [Ana Luiza](https://github.com/AnHoff)   | [João Lucas](https://github.com/HacKairos) |
+| 16/01/2023 |        17/01/2023        |  1.0   |     Criação do documento     |   [Ana Luiza](https://github.com/AnHoff)   | [João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF) |
 | 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) |   [Eduardo](https://github.com/edudsan)    |
 
 ## <a>Introdução</a>
