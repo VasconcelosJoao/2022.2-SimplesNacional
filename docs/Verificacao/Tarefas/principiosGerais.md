@@ -1,4 +1,4 @@
-# Verificação do Termo de Consentimento
+# Verificação do Princípios Gerais
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
