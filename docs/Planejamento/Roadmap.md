@@ -202,23 +202,32 @@ O cronograma planejado apresenta uma versão inicial de planejamento e pode dife
 
 |                  Tarefa                     | Responsáveis            |  Entrega   |  Revisão   |  Revisor   |
 | :---------------------------------------:   | :----------:            | :--------: | :--------: | :--------: |
-|Planejamento da Verificação                                            |    Pedro     | 14/01/2023 | 18/01/2023 |            |
-|Verificação - Modelo de Design                                         |     Ana      | 18/01/2023 | 18/01/2023 |            |
-|Verificação - Aspectos Éticos                                          |     Ana      | 16/01/2023 | 17/01/2023 |            |
-|Verificação - Termo de Consentimento                                   |     Ana      | 14/01/2023 | 15/01/2023 |            |
-|Verificação - Princípios Gerais                                        |     Ana      | 18/01/2023 | 18/01/2023 |            |
+|Planejamento da Verificação                                            |    Pedro     | 15/01/2023 | 16/01/2023 |João Lucas|
+|Verificação - Sites Analisados                                         |Pedro Lucas| 18/01/2023 | 18/01/2023 |  João Lucas | 
+|Verificação - Modelo de Design                                         |     Ana      | 18/01/2023 | 18/01/2023 |  Pedro Lucas  |
+|Verificação - Aspectos Éticos                                          |     Ana      | 16/01/2023 | 17/01/2023 |João Lucas|
+|Verificação - Termo de Consentimento                                   |     Ana      | 14/01/2023 | 15/01/2023 |  Pedro Lucas  |
+|Verificação - Princípios Gerais                                        |     Ana      | 18/01/2023 | 18/01/2023 | Arthur Taylor |
+|Verificação - Analise de Tarefas                                        |     João Lucas      | 16/01/2023 | 17/01/2023 |Ana|
+|Verificação - Perfil de Usuário                                        |     Arthur Taylor| 18/01/2023 | 18/01/2023 | João Lucas |
 |Verificação - Cenários                                                 |    Thiago    | 15/01/2023 | 16/01/2023 |    Ana     |
-|Verificação - Plan. Relato Storyboard                                  |  João Lucas  | 15/01/2023 | 16/01/2023 |            |
-|Verificação - Analise de tarefas                                       |  João Lucas  | 15/01/2023 | 16/01/2023 |            |
-|Verificação - Plan. Avaliação Prot. Alta.                              |  João Lucas  | 15/01/2023 | 16/01/2023 |            |
-|Verificação - Plan. Relato Prot. Alta.                                 |  João Lucas  | 15/01/2023 | 16/01/2023 |            |
-|Verificação - Avaliação da Analise de Tarefas                          |  Pedro Lucas | 18/01/2023 | 18/01/2023 |            |
-|Verificação - Planejamento da Avaliação da Análise de Tarefa           |  Pedro Lucas | 18/01/2023 | 18/01/2023 |            |
-|Verificação - Planejamento do Relato de Resultados da Análise de Tarefa|  Pedro Lucas | 18/01/2023 | 18/01/2023 |            |
-|Verificação - Relato dos Resultados Da Analise de Tarefas              |  Pedro Lucas | 18/01/2023 | 18/01/2023 |            |
-|Verificação - Metas de Usabilidade                                     |   Eduardo    | 17/01/2023 | 18/01/2023 | João Lucas |
-|Verificação - Guia de Estilo                                           |   Eduardo    | 17/01/2023 | 18/01/2023 | João Lucas |
-  
+|Verificação - Metas de Usabilidade                                     |   Eduardo    | 17/01/2023 | 18/01/2023 | Arthur Taylor |
+|Verificação - Caracteristicas da Plataforma                          |    Arthur Taylor    | 17/01/2023 | 18/01/2023 |    Ana     |
+|Verificação - Guia de Estilo                                           |   Eduardo    | 17/01/2023 | 18/01/2023 | João Lucas | 
+|Verificação - Planejamento da Avaliação da Análise de Tarefa           |  Pedro Lucas | 16/01/2023 | 17/01/2023 |Thiago|
+|Verificação - Planejamento do Relato de Resultados da Análise de Tarefa|  Pedro Lucas | 18/01/2023 | 18/01/2023 |Thiago|
+|Verificação - Avaliação da Analise de Tarefas                          |  Pedro Lucas | 18/01/2023 | 18/01/2023 |Thiago|
+|Verificação - Relato dos Resultados Da Analise de Tarefas              |  Pedro Lucas | 16/01/2023 | 17/01/2023 |Thiago|
+|Verificação - Planejamento da Avaliação do Storyboard         |  João Lucas | 16/01/2023 | 17/01/2023 |Pedro Lucas|
+|Verificação - Plan. Relato Storyboard                                  |  João Lucas  | 16/01/2023 | 17/01/2023 |Eduardo|
+|Verificação - Avaliação do Storyboard                          |   João Lucas | 16/01/2023 | 17/01/2023 |Pedro Lucas|
+|Verificação - Relato dos Resultados do Storyboard              |   João Lucas | 18/01/2023 | 18/01/2023 |Pedro Lucas|
+|Verificação - Planejamento da Avaliação do Prototipo de Papel         |  Arthur Taylor | 18/01/2023 | 18/01/2023 |João Lucas|
+|Verificação - Planejamento do Relato de Resultados do Prototipo de Papel |  Arthur Taylor | 18/01/2023 | 18/01/2023 |João Lucas|
+|Verificação - Relato dos Resultados do Prototipo de Papel               |  Arthur Taylor | 18/01/2023 | 18/01/2023 |João Lucas| 
+|Verificação - Plan. Avaliação Prot. Alta.                              |  João Lucas  | 16/01/2023 | 17/01/2023 |Eduardo|
+|Verificação - Plan. Relato Prot. Alta.                                 |  João Lucas  | 16/01/2023 | 17/01/2023 |Eduardo|
+
 *Tabela 14 - Tarefas executadas para a entrega 7*<br><br>
 
 </center>
