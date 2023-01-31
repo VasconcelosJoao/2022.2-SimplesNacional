@@ -116,8 +116,8 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 |[Planejamento do Relato do Resultados da Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
 |[Planejamento da Avaliação do Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)<br>[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
 |[Planejamento do Relato do Resultados do Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard.md)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)|25/01/2023|
-|[Teste Piloto - Análise de Tarefas](../DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Teste Piloto - Storyboard](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoStoryboard.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|[Teste Piloto - Análise de Tarefas](../DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|[Teste Piloto - Storyboard](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoStoryboard.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
 
 *Tabela X - Artefatos realizados durante a etapa 4*
 <br><br>
@@ -133,11 +133,11 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 |--------|-------|-------|-------------------|
 |[Planejamento da Avaliação do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoProtPapel.md)|[Ana Luiza](https://github.com/AnHoff)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
 |[Planejamento do Relato do Resultados do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoRelatoResuProtPapel.md)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|[Resultados da Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/RelatoResultadosAnaliseTarefas.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Resultados do Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard.md)|[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|[Resultados da Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/RelatoResultadosAnaliseTarefas.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|[Resultados do Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|25/01/2023|
 |[Termo de Consentimento - Análise de Tarefas](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoAnaliseTarefas.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
 |[Termo de Consentimento - Storyboard](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoStoryboard.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Verificação da 1ª Etapa](../DesignAvaliacaoDesen/Nivel1/VerificacaoEtapa1.md)|[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|[Verificação da 1ª Etapa](../DesignAvaliacaoDesen/Nivel1/VerificacaoEtapa1.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|25/01/2023|
 |[Teste Piloto - Protótipo de Papel](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtPapel.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
 
 *Tabela X - Artefatos realizados durante a etapa 5*
@@ -155,7 +155,7 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 |[Planejamento da Avaliação do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoProtAlta.md)|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|25/01/2023|
 |[Planejamento do Relato do Resultados do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoRelatoResuProtAlta.md)|[João Lucas](https://github.com/HacKairos)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
 |[Teste Piloto - Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtAltaFidelidade.md)|[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Resultados do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/RelatoResultadosProtPapel.md)|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|11/01/2023|
+|[Resultados do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/RelatoResultadosProtPapel.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|11/01/2023|
 |[Termo de Consentimento - Protótipo de Papel](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtPapel.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
 
 *Tabela X - Artefatos realizados durante a etapa 7*
@@ -171,7 +171,7 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 |Artefato|Criador|Revisor|Data de Finalização|
 |--------|-------|-------|-------------------|
 |[Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/index.md)|[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Resultados do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/RelatoResProtAlta.md)|[Thiago Oliveira](https://github.com/Thiab394)|[Eduardo](https://github.com/edudsan)|25/01/2023|
+|[Resultados do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/RelatoResProtAlta.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Eduardo](https://github.com/edudsan)|25/01/2023|
 |[Termo de Consentimento - Alta Fidelidade](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtAlta.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
 
 *Tabela X - Artefatos realizados durante a etapa 8*
@@ -190,10 +190,10 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 |Integrante|Criados|Revisados|
 |----------|-------|---------|
 |[Ana Luiza](https://github.com/AnHoff)|12|14|
-|[Arthur Taylor](https://github.com/Eruel6)|4|5|
+|[Arthur Taylor](https://github.com/Eruel6)|5|5|
 |[Eduardo](https://github.com/edudsan)|10|8|
 |[João Lucas](https://github.com/HacKairos)|15|20|
-|[Pedro Lucas](https://github.com/PedroLSF)|6|4|
+|[Pedro Lucas](https://github.com/PedroLSF)|13|4|
 |[Thiago Oliveira](https://github.com/Thiab394)|16|10|
 
 *Tabela X - Artefatos por integrante*
@@ -214,7 +214,12 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 
 
 #### <a>Storyboard</a>
+Assim como a Análise de tarefa, o storyboard se divide em 3 documentos principais, sendo eles:
+* [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard/)
+* [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard/)
+* [Relato dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/RelatoResultadosStoryboard/)
 
+Depois de identificar os usuários do Simples Nacional
 
 ### <a>Nível 2</a>
 #### <a>Protótipo de Papel</a>
