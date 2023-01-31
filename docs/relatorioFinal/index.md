@@ -90,7 +90,7 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 |Artefato|Criador|Revisor|Data de Finalização|
 |--------|-------|-------|-------------------|
 |[Termo de Consentimento](../Planejamento/ModeloTermoConsentimento.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
-|[Aspectos Éticos](../Planejamento/AspectosEticos.md)|[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
+|[Aspectos Éticos](../Planejamento/AspectosEticos.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Arthur Taylor](https://github.com/Eruel6)|[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
 |[Análise de Tarefas](../Tarefas/Analise.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
 |[Perfil de Usuários](../Tarefas/perfilUsuario.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
 |[Personas](../Tarefas/personas.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
@@ -190,7 +190,7 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 |Integrante|Criados|Revisados|
 |----------|-------|---------|
 |[Ana Luiza](https://github.com/AnHoff)|12|14|
-|[Arthur Taylor](https://github.com/Eruel6)|5|5|
+|[Arthur Taylor](https://github.com/Eruel6)|6|5|
 |[Eduardo](https://github.com/edudsan)|10|8|
 |[João Lucas](https://github.com/HacKairos)|15|20|
 |[Pedro Lucas](https://github.com/PedroLSF)|13|4|
