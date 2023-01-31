@@ -3,7 +3,7 @@
 ## <a>Histórico de Versão  </a>
 | Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                                         Autor                                          |                    Revisor                    |
 | :----------------: | :----------------------: | :----: | :--------------------------: | :------------------------------------------------------------------------------------: | :-------------------------------------------: |
-|     05/01/2023     |        06/01/2023        |  1.0   |   Criação do Teste Piloto    | [Eduardo](https://github.com/edudsan) e [Thiago Oliveira](https://github.com/Thiab394) |  [João Lucas](https://github.com/Hackairos)   |
+|     05/01/2023     |        06/01/2023        |  1.0   |   Criação do Teste Piloto    | [Pedro Lucas](https://github.com/PedroLSF), [Eduardo](https://github.com/edudsan) e [Thiago Oliveira](https://github.com/Thiab394) |  [João Lucas](https://github.com/Hackairos)   |
 |     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final |                       [João Lucas](https://github.com/HacKairos)                       | [Thiago Olveira](https://github.com/Thiab394) |
 
 ## <a>Introdução </a>
