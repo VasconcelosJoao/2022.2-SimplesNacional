@@ -4,7 +4,7 @@
 
 | Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                     Autor                      |                    Revisor                    |
 | :----------------: | :----------------------: | :----: | :--------------------------: | :--------------------------------------------: | :-------------------------------------------: |
-|     24/01/2023     |        25/01/2023        |  1.0   |     Criação do Documento     | [Thiago Oliveira](https://github.com/Thiab394) |     [Eduardo](https://github.com/edudsan)     |
+|     24/01/2023     |        25/01/2023        |  1.0   |     Criação do Documento     | [Thiago Oliveira](https://github.com/Thiab394)</br>[Arthur Taylor](https://github.com/Eruel6)</br>[Pedro Lucas](https://github.com/PedroLSF) |     [Eduardo](https://github.com/edudsan)     |
 |     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final |   [João Lucas](https://github.com/HacKairos)   | [Thiago Olveira](https://github.com/Thiab394) |
 
 ## <a>Introdução </a>
