@@ -357,7 +357,7 @@ A metodologia adotada foi a [Inspeção](../Verificacao/#inspecao) com o auxíli
 |[Sites Analisados](../Verificacao/Planejamento/VerificacaoSitesAnalisados.md)|[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
 |[Termo de Consentimento](../Verificacao/Planejamento/termoConsentimento.md)|[Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
 |[Modelo de Design](../Verificacao/Planejamento/modeloDesign.md)|[Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
-|[Aspectos Éticos](../Verificacao/Planejamento/aspectosEticos.md)|[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+|[Aspectos Éticos](../Verificacao/Planejamento/aspectosEticos.md)|[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
 |[Princípios Gerais](../Verificacao/Tarefas/principiosGerais.md)|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
 |[Perfil de Usuário](../Verificacao/Tarefas/VerificacaoPerfilUsuario.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
 |[Análise de Tarefas](../Verificacao/Tarefas/AnaliseDeTarefas.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
