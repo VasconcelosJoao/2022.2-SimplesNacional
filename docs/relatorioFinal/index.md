@@ -6,7 +6,7 @@
 | :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
 |     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
 |     29/01/2023     |        30/01/2023        |  1.1   |     Adiciona artefatos e V&V     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
-|     31/01/2023     |       01/02/2023        |  1.2   |     Adição Das seções Planejamento e execução     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
+|     31/01/2023     |       01/02/2023        |  1.2   |     Adição Das seções Planejamento e execução     |   [Thiago Oliveira](https://github.com/Thiab394)   |[-](https://github.com/)|
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Interação Humano Computador da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
