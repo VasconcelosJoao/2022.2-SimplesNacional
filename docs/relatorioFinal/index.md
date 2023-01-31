@@ -133,6 +133,133 @@ O Cronograma Planejado pode ser visto [aqui](https://requisitos-de-software.gith
 </center>
 
 ## <a>Execução</a>
+Esta seção tem como objetivo relatar a execução dos artefatos ao decorrer da disciplina. Tal etapa diz respeito á como foram feitos os artefatos, por quem, quando e quem foi o revisor, também podem ser acrescentadas técnicas de cada uma das etapas do projeto, porém elas estão disponiveis numa seção mais abaixo de [tecnicas](#técnicas).
+
+Em tal etapa temos grande parte dos documentos,  e todos os artefatos realizados para a conclusão da disciplina, como Aspectos Éticos, personas, cenários, storyboard, entre outros que estão listados e podem ser visualizados na seção de [Artefatos](#artefatos), da etapa 1 em diante, porém aqui será mostrado apenas o cronograma executado do projeto, que seria a essência da execução do mesmo, por possuir em detalhes a realização de cada artefato e de cada "Sub-artefato" ou até documentos e etapas auxiliares realizadas para o desenvolvimento dos artefatos.
+
+O Cronograma Executa pode ser visto [aqui](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Planejamento/Roadmap/#cronograma-realizado), porém também será listado logo abaixo, nas Tabelas de 8-14 Relacionadas ás etapas 1-7 respectivamente:
+
+### <a>Etapa 1</a>
+
+|               Tarefa               |               Responsáveis                |  Entrega   |  Revisão   |    Revisor     |
+| :--------------------------------: | :---------------------------------------: | :--------: | :--------: | :------------: |
+|       Listar sites avaliados       |                Ana e Pedro                | 23/11/2022 | 23/11/2022 |   Ana, Pedro   |
+| Discorrer sobre o site selecionado |                   Pedro                   | 23/11/2022 | 23/11/2022 |      Ana       |
+|       Ferramentas do projeto       |                Ana e João                 | 14/11/2022 | 14/11/2022 |   Ana, João    |
+|      Planejamento Individual       | Ana, Arthur, Pedro, João, Thiago, Eduardo | 22/11/2022 | 22/11/2022 |     Thiago     |
+|      Cronograma de atividades      |              Arthur e Thiago              | 22/11/2022 | 23/11/2022 | Arthur, Thiago |
+|              Heatmap               |                  Eduardo                  | 22/11/2022 | 22/11/2022 |      João      |
+|            Metodologias            |              Arthur e Thiago              | 20/11/2022 | 21/11/2022 | Arthur, Thiago |
+|               Equipe               |                   João                    | 20/11/2022 | 20/11/2022 |     Thiago     |
+|                Atas                |                  Arthur                   | 22/11/2022 | 23/11/2022 |      Ana       |
+|         Processo de Design         |                   Pedro                   | 22/11/2022 | 22/11/2022 |      João      |
+
+*Tabela 8 - Tarefas executadas para a Etapa 1*<br><br>
+
+### <a>Etapa 2</a>
+
+|          Tarefa           |  Responsáveis   |  Entrega   |  Revisão   | Revisor |
+| :-----------------------: | :-------------: | :--------: | :--------: | :-----: |
+| Traçar perfil de usuários |     Eduardo     | 05/12/2022 | 06/12/2022 |  João   |
+|         Personas          |      João       | 07/12/2022 | 08/12/2022 | Eduardo |
+|   Perfil - Questionário   |     Eduardo     | 03/12/2022 | 05/12/2022 | Thiago  |
+|      Aspectos éticos      | Thiago e Arthur | 07/12/2022 | 07/12/2022 | Arthur  |
+| Análise de tarefas - HTA  |       Ana       |  07/2022   | 07/12/2022 |  Pedro  |
+| Análise de tarefas - GOMS |      Pedro      |  06/2022   | 07/12/2022 |  João   |
+
+*Tabela 9 - Tarefas  executadas para a Etapa 2*<br><br>
+
+### <a>Etapa 3</a>
+
+|            Tarefa             |    Responsáveis     |  Entrega   |  Revisão   |     Revisor     |
+| :---------------------------: | :-----------------: | :--------: | :--------: | :-------------: |
+|    Termo de Consentimento     |       Thiago        | 08/12/2022 | 09/12/2022 |       Ana       |
+|   Refatoração do cronograma   |         Ana         | 08/12/2022 | 09/12/2022 |     Arthur      |
+|          Ajustes HTA          |         Ana         | 11/12/2022 | 11/12/2022 |     Thiago      |
+| Princípios gerais do projeto  |        Pedro        | 11/12/2022 | 12/12/2022 |       Ana       |
+|        Guia de estilo         | Arthur, Ana, Thiago | 11/12/2022 | 12/12/2022 | Thiago, Eduardo |
+| Características da plataforma |        João         | 11/12/2022 | 12/12/2022 |     Eduardo     |
+|     Metas de usabilidade      |    Pedro e João     | 11/12/2022 | 12/12/2022 |     Eduardo     |
+|           Cenários            |        João         | 11/12/2022 | 12/12/2022 |      Pedro      |
+
+*Tabela 10 - Tarefas executadas para a Etapa 3*<br><br>
+
+### <a>Etapa 4</a>
+
+|                          Tarefa                           |      Responsáveis      |  Entrega   |  Revisão   |    Revisor     |
+| :-------------------------------------------------------: | :--------------------: | :--------: | :--------: | :------------: |
+|          Planejamento da Avaliação - Storyboard           |          Ana           | 13/12/2022 | 13/12/2022 |     Arthur     |
+|      Planejamento da Avaliação - Análise de Tarefas       | Arthur, Eduardo, Pedro | 13/12/2022 | 14/12/2022 | Thiago, Arthur |
+|     Planejamento de relato de resultados - Storyboard     |          João          | 14/12/2022 | 14/12/2022 |      Ana       |
+| Planejamento de relato de resultados - Análise de Tarefas |         Thiago         | 14/12/2022 | 14/12/2022 |      João      |
+
+*Tabela 11 - Tarefas executadas para a Etapa 4*<br><br>
+
+### <a>Etapa 5</a>
+
+|                     Tarefa                     | Responsáveis  |  Entrega   |  Revisão   |   Revisor   |
+| :--------------------------------------------: | :-----------: | :--------: | :--------: | :---------: |
+|             Avaliação - Storyboard             |     João      | 20/12/2022 | 21/12/2022 | Arthur, Ana |
+|         Avaliação - Análise de Tarefas         |    Arthur     | 20/12/2022 | 21/12/2022 |    João     |
+|         Desenvolvimento do Storyboard          | Ana, Eduardo  | 18/12/2022 | 19/12/2022 |   Arthur    |
+| Teste piloto - Storyboard e Análise de Tarefas | Pedro, Thiago | 18/12/2022 | 19/12/2022 |     Ana     |
+
+*Tabela 12 - Tarefas executadas para a Etapa 5*<br><br>
+
+### <a>Etapa 6</a>
+
+|                               Tarefa                                |  Responsáveis   |  Entrega   |  Revisão   |       Revisor        |
+| :-----------------------------------------------------------------: | :-------------: | :--------: | :--------: | :------------------: |
+|      Planejamento da Avaliação - Protótipo de Alta Fidelidade       |       Ana       | 05/01/2023 | 06/01/2023 |       Eduardo        |
+|           Planejamento da Avaliação - Protótipo de Papel            |       Ana       | 01/01/2023 | 02/01/2023 |        Thiago        |
+|               Criação do Protótipo de Alta Fidelidade               |   João Lucas    | 05/01/2023 | 06/01/2023 |       Eduardo        |
+| Planejamento de relato de resultados - Protótipo de Alta Fidelidade |      João       | 05/01/2023 | 06/01/2023 |        Thiago        |
+|      Planejamento de relato de resultados - Protótipo de Papel      |      João       | 05/01/2023 | 06/01/2023 |        Thiago        |
+|                   Avaliação - Protótipo de Papel                    |  Pedro, Arthur  | 05/01/2023 | 06/01/2023 |         João         |
+|                 Gravação de Avaliação - Storyboard                  |  Pedro, Arthur  | 05/01/2023 | 06/01/2023 |         João         |
+|             Gravação de Avaliação - Análise de Tarefas              |  Pedro, Arthur  | 05/01/2023 | 06/01/2023 |         João         |
+|                Desenvolvimento do Protótipo de Papel                |       Ana       | 03/01/2023 | 03/01/2023 | Arthur, João, Thiago |
+|             Gravação de Avaliação - Protótipo de Papel              |  Pedro, Arthur  | 05/01/2023 | 06/01/2023 |         João         |
+|                  Teste piloto - Protótipo de Papel                  | Eduardo, Thiago | 05/01/2023 | 06/01/2023 |        Arthur        |
+|           Teste piloto - Storyboard e Análise de Tarefas            | Eduardo, Thiago | 05/01/2023 | 06/01/2023 |         João         |
+|             Relato dos Resultados - Protótipo de Papel              | Thiago, Pedro   | 11/02/2023 | 11/02/2023 |       Eduardo        |
+|                 Relato dos Resultados - Storyboard                  | Thiago, Pedro   | 11/02/2023 | 11/02/2023 |         Ana          |
+|             Relato dos Resultados - Análise de Tarefas              | Thiago, Pedro   | 11/02/2023 | 11/02/2023 |        Arthur        |
+|    Ajustes no Planejamento de Relato dos Resultados - Storyboard    |       Ana       | 05/01/2023 | 06/01/2023 |       Eduardo        |
+
+*Tabela 13 - Tarefas executadas para a Etapa 6*<br><br>
+
+### <a>Etapa 7</a>
+
+|                  Tarefa                     | Responsáveis            |  Entrega   |  Revisão   |  Revisor   |
+| :---------------------------------------:   | :----------:            | :--------: | :--------: | :--------: |
+|Planejamento da Verificação                                            |    Pedro     | 15/01/2023 | 16/01/2023 |João Lucas|
+|Verificação - Sites Analisados                                         |Pedro Lucas| 18/01/2023 | 18/01/2023 |  João Lucas | 
+|Verificação - Modelo de Design                                         |     Ana      | 18/01/2023 | 18/01/2023 |  Pedro Lucas  |
+|Verificação - Aspectos Éticos                                          |     Ana      | 16/01/2023 | 17/01/2023 |João Lucas|
+|Verificação - Termo de Consentimento                                   |     Ana      | 14/01/2023 | 15/01/2023 |  Pedro Lucas  |
+|Verificação - Princípios Gerais                                        |     Ana      | 18/01/2023 | 18/01/2023 | Arthur Taylor |
+|Verificação - Analise de Tarefas                                        |     João Lucas      | 16/01/2023 | 17/01/2023 |Ana|
+|Verificação - Perfil de Usuário                                        |     Arthur Taylor| 18/01/2023 | 18/01/2023 | João Lucas |
+|Verificação - Cenários                                                 |    Thiago    | 15/01/2023 | 16/01/2023 |    Ana     |
+|Verificação - Metas de Usabilidade                                     |   Eduardo    | 17/01/2023 | 18/01/2023 | Arthur Taylor |
+|Verificação - Caracteristicas da Plataforma                          |    Arthur Taylor    | 17/01/2023 | 18/01/2023 |    Ana     |
+|Verificação - Guia de Estilo                                           |   Eduardo    | 17/01/2023 | 18/01/2023 | João Lucas | 
+|Verificação - Planejamento da Avaliação da Análise de Tarefa           |  Pedro Lucas | 16/01/2023 | 17/01/2023 |Thiago|
+|Verificação - Planejamento do Relato de Resultados da Análise de Tarefa|  Pedro Lucas | 18/01/2023 | 18/01/2023 |Thiago|
+|Verificação - Avaliação da Analise de Tarefas                          |  Pedro Lucas | 18/01/2023 | 18/01/2023 |Thiago|
+|Verificação - Relato dos Resultados Da Analise de Tarefas              |  Pedro Lucas | 16/01/2023 | 17/01/2023 |Thiago|
+|Verificação - Planejamento da Avaliação do Storyboard         |  João Lucas | 16/01/2023 | 17/01/2023 |Pedro Lucas|
+|Verificação - Plan. Relato Storyboard                                  |  João Lucas  | 16/01/2023 | 17/01/2023 |Eduardo|
+|Verificação - Avaliação do Storyboard                          |   João Lucas | 16/01/2023 | 17/01/2023 |Pedro Lucas|
+|Verificação - Relato dos Resultados do Storyboard              |   João Lucas | 18/01/2023 | 18/01/2023 |Pedro Lucas|
+|Verificação - Planejamento da Avaliação do Prototipo de Papel         |  Arthur Taylor | 18/01/2023 | 18/01/2023 |João Lucas|
+|Verificação - Planejamento do Relato de Resultados do Prototipo de Papel |  Arthur Taylor | 18/01/2023 | 18/01/2023 |João Lucas|
+|Verificação - Relato dos Resultados do Prototipo de Papel               |  Arthur Taylor | 18/01/2023 | 18/01/2023 |João Lucas| 
+|Verificação - Plan. Avaliação Prot. Alta.                              |  João Lucas  | 16/01/2023 | 17/01/2023 |Eduardo|
+|Verificação - Plan. Relato Prot. Alta.                                 |  João Lucas  | 16/01/2023 | 17/01/2023 |Eduardo|
+
+*Tabela 14 - Tarefas executadas para a Etapa 7*<br><br>
 
 
 
