@@ -3,7 +3,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
-| 07/12/2022 |        07/12/2022        |  1.0   |     Criação do documento     |   [Thiago](https://github.com/Thiab394)    | [Arthur Taylor](https://github.com/Eruel6) |
+| 07/12/2022 |        07/12/2022        |  1.0   |     Criação do documento     |   [Thiago](https://github.com/Thiab394) e [Arthur](https://github.com/Eruel6)    | [Arthur Taylor](https://github.com/Eruel6) |
 | 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) |   [Ana Luiza](https://github.com/AnHoff)   |
 
 ## <a>Introdução</a>
