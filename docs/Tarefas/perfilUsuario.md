@@ -3,7 +3,7 @@
 ## <a>Histórico de Versão</a>
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                  Revisor                   |
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :----------------------------------------: |
-| 05/12/2022 |        06/12/2022        |  1.0   |     Criação do documento     |   [Eduardo](https://github.com/edudsan)    | [João Lucas](https://github.com/HacKairos) |
+| 05/12/2022 |        06/12/2022        |  1.0   |     Criação do documento     |   [Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)    | [João Lucas](https://github.com/HacKairos) |
 | 25/01/2023 |        25/01/2023        |  1.1   | Padronização e Revisão Final | [João Lucas](https://github.com/HacKairos) | [Pedro Lucas](https://github.com/PedroLSF) |
 | 29/01/2023 |        30/01/2023        |  1.2   | Correção com base na verificação | [Eduardo](https://github.com/edudsan) | [Pedro Lucas](https://github.com/PedroLSF) |
 
