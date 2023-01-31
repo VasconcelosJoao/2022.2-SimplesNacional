@@ -6,7 +6,8 @@
 | :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
 |     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
 |     29/01/2023     |        30/01/2023        |  1.1   |     Adiciona artefatos e V&V     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
-|     31/01/2023     |       01/02/2023        |  1.2   |     Adição Das seções Planejamento e execução     |   [Thiago Oliveira](https://github.com/Thiab394)   |[-](https://github.com/)|
+|     31/01/2023     |       01/02/2023        |  1.2   |     Adição Das seções Planejamento e execução     |   [Thiago Oliveira](https://github.com/Thiab394)   |[Pedro Lucas](https://github.com/PedroLSF)|
+|     31/01/2023     |       01/02/2023        |  1.3   |     Criação da seção de Design     |   [Pedro Lucas](https://github.com/PedroLSF)   |[-]()|
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Interação Humano Computador da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -290,11 +291,11 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 |Integrante|Criados|Revisados|
 |----------|-------|---------|
 |[Ana Luiza](https://github.com/AnHoff)|12|14|
-|[Arthur Taylor](https://github.com/Eruel6)|5|5|
+|[Arthur Taylor](https://github.com/Eruel6)|7|5|
 |[Eduardo](https://github.com/edudsan)|10|8|
-|[João Lucas](https://github.com/HacKairos)|15|20|
+|[João Lucas](https://github.com/HacKairos)|18|20|
 |[Pedro Lucas](https://github.com/PedroLSF)|20|4|
-|[Thiago Oliveira](https://github.com/Thiab394)|16|11|
+|[Thiago Oliveira](https://github.com/Thiab394)|19|11|
 
 *Tabela X - Artefatos por integrante*
 <br><br>
