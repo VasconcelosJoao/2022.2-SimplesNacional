@@ -289,9 +289,39 @@ O Cronograma Executa pode ser visto [aqui](https://interacao-humano-computador.g
 
 ## <a>Ferramentas</a>
 
+Na tabela a seguir pode ser encontrada as ferramentas utilizadas durante o projeto e suas principais funções:
+
+|                                               Logo                                               |    Nome da ferramenta     |                Etapa                |                                            Utilidade                                             |
+| :----------------------------------------------------------------------------------------------: | :-----------------------: | :---------------------------------: | :----------------------------------------------------------------------------------------------: |
+|        <img src="./../../assets/ferramentasLogo/docs.svg" width="100" height="100"></img>        |    <a>Google Docs</a>     |           Todo o projeto            | Utilizado para fazer o planejamento e elaboração de diversos documentos relacionados ao projeto. |
+|       <img src="./../../assets/ferramentasLogo/chrome.svg" width="100" height="100"></img>       |   <a>Google Chrome</a>    |           Todo o projeto            |    Um dos navegadores utilizados para avaliar os sites e ter acesso às diversas ferramentas.     |
+|       <img src="./../../assets/ferramentasLogo/github.svg" width="100" height="100"></img>       |       <a>GitHub</a>       |           Todo o projeto            |                      Utilizado para trabalhar com o projeto da disciplina.                       |
+|  <img src="./../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img>   |  <a>Microsoft Teams</a>   |           Todo o projeto            |          Local de trabalho, usado principalmente para as reuniões síncronas da equipe.           |
+|      <img src="./../../assets/ferramentasLogo/youtube.svg" width="100" height="100"></img>       |      <a>YouTube</a>       |           Todo o projeto            |     Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.     |
+| <img src="./../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | <a>Visual Studio Code</a> |           Todo o projeto            |                 Ferramenta de programação, utilizada para montar o github pages.                 |
+|     <img src="./../../assets/ferramentasLogo/lucidchart.png" width="100" height="100"></img>     |    <a>Lucid Chart</a>     |         Análise de Tarefas          |                      Ferramenta utilizada para construir alguns diagramas.                       |
+|       <img src="./../../assets/ferramentasLogo/figma.svg" width="100" height="100"></img>        |       <a>Figma</a>        | Design, Avaliação e Desenvolvimento |                   Utilizado para trabalhar com protótipos de alta fidelidade.                    |
 
 
 ## <a>Técnicas</a>
+
+### <a>Planejamento</a>
+Dentro do planejamento o grupo seguiu alguns passos para iniciarmos os trabalhos com relação ao Simples Nacional, a primeira etapa foi analisar alguns Sites e definir algumas técnicas que seriam utilizadas ao longo do projeto e primeiras técnicas definidas pela equipe foram o [Scrum](../Planejamento/Metodologia/#sprints) e seguir o ciclo de vida da [Mayhew](../Planejamento/ModeloDesign/#modelo-de-design_1). Nesse primeiro momento foi feito alguns documentos que auxiliam o trabalho, como, por exemplo, [Heatmap](../Planejamento/Heatmap.md), [Roadmap](../Planejamento/Roadmap.md) e [Políticas de Trabalho](../planejamento/../Planejamento/Politicas/CodigoDeConduta.md).<br></br>
+Os participantes do Planejamento foram: [Ana Luiza](https://github.com/AnHoff), [Pedro Lucas](https://github.com/PedroLSF), [João Lucas](https://github.com/HacKairos), [Thiago Oliveira](https://github.com/Thiab394), [Eduardo](https://github.com/edudsan) e [Arthur Taylor](https://github.com/Eruel6).
+
+
+### <a>Análise de Requisitos</a>
+
+Na etapa de análise de requisitos o grupo aplicou diversas técnicas para conseguir se aproximar o máximo possível das necessidades real do usuário, entre as principais técnicas utilizadas que podem ser citadas estão o [HTA](../Tarefas/Analise/#hta) e o [GOMS](/Tarefas/Analise/#goms) dentro da [Análise de tarefas](../Tarefas/Analise), [Cenários](../Tarefas/Cenario.md), [Perfil de Usuários](../Tarefas/perfilUsuario.md) e [Personas](../Tarefas/personas.md).<br></br>
+Os participantes do Planejamento foram: [Ana Luiza](https://github.com/AnHoff), [Pedro Lucas](https://github.com/PedroLSF), [João Lucas](https://github.com/HacKairos), [Thiago Oliveira](https://github.com/Thiab394), [Eduardo](https://github.com/edudsan) e [Arthur Taylor](https://github.com/Eruel6).
+
+### <a>Design, Avaliação e Desenvolvimento</a>
+
+O trabalho de design começa assim que o perfil de requisitos é criado. Em geral, existem dois tipos de projeto: projeto conceitual e projeto físico. A primeira trata do desenvolvimento de um modelo conceitual que capte como o produto será reorientado e como ele funciona, e a segunda trata dos detalhes do projeto, como telas, estrutura do menu, ícones e gráficos. Os designs evoluem iterativamente por meio de ciclos repetidos de envolvimento do usuário. Portanto, nessa etapa foram utilizadas várias técnicas tais como a [Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md), [Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard.md), [Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoProtPapel.md),[ Protótipo de Alta fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/index.md) e [Testes Pilotos](../DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas.md).
+
+### <a>Verificação</a>
+
+Aqui vamos comentar um pouco da escolha do nosso método de Verificação e Validação, a fim de obter um melhor padronização e organização, foi dividido em pastas que representam as mesmas contidas no projeto. E a técnica utilizada foi de [Inspeção](../Verificacao/index/#inspecao).
 
 
 
