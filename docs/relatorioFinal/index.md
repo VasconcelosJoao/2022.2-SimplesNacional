@@ -8,6 +8,7 @@
 |     29/01/2023     |        30/01/2023        |  1.1   |     Adiciona artefatos e V&V     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
 |     31/01/2023     |       01/02/2023        |  1.2   |     Adição Das seções Planejamento e execução     |   [Thiago Oliveira](https://github.com/Thiab394)   |[Pedro Lucas](https://github.com/PedroLSF)|
 |     31/01/2023     |       01/02/2023        |  1.3   |     Criação da seção de Design     |   [Pedro Lucas](https://github.com/PedroLSF)   |[Arthur Taylor](https://github.com/Eruel6)|
+|     01/02/2023     |       01/02/2023        |  1.4   |     Adição do modelo de design     |   [Arthur Taylor](https://github.com/Eruel6)   | - |
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Interação Humano Computador da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -49,14 +50,24 @@ Estas heurísticas são usadas como uma lista de verificação para avaliar e me
 
 ## <a>O ciclo de vida de Mayhew</a>
 
+Para a execução de um projeto de IHC deve ser selecionado um modelo de design para ser seguido, existem vários modelos, podem ser citados exemplos como o ciclo de vida em estrela, design baseado em cenários e o ciclo de vida de Mayhew, cada um possui certas vantagens e desvantagens, não existindo um melhor ou pior mas cada um pode se sair melhor em certas situações.
 
+Com isso sendo levado em consideração o grupo achou melhor optar por utilizar o ciclo de vida de Mayhew no projeto realizado na disciplina, por ser um modelo com artefatos completos, tendo um fluxo a ser seguido de forma a ajudar a vizualização das etapas que serão realizadas, estes motivos auxiliam equipes nao muito maduras no processo de avaliação. 
+
+O ciclo de vida de Mayhew é subdvidido em 3 grandes etapas sendo elas:
+
+- Análise de Requisitos;
+- Projeto, testes e implementação;
+- Instalação.
+
+Explições mais detalhadas sobre o modelo podem ser encotradas no documento de [modelo de design](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Planejamento/ModeloDesign/)
 
 ## <a>Planejamento</a>
 Esta seção tem como objetivo relatar o planejamento feito ao decorrer da disciplina, que consiste basicamente nos documentos realizadas como um meio de "preparação" para o bom desenvolvimento da mesma.
 
 Em tal etapa temos diversos documentos, tais como sites analisados, metodologia e processos, Ferramentas, etc, que estão listados e podem ser visualizados na seção de [Artefatos - Etapa 1](#etapa 1), porém aqui será mostrado apenas o cronograma planejado do projeto, que seria a essência do planejamento do mesmo, por possuir em detalhes a realização de cada artefate e de cada "Sub-artefato" ou até documentos e etapas auxiliares para que seja realizada uma boa execução.
 
-O Cronograma Planejado pode ser visto [aqui](https://requisitos-de-software.github.io/2022.2-MEI/Planejamento/Roadmap/#cronograma-planejado), porém também será listado logo abaixo, nas Tabelas de 1-7 Relacionadas ás etapas 1-7 respectivamente:
+O Cronograma Planejado pode ser visto [aqui](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Planejamento/Roadmap/#cronograma-planejado), porém também será listado logo abaixo, nas Tabelas de 1-7 Relacionadas ás etapas 1-7 respectivamente:
 
 <center>
 
