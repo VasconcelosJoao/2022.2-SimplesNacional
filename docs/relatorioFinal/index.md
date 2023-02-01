@@ -23,15 +23,31 @@ O presente documento visa reunir os materiais requisitados pelo professor André
 Vale destacar que o documento foi elaborado seguindo o template utilizado pelo projeto do YouTube [1], realizado no semestre 2022.1.
 
 ## <a>Objetivo</a>
-
+A disciplina de Interação Humano-Computador tem como objetivo principal fornecer aos alunos conhecimentos sobre teorias, princípios e métodos para projetar interfaces de usuário intuitivas e eficientes. Além disso, a disciplina busca desenvolver habilidades práticas para projetar e implementar soluções interativas e familiarizar os alunos com tendências e tecnologias emergentes na área. O curso também aborda técnicas de avaliação de sistemas interativos e a importância de considerar as necessidades dos usuários sobre o site do Simples Nacional.
 
 
 ## <a>Simples Nacional</a>
 ### <a>Sobre o Simples Nacional</a>
-
+O Simples Nacional é um regime tributário simplificado para microempresas e empresas de pequeno porte no Brasil. Ele permite a unificação de diversos impostos em uma única guia, facilitando o pagamento de tributos e reduzindo a carga tributária para essas empresas. Além disso, o Simples Nacional também oferece incentivos fiscais e facilitações administrativas para as empresas que se enquadram nesse regime. Em resumo, o Simples Nacional é uma opção vantajosa para microempresas e empresas de pequeno porte que buscam simplificação e redução de carga tributária.
 
 ### <a>Por quê o Simples Nacional?</a>
+O site do Simples Nacional foi escolhido dentre outros sites analisados pela equipe. Os fatores determinantes para esta seleção foram baseadas em técnicas de:
+<br>
+* Aprendizado 
+* Eficiência
+* Satisfação
+* Acessibilidade
+* Usabilidade 
 
+**Aprendizado**: O usuário deve ser capaz de aprender rapidamente a usar o sistema, sem a necessidade de treinamento formal ou extensa documentação.
+
+**Eficiência**: O usuário deve ser capaz de completar tarefas rapidamente e com poucos erros, usando o mínimo de esforço e tempo possível.
+
+**Satisfação**: O usuário deve sentir-se confortável e satisfeito ao usar o sistema, e não deve sentir frustração ou stress.
+
+**Acessibilidade**: O sistema deve ser acessível a todos os tipos de usuários, incluindo aqueles com necessidades especiais, como deficiências visuais ou auditivas.
+
+**Usabilidade**: O sistema deve ser projetado de forma a se adequar ao contexto de uso, incluindo as necessidades, expectativas e limitações do usuário.
 
 
 ## <a>O ciclo de vida de Mayhew</a>
