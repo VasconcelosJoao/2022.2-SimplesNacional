@@ -9,8 +9,8 @@
 |     31/01/2023     |        01/02/2023        |  1.2   | Adição Das seções Planejamento e execução | [Thiago Oliveira](https://github.com/Thiab394) |   [Pedro Lucas](https://github.com/PedroLSF)   |
 |     31/01/2023     |        01/02/2023        |  1.3   |        Criação da seção de Design         |   [Pedro Lucas](https://github.com/PedroLSF)   |   [Arthur Taylor](https://github.com/Eruel6)   |
 |     01/02/2023     |        01/02/2023        |  1.4   |        Adição do modelo de design         |   [Arthur Taylor](https://github.com/Eruel6)   |   [João Lucas](https://github.com/HacKairos)   |
-|     01/02/2023     |        01/02/2023        |  1.5   |          Técnicas e Ferramentas           |   [João Lucas](https://github.com/HacKairos)   |           [ ](https://github.com/-)            |
-|     01/02/2023     |        01/02/2023        |  1.6   |          Objetivos e Descrição do Simples Nacional           |   [Eduardo](https://github.com/edudsan)   |           [ ](https://github.com/-)            |
+|     01/02/2023     |        01/02/2023        |  1.5   |          Técnicas e Ferramentas           |   [João Lucas](https://github.com/HacKairos)   |           [Ana Luiza](https://github.com/AnHoff)            |
+|     01/02/2023     |        01/02/2023        |  1.6   |          Objetivos e Descrição do Simples Nacional           |   [Eduardo](https://github.com/edudsan)   |           [Ana Luiza](https://github.com/AnHoff)            |
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Interação Humano Computador da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -513,12 +513,14 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 ### <a>Nível 1</a>
 #### <a>Análise de Tarefas</a>
 Assim como a Análise de tarefa, o storyboard se divide em 3 documentos principais, sendo eles:
+
 * [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas/)
 * [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard/)
 * [Relato dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/RelatoResultadosStoryboard/)
 
 #### <a>Storyboard</a>
 A Análise de tarefa se divide em 3 documentos principais, sendo eles:
+
 * [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard/)
 * [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas/)
 * [Relato dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/RelatoResultadosAnaliseTarefas/)
@@ -528,6 +530,7 @@ Depois de identificar os usuários do Simples Nacional, o grupo foi atrás de de
 ### <a>Nível 2</a>
 #### <a>Protótipo de Papel</a>
 Agora temos outros 3 documentos similares:
+
 * [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoProtPapel/)
 * [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoRelatoResuProtPapel/)
 * [Relato dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel2/ProtPapel/RelatoResultadosProtPapel/)
@@ -537,6 +540,7 @@ Depois de algumas entrevistas, finalmente podemos entender o que difere do camin
 ### <a>Nível 3</a>
 #### <a>Protótipo de Alta Fidelidade</a>
 Os últimos 3 documentos:
+
 * [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoProtAlta/)
 * [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoRelatoResuProtAlta/)
 * [Relato dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/RelatoResProtAlta/)
