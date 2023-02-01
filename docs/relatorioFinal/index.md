@@ -292,14 +292,14 @@ E para representar melhor cada etapa da Execução do projeto foi realizada uma 
 
 | Etapa |                              Video                              |
 | :---: | :-------------------------------------------------------------: |
-|  1ª   | [Link aqui](https://www.youtube.com/fPk5NnAmyGs) |
-|  2ª   | [Link aqui](https://www.youtube.com/GDX784RFX-8) |
-|  3ª   | [Link aqui](https://www.youtube.com/S741_WSpXfQ) |
-|  4ª   | [Link aqui](https://www.youtube.com/AFbbv57W1wM) |
-|  5ª   | [Link aqui](https://www.youtube.com/qlIrAinpoTk) |
-|  6ª   | [Link aqui](https://www.youtube.com/oYBB8K6VYdk) |
-|  7ª   | [Link aqui](https://www.youtube.com/BoS_l0CFmos) |
-|  8ª   | [Link aqui](https://www.youtube.com/wzy8QC-K0A4) |
+|  1ª   | [Link aqui](https://youtu.be/fPk5NnAmyGs) |
+|  2ª   | [Link aqui](https://youtu.be/GDX784RFX-8) |
+|  3ª   | [Link aqui](https://youtu.be/S741_WSpXfQ) |
+|  4ª   | [Link aqui](https://youtu.be/AFbbv57W1wM) |
+|  5ª   | [Link aqui](https://youtu.be/qlIrAinpoTk) |
+|  6ª   | [Link aqui](https://youtu.be/oYBB8K6VYdk) |
+|  7ª   | [Link aqui](https://youtu.be/BoS_l0CFmos) |
+|  8ª   | [Link aqui](https://youtu.be/wzy8QC-K0A4) |
 
 *Tabela 15 - Lista das gravações realizadas*
 </center>
