@@ -31,24 +31,21 @@ A disciplina de Interação Humano-Computador tem como objetivo principal fornec
 O Simples Nacional é um regime tributário simplificado para microempresas e empresas de pequeno porte no Brasil. Ele permite a unificação de diversos impostos em uma única guia, facilitando o pagamento de tributos e reduzindo a carga tributária para essas empresas. Além disso, o Simples Nacional também oferece incentivos fiscais e facilitações administrativas para as empresas que se enquadram nesse regime. Em resumo, o Simples Nacional é uma opção vantajosa para microempresas e empresas de pequeno porte que buscam simplificação e redução de carga tributária.
 
 ### <a>Por quê o Simples Nacional?</a>
-O site do Simples Nacional foi escolhido dentre outros sites analisados pela equipe. Os fatores determinantes para esta seleção foram baseadas em técnicas de:
-<br>
-* Aprendizado 
-* Eficiência
-* Satisfação
-* Acessibilidade
-* Usabilidade 
+O site do Simples Nacional foi escolhido dentre outros sites analisados pela equipe. Os fatores utilizados para esta seleção foram as heurísticas de Interação Humano-Computador que são regras de ouro para avaliar a qualidade de interfaces de usuário. Elas foram propostas por Jakob Nielsen e consistem em uma lista de critérios que os designers de interfaces devem considerar ao projetar sistemas interativos. Algumas das heurísticas mais conhecidas incluem:
 
-**Aprendizado**: O usuário deve ser capaz de aprender rapidamente a usar o sistema, sem a necessidade de treinamento formal ou extensa documentação.
+**Visibilidade do sistema de status:** O sistema deve sempre informar ao usuário sobre o que está acontecendo, de forma clara e objetiva.
 
-**Eficiência**: O usuário deve ser capaz de completar tarefas rapidamente e com poucos erros, usando o mínimo de esforço e tempo possível.
+**Correspondência entre sistema e mundo real:** O sistema deve usar linguagem e conceitos familiares ao usuário, de acordo com sua cultura e experiência.
 
-**Satisfação**: O usuário deve sentir-se confortável e satisfeito ao usar o sistema, e não deve sentir frustração ou stress.
+**Prevenção de erros:** O sistema deve prevenir erros, alertando o usuário sobre ações potencialmente prejudiciais ou irreversíveis.
 
-**Acessibilidade**: O sistema deve ser acessível a todos os tipos de usuários, incluindo aqueles com necessidades especiais, como deficiências visuais ou auditivas.
+**Flexibilidade e eficiência de uso:** O sistema deve permitir ao usuário realizar tarefas de maneira rápida e eficiente, oferecendo múltiplas formas de realizar ações.
 
-**Usabilidade**: O sistema deve ser projetado de forma a se adequar ao contexto de uso, incluindo as necessidades, expectativas e limitações do usuário.
+**Consistência e padrões:** O sistema deve seguir padrões conhecidos pelo usuário, garantindo a consistência da interface ao longo do tempo.
 
+**Reconhecimento ao invés de recall:** O sistema deve apresentar informações e opções de maneira clara e fácil de reconhecer, sem exigir que o usuário as memorize.
+
+Estas heurísticas são usadas como uma lista de verificação para avaliar e melhorar a qualidade da interação entre humanos e computadores. Ao utilizar estas heurísticas para avaliar o Simples Nacional, chegamos a conclusão que o site possuia melhorias a serem feitas nele.
 
 ## <a>O ciclo de vida de Mayhew</a>
 
