@@ -550,9 +550,9 @@ Os últimos 3 documentos:
 Por fim, podemos mostrar a ideia final para nossos usuários, deixar que eles executem as nossas telas e compare com o atual. Portanto, eles podem avaliar se tudo que foi solicitado consta. E assim como todos os outros documentos, temos o relato dos resultados que demonstra o que irá entrar no site oficial como alteração.
 
 ## <a>Resultados</a>
-Acreditamos que o objetivo primordial desse projeto, aplicar na prática o que foi aprendido em sala de aula, foi alcançado de diferentes formas. No início, os resultados não foram satisfatórios, deixando muito a desejar. As técnicas e conceitos foram aplicados de forma incorreta e, com isso, o trabalho iniciou "com o pé esquerdo". Apesar desse fato, o grupo conseguiu se reorganizar e melhorar muito a qualidade dos artefatos que estavam sendo elaborados a partir das [Etapas 3 e 4](#etapas-3-e-4-modelagem), sem deixar de lado as melhorias a serem realizadas nos artefatos iniciais. Com isso em mente, pode-se afirmar que a aplicação de técnicas e conceitos aprendidos em sala foi realizada com sucesso durante o projeto.
+Acreditamos que o objetivo primordial desse projeto, aplicar na prática o que foi aprendido em sala de aula, foi alcançado de diferentes formas. No início, os resultados não foram satisfatórios, deixando muito a desejar. As técnicas e conceitos foram aplicados de forma incorreta e, com isso, o trabalho iniciou "com o pé esquerdo". Apesar desse fato, o grupo conseguiu se reorganizar e melhorar muito a qualidade dos artefatos que estavam sendo elaborados a partir das Etapas 3 e 4, sem deixar de lado as melhorias a serem realizadas nos artefatos iniciais. Com isso em mente, pode-se afirmar que a aplicação de técnicas e conceitos aprendidos em sala foi realizada com sucesso durante o projeto.
 
-O outro objetivo do projeto, não menos importante que o primeiro apresentado, era analisar um aplicativo. O MEI foi escolhido após a elaboração e análise dos diferentes [Rich Pictures](../Planejamento/SitesAnalisados.md) elaborados pelos integrantes do grupo. Após a escolha do aplicativo, foi possível iniciar a aplicação dos conceitos e ténicas aprendidos, por meio da realização das fases do projeto.
+O outro objetivo do projeto, não menos importante que o primeiro apresentado, era analisar um site por meio da avaliação heurística. O Simples Nacional foi escolhido após a análise dos diferentes sites. Após a escolha do site, foi possível iniciar a aplicação dos conceitos e ténicas aprendidos.
 
 Todos os integrantes presentes nas tabelas de [Artefatos](#artefatos) participaram ativamente do projeto. Seja por meio da elaboração direta de artefatos ou da realização de pesquisas e entrevistas com os usuários, todos participaram dando o melhor de si. Todos concordam: houve grande desenvolvimento de softskills. As mais notáveis foram:
 
@@ -638,3 +638,5 @@ mecanicas de IHC(Trocar pro req aqui), e é isso que realmente importa.
 
 ## <a>BIbliografia</a>
 [1] 2022.1-YouTube. Disponível em: https://requisitos-de-software.github.io/2022.1-Youtube/apresentacao-final/. Acesso em: 27 de Janeiro de 2023.
+
+[2] Análise do perfil do Microempreendedor Individual (MEI). Disponível em: https://www.jurozero.sc.gov.br/padrao-categoria-noticias/342-analise-do-perfil-do-microempreendedor-individual-mei.html. Acesso em 20 de Janeiro de 2023.
