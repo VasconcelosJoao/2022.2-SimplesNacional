@@ -4,35 +4,32 @@
 
 | Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                     Autor                      |                    Revisor                    |
 | :----------------: | :----------------------: | :----: | :----------------------: | :--------------------------------------------: | :-------------------------------------------: |
-|     24/01/2023     |        25/01/2023        |  1.0   |  Criação do Documento     | [Thiago Oliveira](https://github.com/Thiab394)</br>[Arthur Taylor](https://github.com/Eruel6) |     [Eduardo](https://github.com/edudsan)     |
+|     24/01/2023     |        25/01/2023        |  1.0   |  Criação do Documento     | [Thiago Oliveira](https://github.com/Thiab394)</br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Arthur Taylor](https://github.com/Eruel6) |     [Eduardo](https://github.com/edudsan)     |
 |     25/01/2023     |        25/01/2023        |  1.1   | Padronização e Revisão Final |   [João Lucas](https://github.com/HacKairos)   | [Thiago Olveira](https://github.com/Thiab394) |
+|01/01/2023|01/01/2023|1.2|Correção final|[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)|
 
 ## <a>Introdução </a>
-Este documento contempla o relato dos resultados do Protótipo de Alta Fidelidade, onde foi utilizado a metodologia de entrevista(s)/Teste(s) de Usabilidade,
-onde em uma chamada online ao vivo,
-se mostra dois questionário de perguntas referentes ao que se pretende avaliar. Este documento está seguindo o modelo especificado no 
-[Planejamento](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoRelatoResuProtAlta/) 
-do mesmo. 
-
+Este documento contempla o relato dos resultados do Protótipo de Alta Fidelidade. Para sua elaboração, foram utilizadas as metodologias de entrevista e teste de Usabilidade. Em uma chamada online ao vivo, há a realização de dois questionários com perguntas referentes ao que se pretende avaliar. Este documento está seguindo o modelo especificado no [Planejamento](./PlanejamentoRelatoResuProtAlta/) do mesmo. 
 
 ## <a>Objetivos</a>
-O relato dos resultados, visa, principal, relatar e organizar os resultados e anotações obtidas a partir de uma ou mais entrevistas/Testes de Usabilidade
-com um ou mais usuários,
-dependendo da necessidade da ocasião, portanto neste documento se contempla os resultados que o grupo 3(Simples Nacional) tiveram ao Entrevistar e consequentemente
-realizar o teste de usabilidade do Protótipo de Alta Fidelidade com três usuários
-recorrentes do site Simples Nacional, com tais, entrevista/testes tendo alcançado seus objetivos de coleta de informações concretas e confiáveis, podendo ser utilizada
-principalmente para verificar a necessidade de alteração no Protótipo de Alta Fidelidade e no MEI.
+O relato dos resultados visa relatar e organizar os resultados e anotações obtidas a partir de uma ou mais entrevistas e testes de usabilidade
+com os usuários. Neste documento estão contemplados os resultados que o grupo 3, Simples Nacional, teve ao realizar o teste de usabilidade do [Protótipo de Alta Fidelidade](./index.md) com três usuários recorrentes do site Simples Nacional. Os objetivos de coletar informações concretas e confiáveis foi alcançado, podendo os resultados serem utilizados para verificar a necessidade de alteração no Protótipo de Alta Fidelidade.
 
 ## <a>Participantes</a>
-Para todas as entrevistas/testes presente neste documento tivemos 3 participantes, sendo desses apenas 2 ativos, sendo 1 entrevistador, 1 entrevistado e 1 integrante auxiliar
-para tomar notas de toda a entrevista no geral, para que após seja possível organizar os dados coletados da entrevista, abaixo segue o nome dos participantes:
+Para todas as etapas presentes neste documento houveram 3 participantes, sendo desses apenas 2 ativos, 1 entrevistador, 1 entrevistado e 1 integrante auxiliar para tomar notas da entrevista. É importante ter todas as informações coletadas de forma organizada, para que seja possível organizar os dados coletados com facilidade. Abaixo, confira o nome dos participantes:
+
 #### <a>Entrevistador</a>
+
 - Pedro Lucas S. Fernandes
+
 #### <a>Entrevistados</a>
+
 - Guilherme Brito
 - Renan Almeida de Souza
 - Nicolas
+
 #### <a>Auxiliar de Notas</a>
+
 - Arthur Taylor de Jesus Popov
 
 ## <a>Metodologia da Avaliação</a>
