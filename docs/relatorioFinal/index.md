@@ -2,13 +2,14 @@
 
 ## <a>Histórico de Versão</a>
 
-| Data de Realização | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                    Revisor                    |
-| :----------------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :-------------------------------------------: |
-|     27/01/2023     |        28/01/2023        |  1.0   |     Criação do Documento     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
-|     29/01/2023     |        30/01/2023        |  1.1   |     Adiciona artefatos e V&V     |   [Ana Luiza](https://github.com/AnHoff)   |[Thiago Oliveira](https://github.com/Thiab394)|
-|     31/01/2023     |       01/02/2023        |  1.2   |     Adição Das seções Planejamento e execução     |   [Thiago Oliveira](https://github.com/Thiab394)   |[Pedro Lucas](https://github.com/PedroLSF)|
-|     31/01/2023     |       01/02/2023        |  1.3   |     Criação da seção de Design     |   [Pedro Lucas](https://github.com/PedroLSF)   |[Arthur Taylor](https://github.com/Eruel6)|
-|     01/02/2023     |       01/02/2023        |  1.4   |     Adição do modelo de design     |   [Arthur Taylor](https://github.com/Eruel6)   | - |
+| Data de Realização | Data Prevista de Revisão | Versão |                 Descrição                 |                     Autor                      |                    Revisor                     |
+| :----------------: | :----------------------: | :----: | :---------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
+|     27/01/2023     |        28/01/2023        |  1.0   |           Criação do Documento            |     [Ana Luiza](https://github.com/AnHoff)     | [Thiago Oliveira](https://github.com/Thiab394) |
+|     29/01/2023     |        30/01/2023        |  1.1   |         Adiciona artefatos e V&V          |     [Ana Luiza](https://github.com/AnHoff)     | [Thiago Oliveira](https://github.com/Thiab394) |
+|     31/01/2023     |        01/02/2023        |  1.2   | Adição Das seções Planejamento e execução | [Thiago Oliveira](https://github.com/Thiab394) |   [Pedro Lucas](https://github.com/PedroLSF)   |
+|     31/01/2023     |        01/02/2023        |  1.3   |        Criação da seção de Design         |   [Pedro Lucas](https://github.com/PedroLSF)   |   [Arthur Taylor](https://github.com/Eruel6)   |
+|     01/02/2023     |        01/02/2023        |  1.4   |        Adição do modelo de design         |   [Arthur Taylor](https://github.com/Eruel6)   |   [João Lucas](https://github.com/HacKairos)   |
+|     01/02/2023     |        01/02/2023        |  1.5   |          Técnicas e Ferramentas           |   [João Lucas](https://github.com/HacKairos)   |           [ ](https://github.com/-)            |
 
 ## <a>Introdução</a>
 O presente documento visa reunir os materiais requisitados pelo professor André Barros de Sales, da disciplina Interação Humano Computador da Universidade de Brasília, para a realização da apresentação final. O conteúdo presente abaixo aborda os seguintes tópicos detalhadamente:
@@ -50,17 +51,17 @@ Estas heurísticas são usadas como uma lista de verificação para avaliar e me
 
 ## <a>O ciclo de vida de Mayhew</a>
 
-Para a execução de um projeto de IHC deve ser selecionado um modelo de design para ser seguido, existem vários modelos, podem ser citados exemplos como o ciclo de vida em estrela, design baseado em cenários e o ciclo de vida de Mayhew, cada um possui certas vantagens e desvantagens, não existindo um melhor ou pior mas cada um pode se sair melhor em certas situações.
+Para a execução de um projeto de IHC deve ser selecionado um modelo de design para ser seguido, existem vários modelos, podem ser citados exemplos como o ciclo de vida em estrela, design baseado em cenários e o ciclo de vida de Mayhew, cada um possui certas vantagens e desvantagens, não existindo um melhor ou pior, mas cada um pode se sair melhor em certas situações.
 
-Com isso sendo levado em consideração o grupo achou melhor optar por utilizar o ciclo de vida de Mayhew no projeto realizado na disciplina, por ser um modelo com artefatos completos, tendo um fluxo a ser seguido de forma a ajudar a vizualização das etapas que serão realizadas, estes motivos auxiliam equipes nao muito maduras no processo de avaliação. 
+Com isso sendo considerado, o grupo achou melhor optar por utilizar o ciclo de vida de Mayhew no projeto realizado na disciplina, por ser um modelo com artefatos completos, tendo um fluxo a ser seguido para ajudar a visualização das etapas que serão realizadas, estes motivos auxiliam equipes não muito maduras no processo de avaliação. 
 
-O ciclo de vida de Mayhew é subdvidido em 3 grandes etapas sendo elas:
+O ciclo de vida de Mayhew é subdividido em 3 grandes etapas, sendo elas:
 
 - Análise de Requisitos;
 - Projeto, testes e implementação;
 - Instalação.
 
-Explições mais detalhadas sobre o modelo podem ser encotradas no documento de [Modelo de Design](../Planejamento/ModeloDesign/)
+Explicações mais detalhadas sobre o modelo podem ser encontradas no documento de [Modelo de Design](../Planejamento/ModeloDesign/)
 
 ## <a>Planejamento</a>
 Esta seção tem como objetivo relatar o planejamento feito ao decorrer da disciplina, que consiste basicamente nos documentos realizadas como um meio de "preparação" para o bom desenvolvimento da mesma.
@@ -246,42 +247,42 @@ O Cronograma Executa pode ser visto [aqui](https://interacao-humano-computador.g
 |             Gravação de Avaliação - Protótipo de Papel              |  Pedro, Arthur  | 05/01/2023 | 06/01/2023 |         João         |
 |                  Teste piloto - Protótipo de Papel                  | Eduardo, Thiago | 05/01/2023 | 06/01/2023 |        Arthur        |
 |           Teste piloto - Storyboard e Análise de Tarefas            | Eduardo, Thiago | 05/01/2023 | 06/01/2023 |         João         |
-|             Relato dos Resultados - Protótipo de Papel              | Thiago, Pedro   | 11/02/2023 | 11/02/2023 |       Eduardo        |
-|                 Relato dos Resultados - Storyboard                  | Thiago, Pedro   | 11/02/2023 | 11/02/2023 |         Ana          |
-|             Relato dos Resultados - Análise de Tarefas              | Thiago, Pedro   | 11/02/2023 | 11/02/2023 |        Arthur        |
+|             Relato dos Resultados - Protótipo de Papel              |  Thiago, Pedro  | 11/02/2023 | 11/02/2023 |       Eduardo        |
+|                 Relato dos Resultados - Storyboard                  |  Thiago, Pedro  | 11/02/2023 | 11/02/2023 |         Ana          |
+|             Relato dos Resultados - Análise de Tarefas              |  Thiago, Pedro  | 11/02/2023 | 11/02/2023 |        Arthur        |
 |    Ajustes no Planejamento de Relato dos Resultados - Storyboard    |       Ana       | 05/01/2023 | 06/01/2023 |       Eduardo        |
 
 *Tabela 13 - Tarefas executadas para a Etapa 6*<br><br>
 
 ### <a>Etapa 7</a>
 
-|                  Tarefa                     | Responsáveis            |  Entrega   |  Revisão   |  Revisor   |
-| :---------------------------------------:   | :----------:            | :--------: | :--------: | :--------: |
-|Planejamento da Verificação                                            |    Pedro     | 15/01/2023 | 16/01/2023 |João Lucas|
-|Verificação - Sites Analisados                                         |Pedro Lucas| 18/01/2023 | 18/01/2023 |  João Lucas | 
-|Verificação - Modelo de Design                                         |     Ana      | 18/01/2023 | 18/01/2023 |  Pedro Lucas  |
-|Verificação - Aspectos Éticos                                          |     Ana      | 16/01/2023 | 17/01/2023 |João Lucas|
-|Verificação - Termo de Consentimento                                   |     Ana      | 14/01/2023 | 15/01/2023 |  Pedro Lucas  |
-|Verificação - Princípios Gerais                                        |     Ana      | 18/01/2023 | 18/01/2023 | Arthur Taylor |
-|Verificação - Analise de Tarefas                                        |     João Lucas      | 16/01/2023 | 17/01/2023 |Ana|
-|Verificação - Perfil de Usuário                                        |     Arthur Taylor| 18/01/2023 | 18/01/2023 | João Lucas |
-|Verificação - Cenários                                                 |    Thiago    | 15/01/2023 | 16/01/2023 |    Ana     |
-|Verificação - Metas de Usabilidade                                     |   Eduardo    | 17/01/2023 | 18/01/2023 | Arthur Taylor |
-|Verificação - Caracteristicas da Plataforma                          |    Arthur Taylor    | 17/01/2023 | 18/01/2023 |    Ana     |
-|Verificação - Guia de Estilo                                           |   Eduardo    | 17/01/2023 | 18/01/2023 | João Lucas | 
-|Verificação - Planejamento da Avaliação da Análise de Tarefa           |  Pedro Lucas | 16/01/2023 | 17/01/2023 |Thiago|
-|Verificação - Planejamento do Relato de Resultados da Análise de Tarefa|  Pedro Lucas | 18/01/2023 | 18/01/2023 |Thiago|
-|Verificação - Avaliação da Analise de Tarefas                          |  Pedro Lucas | 18/01/2023 | 18/01/2023 |Thiago|
-|Verificação - Relato dos Resultados Da Analise de Tarefas              |  Pedro Lucas | 16/01/2023 | 17/01/2023 |Thiago|
-|Verificação - Planejamento da Avaliação do Storyboard         |  João Lucas | 16/01/2023 | 17/01/2023 |Pedro Lucas|
-|Verificação - Plan. Relato Storyboard                                  |  João Lucas  | 16/01/2023 | 17/01/2023 |Eduardo|
-|Verificação - Avaliação do Storyboard                          |   João Lucas | 16/01/2023 | 17/01/2023 |Pedro Lucas|
-|Verificação - Relato dos Resultados do Storyboard              |   João Lucas | 18/01/2023 | 18/01/2023 |Pedro Lucas|
-|Verificação - Planejamento da Avaliação do Prototipo de Papel         |  Arthur Taylor | 18/01/2023 | 18/01/2023 |João Lucas|
-|Verificação - Planejamento do Relato de Resultados do Prototipo de Papel |  Arthur Taylor | 18/01/2023 | 18/01/2023 |João Lucas|
-|Verificação - Relato dos Resultados do Prototipo de Papel               |  Arthur Taylor | 18/01/2023 | 18/01/2023 |João Lucas| 
-|Verificação - Plan. Avaliação Prot. Alta.                              |  João Lucas  | 16/01/2023 | 17/01/2023 |Eduardo|
-|Verificação - Plan. Relato Prot. Alta.                                 |  João Lucas  | 16/01/2023 | 17/01/2023 |Eduardo|
+|                                  Tarefa                                  | Responsáveis  |  Entrega   |  Revisão   |    Revisor    |
+| :----------------------------------------------------------------------: | :-----------: | :--------: | :--------: | :-----------: |
+|                       Planejamento da Verificação                        |     Pedro     | 15/01/2023 | 16/01/2023 |  João Lucas   |
+|                      Verificação - Sites Analisados                      |  Pedro Lucas  | 18/01/2023 | 18/01/2023 |  João Lucas   |
+|                      Verificação - Modelo de Design                      |      Ana      | 18/01/2023 | 18/01/2023 |  Pedro Lucas  |
+|                      Verificação - Aspectos Éticos                       |      Ana      | 16/01/2023 | 17/01/2023 |  João Lucas   |
+|                   Verificação - Termo de Consentimento                   |      Ana      | 14/01/2023 | 15/01/2023 |  Pedro Lucas  |
+|                     Verificação - Princípios Gerais                      |      Ana      | 18/01/2023 | 18/01/2023 | Arthur Taylor |
+|                     Verificação - Analise de Tarefas                     |  João Lucas   | 16/01/2023 | 17/01/2023 |      Ana      |
+|                     Verificação - Perfil de Usuário                      | Arthur Taylor | 18/01/2023 | 18/01/2023 |  João Lucas   |
+|                          Verificação - Cenários                          |    Thiago     | 15/01/2023 | 16/01/2023 |      Ana      |
+|                    Verificação - Metas de Usabilidade                    |    Eduardo    | 17/01/2023 | 18/01/2023 | Arthur Taylor |
+|               Verificação - Caracteristicas da Plataforma                | Arthur Taylor | 17/01/2023 | 18/01/2023 |      Ana      |
+|                       Verificação - Guia de Estilo                       |    Eduardo    | 17/01/2023 | 18/01/2023 |  João Lucas   |
+|       Verificação - Planejamento da Avaliação da Análise de Tarefa       |  Pedro Lucas  | 16/01/2023 | 17/01/2023 |    Thiago     |
+| Verificação - Planejamento do Relato de Resultados da Análise de Tarefa  |  Pedro Lucas  | 18/01/2023 | 18/01/2023 |    Thiago     |
+|              Verificação - Avaliação da Analise de Tarefas               |  Pedro Lucas  | 18/01/2023 | 18/01/2023 |    Thiago     |
+|        Verificação - Relato dos Resultados Da Analise de Tarefas         |  Pedro Lucas  | 16/01/2023 | 17/01/2023 |    Thiago     |
+|          Verificação - Planejamento da Avaliação do Storyboard           |  João Lucas   | 16/01/2023 | 17/01/2023 |  Pedro Lucas  |
+|                  Verificação - Plan. Relato Storyboard                   |  João Lucas   | 16/01/2023 | 17/01/2023 |    Eduardo    |
+|                  Verificação - Avaliação do Storyboard                   |  João Lucas   | 16/01/2023 | 17/01/2023 |  Pedro Lucas  |
+|            Verificação - Relato dos Resultados do Storyboard             |  João Lucas   | 18/01/2023 | 18/01/2023 |  Pedro Lucas  |
+|      Verificação - Planejamento da Avaliação do Prototipo de Papel       | Arthur Taylor | 18/01/2023 | 18/01/2023 |  João Lucas   |
+| Verificação - Planejamento do Relato de Resultados do Prototipo de Papel | Arthur Taylor | 18/01/2023 | 18/01/2023 |  João Lucas   |
+|        Verificação - Relato dos Resultados do Prototipo de Papel         | Arthur Taylor | 18/01/2023 | 18/01/2023 |  João Lucas   |
+|                Verificação - Plan. Avaliação Prot. Alta.                 |  João Lucas   | 16/01/2023 | 17/01/2023 |    Eduardo    |
+|                  Verificação - Plan. Relato Prot. Alta.                  |  João Lucas   | 16/01/2023 | 17/01/2023 |    Eduardo    |
 
 *Tabela 14 - Tarefas executadas para a Etapa 7*<br><br>
 
@@ -291,16 +292,16 @@ O Cronograma Executa pode ser visto [aqui](https://interacao-humano-computador.g
 
 Na tabela a seguir pode ser encontrada as ferramentas utilizadas durante o projeto e suas principais funções:
 
-|                                               Logo                                               |    Nome da ferramenta     |                Etapa                |                                            Utilidade                                             |
+|                                               Logo                                               |    Nome da ferramenta     |                Etapa                |                                            Utilidade                                             |
 | :----------------------------------------------------------------------------------------------: | :-----------------------: | :---------------------------------: | :----------------------------------------------------------------------------------------------: |
-|        <img src="./../../assets/ferramentasLogo/docs.svg" width="100" height="100"></img>        |    <a>Google Docs</a>     |           Todo o projeto            | Utilizado para fazer o planejamento e elaboração de diversos documentos relacionados ao projeto. |
-|       <img src="./../../assets/ferramentasLogo/chrome.svg" width="100" height="100"></img>       |   <a>Google Chrome</a>    |           Todo o projeto            |    Um dos navegadores utilizados para avaliar os sites e ter acesso às diversas ferramentas.     |
-|       <img src="./../../assets/ferramentasLogo/github.svg" width="100" height="100"></img>       |       <a>GitHub</a>       |           Todo o projeto            |                      Utilizado para trabalhar com o projeto da disciplina.                       |
-|  <img src="./../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img>   |  <a>Microsoft Teams</a>   |           Todo o projeto            |          Local de trabalho, usado principalmente para as reuniões síncronas da equipe.           |
-|      <img src="./../../assets/ferramentasLogo/youtube.svg" width="100" height="100"></img>       |      <a>YouTube</a>       |           Todo o projeto            |     Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.     |
-| <img src="./../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | <a>Visual Studio Code</a> |           Todo o projeto            |                 Ferramenta de programação, utilizada para montar o github pages.                 |
-|     <img src="./../../assets/ferramentasLogo/lucidchart.png" width="100" height="100"></img>     |    <a>Lucid Chart</a>     |         Análise de Tarefas          |                      Ferramenta utilizada para construir alguns diagramas.                       |
-|       <img src="./../../assets/ferramentasLogo/figma.svg" width="100" height="100"></img>        |       <a>Figma</a>        | Design, Avaliação e Desenvolvimento |                   Utilizado para trabalhar com protótipos de alta fidelidade.                    |
+|        <img src="./../../assets/ferramentasLogo/docs.svg" width="100" height="100"></img>        |    <a>Google Docs</a>     |           Todo o projeto            | Utilizado para fazer o planejamento e elaboração de diversos documentos relacionados ao projeto. |
+|       <img src="./../../assets/ferramentasLogo/chrome.svg" width="100" height="100"></img>       |   <a>Google Chrome</a>    |           Todo o projeto            |    Um dos navegadores utilizados para avaliar os sites e ter acesso às diversas ferramentas.     |
+|       <img src="./../../assets/ferramentasLogo/github.svg" width="100" height="100"></img>       |       <a>GitHub</a>       |           Todo o projeto            |                      Utilizado para trabalhar com o projeto da disciplina.                       |
+|  <img src="./../../assets/ferramentasLogo/microsoft-teams.svg" width="100" height="100"></img>   |  <a>Microsoft Teams</a>   |           Todo o projeto            |          Local de trabalho, usado principalmente para as reuniões síncronas da equipe.           |
+|      <img src="./../../assets/ferramentasLogo/youtube.svg" width="100" height="100"></img>       |      <a>YouTube</a>       |           Todo o projeto            |     Utilizado para compartilhar apresentações e disponibilizar as reuniões para o professor.     |
+| <img src="./../../assets/ferramentasLogo/visual-studio-code.svg" width="100" height="100"></img> | <a>Visual Studio Code</a> |           Todo o projeto            |                 Ferramenta de programação, utilizada para montar o github pages.                 |
+|     <img src="./../../assets/ferramentasLogo/lucidchart.png" width="100" height="100"></img>     |    <a>Lucid Chart</a>     |         Análise de Tarefas          |                      Ferramenta utilizada para construir alguns diagramas.                       |
+|       <img src="./../../assets/ferramentasLogo/figma.svg" width="100" height="100"></img>        |       <a>Figma</a>        | Design, Avaliação e Desenvolvimento |                   Utilizado para trabalhar com protótipos de alta fidelidade.                    |
 
 
 ## <a>Técnicas</a>
@@ -317,11 +318,13 @@ Os participantes do Planejamento foram: [Ana Luiza](https://github.com/AnHoff), 
 
 ### <a>Design, Avaliação e Desenvolvimento</a>
 
-O trabalho de design começa assim que o perfil de requisitos é criado. Em geral, existem dois tipos de projeto: projeto conceitual e projeto físico. A primeira trata do desenvolvimento de um modelo conceitual que capte como o produto será reorientado e como ele funciona, e a segunda trata dos detalhes do projeto, como telas, estrutura do menu, ícones e gráficos. Os designs evoluem iterativamente por meio de ciclos repetidos de envolvimento do usuário. Portanto, nessa etapa foram utilizadas várias técnicas tais como a [Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md), [Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard.md), [Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoProtPapel.md),[ Protótipo de Alta fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/index.md) e [Testes Pilotos](../DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas.md).
+O trabalho de design começa assim que o perfil de requisitos é criado. Em geral, existem dois tipos de projeto: projeto conceitual e projeto físico. A primeira trata do desenvolvimento de um modelo conceitual que capte como o produto será reorientado e como ele funciona, e a segunda trata dos detalhes do projeto, como telas, estrutura do menu, ícones e gráficos. Os designs evoluem iterativamente por meio de ciclos repetidos de envolvimento do usuário. Portanto, nessa etapa foram utilizadas várias técnicas tais como a [Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md), [Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard.md), [Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoProtPapel.md),[ Protótipo de Alta fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/index.md) e [Testes Pilotos](../DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas.md).<br></br>
+Os participantes do Planejamento foram: [Ana Luiza](https://github.com/AnHoff), [Pedro Lucas](https://github.com/PedroLSF), [João Lucas](https://github.com/HacKairos), [Thiago Oliveira](https://github.com/Thiab394), [Eduardo](https://github.com/edudsan) e [Arthur Taylor](https://github.com/Eruel6).
 
 ### <a>Verificação</a>
 
-Aqui vamos comentar um pouco da escolha do nosso método de Verificação e Validação, a fim de obter um melhor padronização e organização, foi dividido em pastas que representam as mesmas contidas no projeto. E a técnica utilizada foi de [Inspeção](../Verificacao/index/#inspecao).
+Aqui vamos comentar um pouco da escolha do nosso método de Verificação e Validação, a fim de obter um melhor padronização e organização, foi dividido em pastas que representam as mesmas contidas no projeto. E a técnica utilizada foi de [Inspeção](../Verificacao/index/#inspecao).<br></br>
+Os participantes do Planejamento foram: [Ana Luiza](https://github.com/AnHoff), [Pedro Lucas](https://github.com/PedroLSF), [João Lucas](https://github.com/HacKairos), [Thiago Oliveira](https://github.com/Thiab394), [Eduardo](https://github.com/edudsan) e [Arthur Taylor](https://github.com/Eruel6).
 
 
 
@@ -333,22 +336,22 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto na **Etapa 1
 
 <center>
 
-|Artefato|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Página inicial do projeto](../index.md)|[João Lucas](https://github.com/HacKairos)|[Thiago Oliveira](https://github.com/Thiab394)|20/11/2022|
-|[Sites Analisados](../Planejamento/SitesAnalisados.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Metodologia e Processos](../Planejamento/Metodologia.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|[Modelo de Design](../Planejamento/ModeloDesign.md)|[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Ferramentas](../Planejamento/Ferramentas.md)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)<br>[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|[Heatmap](../Planejamento/Heatmap.md)|[Eduardo](https://github.com/edudsan)|[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
-|[Roadmap](../Planejamento/Roadmap.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|Políticas - [Código de Conduta para Colaboradores](../Planejamento/Politicas/CodigoDeConduta.md)|[João Lucas](https://github.com/HacKairos)| [Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|Políticas - [Política de Contribuição](../Planejamento/Politicas/PolitcaDeContribuicao.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|Políticas - [Política de Issue](../Planejamento/Politicas/PolitcaDeIssue.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|Políticas - [Política de Branch](../Planejamento/Politicas/PolitcaDeBranch.md)|[João Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)|11/11/2022|
-|Políticas - [Política de Commit](../Planejamento/Politicas/PolitcaDeCommit.md)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|23/11/2022|
-|Políticas - [Política de Pull Request](../Planejamento/Politicas/PolitcaDePR.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
-|Políticas - [Política de Segurança](../Planejamento/Politicas/PolitcaDeSeguranca.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|11/11/2022|
+| Artefato                                                                                         | Criador                                                                                                                                | Revisor                                                                                                                            | Data de Finalização |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [Página inicial do projeto](../index.md)                                                         | [João Lucas](https://github.com/HacKairos)                                                                                             | [Thiago Oliveira](https://github.com/Thiab394)                                                                                     | 20/11/2022          |
+| [Sites Analisados](../Planejamento/SitesAnalisados.md)                                           | [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)          | [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos) | 25/01/2023          |
+| [Metodologia e Processos](../Planejamento/Metodologia.md)                                        | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)                                           | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)                                       | 25/01/2023          |
+| [Modelo de Design](../Planejamento/ModeloDesign.md)                                              | [Pedro Lucas](https://github.com/PedroLSF)                                                                                             | [João Lucas](https://github.com/HacKairos)                                                                                         | 25/01/2023          |
+| [Ferramentas](../Planejamento/Ferramentas.md)                                                    | [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)                                                   | [Ana Luiza](https://github.com/AnHoff)<br>[Thiago Oliveira](https://github.com/Thiab394)                                           | 25/01/2023          |
+| [Heatmap](../Planejamento/Heatmap.md)                                                            | [Eduardo](https://github.com/edudsan)                                                                                                  | [Ana Luiza](https://github.com/AnHoff)                                                                                             | 25/01/2023          |
+| [Roadmap](../Planejamento/Roadmap.md)                                                            | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff) | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)                                       | 25/01/2023          |
+| Políticas - [Código de Conduta para Colaboradores](../Planejamento/Politicas/CodigoDeConduta.md) | [João Lucas](https://github.com/HacKairos)                                                                                             | [Ana Luiza](https://github.com/AnHoff)                                                                                             | 11/11/2022          |
+| Políticas - [Política de Contribuição](../Planejamento/Politicas/PolitcaDeContribuicao.md)       | [João Lucas](https://github.com/HacKairos)                                                                                             | [Ana Luiza](https://github.com/AnHoff)                                                                                             | 11/11/2022          |
+| Políticas - [Política de Issue](../Planejamento/Politicas/PolitcaDeIssue.md)                     | [João Lucas](https://github.com/HacKairos)                                                                                             | [Ana Luiza](https://github.com/AnHoff)                                                                                             | 11/11/2022          |
+| Políticas - [Política de Branch](../Planejamento/Politicas/PolitcaDeBranch.md)                   | [João Lucas](https://github.com/HacKairos)                                                                                             | [Pedro Lucas](https://github.com/PedroLSF)                                                                                         | 11/11/2022          |
+| Políticas - [Política de Commit](../Planejamento/Politicas/PolitcaDeCommit.md)                   | [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)                                                   | [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)                                               | 23/11/2022          |
+| Políticas - [Política de Pull Request](../Planejamento/Politicas/PolitcaDePR.md)                 | [João Lucas](https://github.com/HacKairos)                                                                                             | [Ana Luiza](https://github.com/AnHoff)                                                                                             | 11/11/2022          |
+| Políticas - [Política de Segurança](../Planejamento/Politicas/PolitcaDeSeguranca.md)             | [João Lucas](https://github.com/HacKairos)                                                                                             | [Ana Luiza](https://github.com/AnHoff)                                                                                             | 11/11/2022          |
 
 *Tabela X - Artefatos realizados durante a etapa 1*
 <br><br>
@@ -360,18 +363,18 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 
 <center>
 
-|Artefato|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Termo de Consentimento](../Planejamento/ModeloTermoConsentimento.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
-|[Aspectos Éticos](../Planejamento/AspectosEticos.md)|[Thiago Oliveira](https://github.com/Thiab394)<br> [Arthur Taylor](https://github.com/Eruel6)|[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
-|[Análise de Tarefas](../Tarefas/Analise.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
-|[Perfil de Usuários](../Tarefas/perfilUsuario.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)|[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Personas](../Tarefas/personas.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
-|[Cenários](../Tarefas/Cenario.md)|[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
-|[Metas de Usabilidade](../Tarefas/MetasUsabilidade.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
-|[Características da Plataforma](../Tarefas/CaracteristicasPlataforma.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
-|[Princípios Gerais](../Tarefas/PrincipiosGerais.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)|[Ana Luiza](https://github.com/AnHoff)<br>[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
-|[Guia de Estilo](../Tarefas/GuiaDeEstilo.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Arthur Taylor](https://github.com/Eruel6)|[Eduardo](https://github.com/edudsan)<br>[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
+| Artefato                                                                 | Criador                                                                                       | Revisor                                                                                      | Data de Finalização |
+| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------- |
+| [Termo de Consentimento](../Planejamento/ModeloTermoConsentimento.md)    | [Thiago Oliveira](https://github.com/Thiab394)                                                | [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)         | 25/01/2023          |
+| [Aspectos Éticos](../Planejamento/AspectosEticos.md)                     | [Thiago Oliveira](https://github.com/Thiab394)<br> [Arthur Taylor](https://github.com/Eruel6) | [Arthur Taylor](https://github.com/Eruel6)                                                   | 25/01/2023          |
+| [Análise de Tarefas](../Tarefas/Analise.md)                              | [Ana Luiza](https://github.com/AnHoff)<br>[Pedro Lucas](https://github.com/PedroLSF)          | [João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)     | 25/01/2023          |
+| [Perfil de Usuários](../Tarefas/perfilUsuario.md)                        | [Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)           | [Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)     | 25/01/2023          |
+| [Personas](../Tarefas/personas.md)                                       | [João Lucas](https://github.com/HacKairos)                                                    | [Eduardo](https://github.com/edudsan)                                                        | 25/01/2023          |
+| [Cenários](../Tarefas/Cenario.md)                                        | [João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)      | [Thiago Oliveira](https://github.com/Thiab394)<br>[Pedro Lucas](https://github.com/PedroLSF) | 25/01/2023          |
+| [Metas de Usabilidade](../Tarefas/MetasUsabilidade.md)                   | [João Lucas](https://github.com/HacKairos)                                                    | [Eduardo](https://github.com/edudsan)                                                        | 25/01/2023          |
+| [Características da Plataforma](../Tarefas/CaracteristicasPlataforma.md) | [João Lucas](https://github.com/HacKairos)                                                    | [Eduardo](https://github.com/edudsan)                                                        | 25/01/2023          |
+| [Princípios Gerais](../Tarefas/PrincipiosGerais.md)                      | [Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)           | [Ana Luiza](https://github.com/AnHoff)<br>[Arthur Taylor](https://github.com/Eruel6)         | 25/01/2023          |
+| [Guia de Estilo](../Tarefas/GuiaDeEstilo.md)                             | [Ana Luiza](https://github.com/AnHoff)<br>[Arthur Taylor](https://github.com/Eruel6)          | [Eduardo](https://github.com/edudsan)<br>[Thiago Oliveira](https://github.com/Thiab394)      | 25/01/2023          |
 
 *Tabela X - Artefatos realizados durante as etapas 2 e 3*
 <br><br>
@@ -383,14 +386,14 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 
 <center>
 
-|Artefato|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Planejamento da Avaliação da Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md)|[Arthur Taylor](https://github.com/Eruel6)<br>[Pedro Lucas](https://github.com/PedroLSF)|[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|[Planejamento do Relato do Resultados da Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Planejamento da Avaliação do Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard.md)|[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)<br>[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
-|[Planejamento do Relato do Resultados do Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard.md)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)|[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)|25/01/2023|
-|[Teste Piloto - Análise de Tarefas](../DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Teste Piloto - Storyboard](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoStoryboard.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+| Artefato                                                                                                                                       | Criador                                                                                                                               | Revisor                                                                                                                           | Data de Finalização |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [Planejamento da Avaliação da Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas.md)           | [Arthur Taylor](https://github.com/Eruel6)<br>[Pedro Lucas](https://github.com/PedroLSF)                                              | [Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)                                      | 25/01/2023          |
+| [Planejamento do Relato do Resultados da Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas.md) | [Thiago Oliveira](https://github.com/Thiab394)                                                                                        | [João Lucas](https://github.com/HacKairos)                                                                                        | 25/01/2023          |
+| [Planejamento da Avaliação do Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard.md)                               | [Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)                                                       | [João Lucas](https://github.com/HacKairos)<br>[Eduardo](https://github.com/edudsan)<br>[Arthur Taylor](https://github.com/Eruel6) | 25/01/2023          |
+| [Planejamento do Relato do Resultados do Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard.md)            | [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)                                                  | [Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)                                                   | 25/01/2023          |
+| [Teste Piloto - Análise de Tarefas](../DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas.md)                                           | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan) | [João Lucas](https://github.com/HacKairos)                                                                                        | 25/01/2023          |
+| [Teste Piloto - Storyboard](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoStoryboard.md)                                                     | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan) | [João Lucas](https://github.com/HacKairos)                                                                                        | 25/01/2023          |
 
 *Tabela X - Artefatos realizados durante a etapa 4*
 <br><br>
@@ -402,16 +405,16 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 
 <center>
 
-|Artefato|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Planejamento da Avaliação do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoProtPapel.md)|[Ana Luiza](https://github.com/AnHoff)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|[Planejamento do Relato do Resultados do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoRelatoResuProtPapel.md)|[João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|[Resultados da Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/RelatoResultadosAnaliseTarefas.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Resultados do Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/RelatoResultadosStoryboard.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Termo de Consentimento - Análise de Tarefas](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoAnaliseTarefas.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Termo de Consentimento - Storyboard](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoStoryboard.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Verificação da 1ª Etapa](../DesignAvaliacaoDesen/Nivel1/VerificacaoEtapa1.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Teste Piloto - Protótipo de Papel](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtPapel.md)|[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+| Artefato                                                                                                                                  | Criador                                                                                                                       | Revisor                                                                              | Data de Finalização |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------- |
+| [Planejamento da Avaliação do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoProtPapel.md)                      | [Ana Luiza](https://github.com/AnHoff)                                                                                        | [Thiago Oliveira](https://github.com/Thiab394)                                       | 25/01/2023          |
+| [Planejamento do Relato do Resultados do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/PlanejamentoRelatoResuProtPapel.md) | [João Lucas](https://github.com/HacKairos)<br>[Ana Luiza](https://github.com/AnHoff)<br>[Eduardo](https://github.com/edudsan) | [Thiago Oliveira](https://github.com/Thiab394)                                       | 25/01/2023          |
+| [Resultados da Análise de Tarefas](../DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/RelatoResultadosAnaliseTarefas.md)                     | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)                                  | [João Lucas](https://github.com/HacKairos)                                           | 25/01/2023          |
+| [Resultados do Storyboard](../DesignAvaliacaoDesen/Nivel1/Storyboard/RelatoResultadosStoryboard.md)                                       | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)                                  | [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos) | 25/01/2023          |
+| [Termo de Consentimento - Análise de Tarefas](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoAnaliseTarefas.md)            | [Thiago Oliveira](https://github.com/Thiab394)                                                                                | [João Lucas](https://github.com/HacKairos)                                           | 25/01/2023          |
+| [Termo de Consentimento - Storyboard](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoStoryboard.md)                        | [Thiago Oliveira](https://github.com/Thiab394)                                                                                | [João Lucas](https://github.com/HacKairos)                                           | 25/01/2023          |
+| [Verificação da 1ª Etapa](../DesignAvaliacaoDesen/Nivel1/VerificacaoEtapa1.md)                                                            | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)                                  | [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos) | 25/01/2023          |
+| [Teste Piloto - Protótipo de Papel](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtPapel.md)                                         | [Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan)                                       | [João Lucas](https://github.com/HacKairos)                                           | 25/01/2023          |
 
 *Tabela X - Artefatos realizados durante a etapa 5*
 <br><br>
@@ -423,13 +426,13 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 
 <center>
 
-|Artefato|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Planejamento da Avaliação do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoProtAlta.md)|[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|25/01/2023|
-|[Planejamento do Relato do Resultados do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoRelatoResuProtAlta.md)|[João Lucas](https://github.com/HacKairos)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|[Teste Piloto - Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtAltaFidelidade.md)|[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Resultados do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/RelatoResultadosProtPapel.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)<br>[Thiago Oliveira](https://github.com/Thiab394)|[Arthur Taylor](https://github.com/Eruel6)|11/01/2023|
-|[Termo de Consentimento - Protótipo de Papel](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtPapel.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+| Artefato                                                                                                                                                    | Criador                                                                                                                                    | Revisor                                        | Data de Finalização |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- | ------------------- |
+| [Planejamento da Avaliação do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoProtAlta.md)                      | [Ana Luiza](https://github.com/AnHoff)                                                                                                     | [Eduardo](https://github.com/edudsan)          | 25/01/2023          |
+| [Planejamento do Relato do Resultados do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoRelatoResuProtAlta.md) | [João Lucas](https://github.com/HacKairos)                                                                                                 | [Thiago Oliveira](https://github.com/Thiab394) | 25/01/2023          |
+| [Teste Piloto - Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtAltaFidelidade.md)                                        | [Eduardo](https://github.com/edudsan)                                                                                                      | [João Lucas](https://github.com/HacKairos)     | 25/01/2023          |
+| [Resultados do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/RelatoResultadosProtPapel.md)                                                   | [Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)<br>[Thiago Oliveira](https://github.com/Thiab394) | [Arthur Taylor](https://github.com/Eruel6)     | 11/01/2023          |
+| [Termo de Consentimento - Protótipo de Papel](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtPapel.md)                                   | [Thiago Oliveira](https://github.com/Thiab394)                                                                                             | [João Lucas](https://github.com/HacKairos)     | 25/01/2023          |
 
 *Tabela X - Artefatos realizados durante a etapa 7*
 <br><br>
@@ -441,11 +444,11 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 
 <center>
 
-|Artefato|Criador|Revisor|Data de Finalização|
-|--------|-------|-------|-------------------|
-|[Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/index.md)|[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Resultados do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/RelatoResProtAlta.md)|[Pedro Lucas](https://github.com/PedroLSF)<br>[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff)|[Eduardo](https://github.com/edudsan)|25/01/2023|
-|[Termo de Consentimento - Alta Fidelidade](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtAlta.md)|[Thiago Oliveira](https://github.com/Thiab394)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
+| Artefato                                                                                                              | Criador                                                                                                                                                                              | Revisor                                    | Data de Finalização |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ------------------- |
+| [Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/index.md)                            | [Ana Luiza](https://github.com/AnHoff)                                                                                                                                               | [João Lucas](https://github.com/HacKairos) | 25/01/2023          |
+| [Resultados do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/RelatoResProtAlta.md)  | [Pedro Lucas](https://github.com/PedroLSF)<br>[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff) | [Eduardo](https://github.com/edudsan)      | 25/01/2023          |
+| [Termo de Consentimento - Alta Fidelidade](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtAlta.md) | [Thiago Oliveira](https://github.com/Thiab394)                                                                                                                                       | [João Lucas](https://github.com/HacKairos) | 25/01/2023          |
 
 *Tabela X - Artefatos realizados durante a etapa 8*
 <br><br>
@@ -464,14 +467,14 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 
 <center>
 
-|Integrante|Criados|Revisados|
-|----------|-------|---------|
-|[Ana Luiza](https://github.com/AnHoff)|17|17|
-|[Arthur Taylor](https://github.com/Eruel6)|11|9|
-|[Eduardo](https://github.com/edudsan)|12|10|
-|[João Lucas](https://github.com/HacKairos)|22|26|
-|[Pedro Lucas](https://github.com/PedroLSF)|18|8|
-|[Thiago Oliveira](https://github.com/Thiab394)|18|12
+| Integrante                                     | Criados | Revisados |
+| ---------------------------------------------- | ------- | --------- |
+| [Ana Luiza](https://github.com/AnHoff)         | 17      | 17        |
+| [Arthur Taylor](https://github.com/Eruel6)     | 11      | 9         |
+| [Eduardo](https://github.com/edudsan)          | 12      | 10        |
+| [João Lucas](https://github.com/HacKairos)     | 22      | 26        |
+| [Pedro Lucas](https://github.com/PedroLSF)     | 18      | 8         |
+| [Thiago Oliveira](https://github.com/Thiab394) | 18      | 12        |
 
 *Tabela X - Artefatos por integrante*
 <br><br>
@@ -528,30 +531,30 @@ A metodologia adotada foi a [Inspeção](../Verificacao/#inspecao) com o auxíli
 
 <center>
 
-|Artefato|Autor|Revisor|Data de Aplicação|
-|--------|-------|-------|-------------------|
-|[Sites Analisados](../Verificacao/Planejamento/VerificacaoSitesAnalisados.md)|[Pedro Lucas](https://github.com/PedroLSF)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Termo de Consentimento](../Verificacao/Planejamento/termoConsentimento.md)|[Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
-|[Modelo de Design](../Verificacao/Planejamento/modeloDesign.md)|[Ana Luiza](https://github.com/AnHoff)|[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
-|[Aspectos Éticos](../Verificacao/Planejamento/aspectosEticos.md)|[Ana Luiza](https://github.com/AnHoff)|[João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
-|[Princípios Gerais](../Verificacao/Tarefas/principiosGerais.md)|[Ana Luiza](https://github.com/AnHoff)|[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
-|[Perfil de Usuário](../Verificacao/Tarefas/VerificacaoPerfilUsuario.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|[Análise de Tarefas](../Verificacao/Tarefas/AnaliseDeTarefas.md)|[João Lucas](https://github.com/HacKairos)|[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
-|[Cenários](../Verificacao/Tarefas/VerificacaoCenarios.md)|[Thiago Oliveira](https://github.com/Thiab394)|[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
-|[Metas de Usabilidade](../Verificacao/Tarefas/verificacaoMetasDeUsabilidade.md)|[Eduardo](https://github.com/edudsan)|[Arthur Taylor](https://github.com/Eruel6)|25/01/2023|
-|[Características da Plataforma](../Verificacao/Tarefas/VerificacaoCaracteristicasPlataforma.md)|[Arthur Taylor](https://github.com/Eruel6)|[Ana Luiza](https://github.com/AnHoff)|25/01/2023|
-|[Guia de Estilo](../Verificacao/Tarefas/verificacaoGuiaDeEstilo.md)|[Eduardo](https://github.com/edudsan)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|Análise de Tarefas - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoPlanAval.md)|[Pedro Lucas](https://github.com/PedroLSF)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|Análise de Tarefas - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoPlanejamentoRelato.md)|[Pedro Lucas](https://github.com/PedroLSF)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|Análise de Tarefas - [Relato dos Resultados](../Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoRelato.md)|[Pedro Lucas](https://github.com/PedroLSF)|[Thiago Oliveira](https://github.com/Thiab394)|25/01/2023|
-|Storyboard - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerficacaoPlanejamentoAval.md)|[João Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
-|Storyboard - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoPlanejamentoRelato.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
-|Storyboard - [Relato dos Resultados](../Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoRelato.md)|[João Lucas](https://github.com/HacKairos)|[Pedro Lucas](https://github.com/PedroLSF)|25/01/2023|
-|Protótipo de Papel - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel2/VerficacaoPlanejamentoAval.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|Protótipo de Papel - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel2/VerificacaoPlanejamentoRelato.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|Protótipo de Papel - [Relato dos Resultados](../Verificacao/DesignAvaliacaoDesen/Nivel2/VerificacaoRelato.md)|[Arthur Taylor](https://github.com/Eruel6)|[João Lucas](https://github.com/HacKairos)|25/01/2023|
-|Protótipo de Alta Fidelidade - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoAvaliacao.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
-|Protótipo de Alta Fidelidade - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoRelato.md)|[João Lucas](https://github.com/HacKairos)|[Eduardo](https://github.com/edudsan)|25/01/2023|
+| Artefato                                                                                                                                   | Autor                                          | Revisor                                                                                  | Data de Aplicação |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------- |
+| [Sites Analisados](../Verificacao/Planejamento/VerificacaoSitesAnalisados.md)                                                              | [Pedro Lucas](https://github.com/PedroLSF)     | [João Lucas](https://github.com/HacKairos)                                               | 25/01/2023        |
+| [Termo de Consentimento](../Verificacao/Planejamento/termoConsentimento.md)                                                                | [Ana Luiza](https://github.com/AnHoff)         | [Pedro Lucas](https://github.com/PedroLSF)                                               | 25/01/2023        |
+| [Modelo de Design](../Verificacao/Planejamento/modeloDesign.md)                                                                            | [Ana Luiza](https://github.com/AnHoff)         | [Pedro Lucas](https://github.com/PedroLSF)                                               | 25/01/2023        |
+| [Aspectos Éticos](../Verificacao/Planejamento/aspectosEticos.md)                                                                           | [Ana Luiza](https://github.com/AnHoff)         | [João Lucas](https://github.com/HacKairos)<br>[Pedro Lucas](https://github.com/PedroLSF) | 25/01/2023        |
+| [Princípios Gerais](../Verificacao/Tarefas/principiosGerais.md)                                                                            | [Ana Luiza](https://github.com/AnHoff)         | [Arthur Taylor](https://github.com/Eruel6)                                               | 25/01/2023        |
+| [Perfil de Usuário](../Verificacao/Tarefas/VerificacaoPerfilUsuario.md)                                                                    | [Arthur Taylor](https://github.com/Eruel6)     | [João Lucas](https://github.com/HacKairos)                                               | 25/01/2023        |
+| [Análise de Tarefas](../Verificacao/Tarefas/AnaliseDeTarefas.md)                                                                           | [João Lucas](https://github.com/HacKairos)     | [Ana Luiza](https://github.com/AnHoff)                                                   | 25/01/2023        |
+| [Cenários](../Verificacao/Tarefas/VerificacaoCenarios.md)                                                                                  | [Thiago Oliveira](https://github.com/Thiab394) | [Ana Luiza](https://github.com/AnHoff)                                                   | 25/01/2023        |
+| [Metas de Usabilidade](../Verificacao/Tarefas/verificacaoMetasDeUsabilidade.md)                                                            | [Eduardo](https://github.com/edudsan)          | [Arthur Taylor](https://github.com/Eruel6)                                               | 25/01/2023        |
+| [Características da Plataforma](../Verificacao/Tarefas/VerificacaoCaracteristicasPlataforma.md)                                            | [Arthur Taylor](https://github.com/Eruel6)     | [Ana Luiza](https://github.com/AnHoff)                                                   | 25/01/2023        |
+| [Guia de Estilo](../Verificacao/Tarefas/verificacaoGuiaDeEstilo.md)                                                                        | [Eduardo](https://github.com/edudsan)          | [João Lucas](https://github.com/HacKairos)                                               | 25/01/2023        |
+| Análise de Tarefas - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoPlanAval.md)        | [Pedro Lucas](https://github.com/PedroLSF)     | [Thiago Oliveira](https://github.com/Thiab394)                                           | 25/01/2023        |
+| Análise de Tarefas - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoPlanejamentoRelato.md) | [Pedro Lucas](https://github.com/PedroLSF)     | [Thiago Oliveira](https://github.com/Thiab394)                                           | 25/01/2023        |
+| Análise de Tarefas - [Relato dos Resultados](../Verificacao/DesignAvaliacaoDesen/Nivel1/AnalisedeTarefa/VerificacaoRelato.md)              | [Pedro Lucas](https://github.com/PedroLSF)     | [Thiago Oliveira](https://github.com/Thiab394)                                           | 25/01/2023        |
+| Storyboard - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerficacaoPlanejamentoAval.md)              | [João Lucas](https://github.com/HacKairos)     | [Pedro Lucas](https://github.com/PedroLSF)                                               | 25/01/2023        |
+| Storyboard - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoPlanejamentoRelato.md)              | [João Lucas](https://github.com/HacKairos)     | [Eduardo](https://github.com/edudsan)                                                    | 25/01/2023        |
+| Storyboard - [Relato dos Resultados](../Verificacao/DesignAvaliacaoDesen/Nivel1/Storyboard/VerificacaoRelato.md)                           | [João Lucas](https://github.com/HacKairos)     | [Pedro Lucas](https://github.com/PedroLSF)                                               | 25/01/2023        |
+| Protótipo de Papel - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel2/VerficacaoPlanejamentoAval.md)                 | [Arthur Taylor](https://github.com/Eruel6)     | [João Lucas](https://github.com/HacKairos)                                               | 25/01/2023        |
+| Protótipo de Papel - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel2/VerificacaoPlanejamentoRelato.md)                 | [Arthur Taylor](https://github.com/Eruel6)     | [João Lucas](https://github.com/HacKairos)                                               | 25/01/2023        |
+| Protótipo de Papel - [Relato dos Resultados](../Verificacao/DesignAvaliacaoDesen/Nivel2/VerificacaoRelato.md)                              | [Arthur Taylor](https://github.com/Eruel6)     | [João Lucas](https://github.com/HacKairos)                                               | 25/01/2023        |
+| Protótipo de Alta Fidelidade - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoAvaliacao.md) | [João Lucas](https://github.com/HacKairos)     | [Eduardo](https://github.com/edudsan)                                                    | 25/01/2023        |
+| Protótipo de Alta Fidelidade - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoRelato.md)       | [João Lucas](https://github.com/HacKairos)     | [Eduardo](https://github.com/edudsan)                                                    | 25/01/2023        |
 
 *Tabela X - Artefatos de verificação*
 <br><br>
