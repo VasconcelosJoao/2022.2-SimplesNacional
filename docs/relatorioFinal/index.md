@@ -353,7 +353,7 @@ Os participantes do Planejamento foram: [Ana Luiza](https://github.com/AnHoff), 
 A seguir estão apresentadas as tabelas referentes a cada etapa do projeto. Vale destacar que a **Etapa 6: Verificação dos Artefatos** está apresentada no tópico [V&V](#vv).
 
 ### <a>Etapa 1</a>
-A tabela XX abaixo apresenta os artefatos criados durante o projeto na **Etapa 1: Planejamento**, com o nome de seus respectivos criadores e revisores.
+A tabela 17 abaixo apresenta os artefatos criados durante o projeto na **Etapa 1: Planejamento**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -374,13 +374,13 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto na **Etapa 1
 | Políticas - [Política de Pull Request](../Planejamento/Politicas/PolitcaDePR.md)                 | [João Lucas](https://github.com/HacKairos)                                                                                             | [Ana Luiza](https://github.com/AnHoff)                                                                                             | 11/11/2022          |
 | Políticas - [Política de Segurança](../Planejamento/Politicas/PolitcaDeSeguranca.md)             | [João Lucas](https://github.com/HacKairos)                                                                                             | [Ana Luiza](https://github.com/AnHoff)                                                                                             | 11/11/2022          |
 
-*Tabela X - Artefatos realizados durante a etapa 1*
+*Tabela 17 - Artefatos realizados durante a etapa 1*
 <br><br>
 
 </center>
 
 ### <a>Etapas 2 e 3</a>
-A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas e Análise de tarefas** e a **Etapa 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo**, com o nome de seus respectivos criadores e revisores.
+A tabela 18 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas e Análise de tarefas** e a **Etapa 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -397,13 +397,13 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 | [Princípios Gerais](../Tarefas/PrincipiosGerais.md)                      | [Pedro Lucas](https://github.com/PedroLSF)<br>[Eduardo](https://github.com/edudsan)           | [Ana Luiza](https://github.com/AnHoff)<br>[Arthur Taylor](https://github.com/Eruel6)         | 25/01/2023          |
 | [Guia de Estilo](../Tarefas/GuiaDeEstilo.md)                             | [Ana Luiza](https://github.com/AnHoff)<br>[Arthur Taylor](https://github.com/Eruel6)          | [Eduardo](https://github.com/edudsan)<br>[Thiago Oliveira](https://github.com/Thiab394)      | 25/01/2023          |
 
-*Tabela X - Artefatos realizados durante as etapas 2 e 3*
+*Tabela 18 - Artefatos realizados durante as etapas 2 e 3*
 <br><br>
 
 </center>
 
 ### <a>Etapa 4</a>
-A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 4: Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas**, com o nome de seus respectivos criadores e revisores.
+A tabela 19 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 4: Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -416,13 +416,13 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 | [Teste Piloto - Análise de Tarefas](../DesignAvaliacaoDesen/TestesPiloto/TestepilotoAnaliTarefas.md)                                           | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan) | [João Lucas](https://github.com/HacKairos)                                                                                        | 25/01/2023          |
 | [Teste Piloto - Storyboard](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoStoryboard.md)                                                     | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan) | [João Lucas](https://github.com/HacKairos)                                                                                        | 25/01/2023          |
 
-*Tabela X - Artefatos realizados durante a etapa 4*
+*Tabela 19 - Artefatos realizados durante a etapa 4*
 <br><br>
 
 </center>
 
 ### <a>Etapa 5</a>
-A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 5: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel**, com o nome de seus respectivos criadores e revisores.
+A tabela 20 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 5: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -437,13 +437,13 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 | [Verificação da 1ª Etapa](../DesignAvaliacaoDesen/Nivel1/VerificacaoEtapa1.md)                                                            | [Pedro Lucas](https://github.com/PedroLSF)<br>[Thiago Oliveira](https://github.com/Thiab394)                                  | [Ana Luiza](https://github.com/AnHoff)<br>[João Lucas](https://github.com/HacKairos) | 25/01/2023          |
 | [Teste Piloto - Protótipo de Papel](../DesignAvaliacaoDesen/TestesPiloto/TestePilotoProtPapel.md)                                         | [Thiago Oliveira](https://github.com/Thiab394)<br>[Eduardo](https://github.com/edudsan)                                       | [João Lucas](https://github.com/HacKairos)                                           | 25/01/2023          |
 
-*Tabela X - Artefatos realizados durante a etapa 5*
+*Tabela 20 - Artefatos realizados durante a etapa 5*
 <br><br>
 
 </center>
 
 ### <a>Etapa 7</a>
-A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade**, com o nome de seus respectivos criadores e revisores.
+A tabela 21 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -455,13 +455,13 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 | [Resultados do Protótipo de Papel](../DesignAvaliacaoDesen/Nivel2/ProtPapel/RelatoResultadosProtPapel.md)                                                   | [Pedro Lucas](https://github.com/PedroLSF)<br>[João Lucas](https://github.com/HacKairos)<br>[Thiago Oliveira](https://github.com/Thiab394) | [Arthur Taylor](https://github.com/Eruel6)     | 11/01/2023          |
 | [Termo de Consentimento - Protótipo de Papel](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtPapel.md)                                   | [Thiago Oliveira](https://github.com/Thiab394)                                                                                             | [João Lucas](https://github.com/HacKairos)     | 25/01/2023          |
 
-*Tabela X - Artefatos realizados durante a etapa 7*
+*Tabela 21 - Artefatos realizados durante a etapa 7*
 <br><br>
 
 </center>
 
 ### <a>Etapa 8</a>
-A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 8: Relato dos resultados da avaliação do protótipo de alta fidelidade**, com o nome de seus respectivos criadores e revisores.
+A tabela 22 abaixo apresenta os artefatos criados durante o projeto durante a **Etapa 8: Relato dos resultados da avaliação do protótipo de alta fidelidade**, com o nome de seus respectivos criadores e revisores.
 
 <center>
 
@@ -471,7 +471,7 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 | [Resultados do Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/RelatoResProtAlta.md)  | [Pedro Lucas](https://github.com/PedroLSF)<br>[Arthur Taylor](https://github.com/Eruel6)<br>[Thiago Oliveira](https://github.com/Thiab394)<br>[Ana Luiza](https://github.com/AnHoff) | [Eduardo](https://github.com/edudsan)      | 25/01/2023          |
 | [Termo de Consentimento - Alta Fidelidade](../DesignAvaliacaoDesen/TermosConsentimento/TermoConsentimentoProtAlta.md) | [Thiago Oliveira](https://github.com/Thiab394)                                                                                                                                       | [João Lucas](https://github.com/HacKairos) | 25/01/2023          |
 
-*Tabela X - Artefatos realizados durante a etapa 8*
+*Tabela 22 - Artefatos realizados durante a etapa 8*
 <br><br>
 
 **Total de artefatos:** 68*.
@@ -484,7 +484,7 @@ A tabela XX abaixo apresenta os artefatos criados durante o projeto durante a **
 A revisão final visa corrigir ocasionais erros em legendas e imagens, erros de ortografia e afins. Ela foi realizada por [João Lucas](https://github.com/HacKairos) e revisada por [Thiago Oliveira](https://github.com/Thiab394), [Ana Luiza](https://github.com/AnHoff) e [Pedro Lucas](https://github.com/PedroLSF) no dia 25/01/2023.
 
 ### <a>Contagem Individual</a>
-A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados por cada integrante.
+A tabela 23 abaixo apresenta a quantidade total de artefatos criados e revisados por cada integrante.
 
 <center>
 
@@ -497,7 +497,7 @@ A tabela XX abaixo apresenta a quantidade total de artefatos criados e revisados
 | [Pedro Lucas](https://github.com/PedroLSF)     | 18      | 8         |
 | [Thiago Oliveira](https://github.com/Thiab394) | 18      | 12        |
 
-*Tabela X - Artefatos por integrante*
+*Tabela 23 - Artefatos por integrante*
 <br><br>
 
 </center>
@@ -552,7 +552,7 @@ Por fim, podemos mostrar a ideia final para nossos usuários, deixar que eles ex
 ### <a>Verificação</a>
 Para realizar a verificação dos artefatos do projeto, foram escolhidas pessoas não envolvidas na criação de cada artefato. Com isso, buscava-se encontrar erros não percebidos pelo criador e/ou revisor do mesmo até então.
 
-A metodologia adotada foi a [Inspeção](../Verificacao/#inspecao) com o auxílio de [Checklists](../Verificação/#metodo-de-avaliacao). Na tabela X abaixo, Autor representa o criador da checklist e Revisor o responsável por aplicar a inspeção.
+A metodologia adotada foi a [Inspeção](../Verificacao/#inspecao) com o auxílio de [Checklists](../Verificação/#metodo-de-avaliacao). Na tabela 24 abaixo, Autor representa o criador da checklist e Revisor o responsável por aplicar a inspeção.
 
 <center>
 
@@ -581,13 +581,40 @@ A metodologia adotada foi a [Inspeção](../Verificacao/#inspecao) com o auxíli
 | Protótipo de Alta Fidelidade - [Planejamento da Avaliação](../Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoAvaliacao.md) | [João Lucas](https://github.com/HacKairos)     | [Eduardo](https://github.com/edudsan)                                                    | 25/01/2023        |
 | Protótipo de Alta Fidelidade - [Planejamento do Relato](../Verificacao/DesignAvaliacaoDesen/Nivel3/VerificacaoPlanejamentoRelato.md)       | [João Lucas](https://github.com/HacKairos)     | [Eduardo](https://github.com/edudsan)                                                    | 25/01/2023        |
 
-*Tabela X - Artefatos de verificação*
+*Tabela 24 - Artefatos de verificação*
 <br><br>
 
 </center>
 
 ### <a>Validação</a>
 A validação foi realizada por diversos usuários durante o desenvolvimento do projeto. Conforme o grupo desenvolvia artefatos, havia a realização de entrevistas com o usuário, visando saber se o trabalho produzido correspondia com a expectativa do usuário e/ou realidade.
+
+## <a>Facilidades e Dificuldades</a>
+### <a>Ana</a>
+"Acredito que a maior dificuldade do projeto tenha sido entrar em contato com os usuários e engajar comunidades do Facebook com o preenchimento de um questionário sobre o perfil dos usuários. Lidar com a equipe em certos momentos também é difícil, mas no final acaba sendo recompensador! Gostei de trabalhar neste projeto e acredito que aplicarei o que aprendi em futuros projetos."
+
+### <a>Arthur</a>
+"Positivos: A oportunidade de aprender a matéria de forma pratica durante a execução do projeto, a grande quantidade de apresentações que propiciava vários fedbacks para a melhora do projeto e nos possibilitou uma melhora contínua do projeto.Negativos: Devido ao semestre reduzido as entregas acabaram ficando um pouco corridas algumas vezes."
+
+### <a>Eduardo</a>
+"A experiência que tive sobre a disciplina foi o trabalho em grupo, onde todos se ajudavam e a metodologia de ensino ministrada pelo professor. Pois ele auxiliava após cada apresentação todos os grupos com comentários do que achou mais interessante em cada grupo e que os demais grupos poderiam seguir. A dificultade encontrada foi com o cronograma, pois acredito que o tempo disponível no semestre não colaborou para que conseguimos desenvolver com mais calma"
+
+### <a>João</a>
+"Plano de ensino bem elicitado, muitas listas de exercicios, materiais de apoio bons para consulta e estudo foram essenciais para a realização do projeto."
+
+### <a>Pedro</a>
+"Pontos Positivos: Acredito que foi um projeto que demonstrou de forma fiel todo trabalho de documentação e levantamentos de requisitos. Demonstrou a importância desse contato.O Grupo foi bem importante para o desenvolvimento do trabalho.Pontos Negativos:Acredito que seja uma quantidade desnecessária de atividades.Apesar de ser para aprendermos acredito que possamos usar menos técnicas para um mesmo objetivo"
+
+### <a>Thiago</a>
+Facilidade:
+Ter uma série de projetos anteoriores, sendo deles alguns bons que serviram de exemplo,
+um dos monitores bem presente e explicando bem a disciplina. Dificulade:
+Poucos projetos anteriores bons, fazendo com que tenha uma certa dificuldade de se basear
+nos mesmos,alta quantidade de conteudo e tarefas no começo pro meio do semestre, confusão
+em muitas entregas por não ter explicitado tudo necessario para a mesma, fazendo com que
+não entregassemos o "esperado" pelo professor, entregas seguidas com prazo extremamente
+curto entre elas. porem apesar de tudo achei uma boa disciplina, deu para aprender realmente algumas das
+mecanicas de IHC(Trocar pro req aqui), e é isso que realmente importa.
 
 ## <a>BIbliografia</a>
 [1] 2022.1-YouTube. Disponível em: https://requisitos-de-software.github.io/2022.1-Youtube/apresentacao-final/. Acesso em: 27 de Janeiro de 2023.
