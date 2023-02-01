@@ -514,7 +514,6 @@ A tabela 23 abaixo apresenta a quantidade total de artefatos criados e revisados
 
 #### <a>Análise de Tarefas</a>
 A Análise de tarefa se divide em 3 documentos principais, sendo eles:
-<<<<<<< HEAD
 
 * [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard/)
 * [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas/)
@@ -522,22 +521,11 @@ A Análise de tarefa se divide em 3 documentos principais, sendo eles:
 
 #### <a>Storyboard</a>
 Assim como a Análise de tarefa, o storyboard se divide em 3 documentos principais, sendo eles:
-=======
->>>>>>> 8c54faa9d4684c6234e20c4d6619ea684fba86b0
 
 * [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas/)
 * [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard/)
 * [Relato dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/RelatoResultadosStoryboard/)
 
-<<<<<<< HEAD
-=======
-#### <a>Storyboard</a>
-Assim como a Análise de tarefa, o storyboard se divide em 3 documentos principais, sendo eles:
-
-* [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard/)
-* [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas/)
-* [Relato dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/RelatoResultadosAnaliseTarefas/)
->>>>>>> 8c54faa9d4684c6234e20c4d6619ea684fba86b0
 
 Depois de identificar os usuários do Simples Nacional, o grupo foi atrás de desenvolver a Análise de Tarefa para verificarmos se atendia com o planejado. Com isso, criamos a uma sequência de atividades que representa o caminho do nosso usuário nativo digital e não nativo digital. Por fim, tivemos as entrevistas que desenvolveram um debates e questionários a fim de entender o quão próximo da realidade nosso storyboard está e se ele condiz com o que deve ser feito.
 
