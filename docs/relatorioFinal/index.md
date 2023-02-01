@@ -549,6 +549,24 @@ Os últimos 3 documentos:
 
 Por fim, podemos mostrar a ideia final para nossos usuários, deixar que eles executem as nossas telas e compare com o atual. Portanto, eles podem avaliar se tudo que foi solicitado consta. E assim como todos os outros documentos, temos o relato dos resultados que demonstra o que irá entrar no site oficial como alteração.
 
+## <a>Resultados</a>
+Acreditamos que o objetivo primordial desse projeto, aplicar na prática o que foi aprendido em sala de aula, foi alcançado de diferentes formas. No início, os resultados não foram satisfatórios, deixando muito a desejar. As técnicas e conceitos foram aplicados de forma incorreta e, com isso, o trabalho iniciou "com o pé esquerdo". Apesar desse fato, o grupo conseguiu se reorganizar e melhorar muito a qualidade dos artefatos que estavam sendo elaborados a partir das [Etapas 3 e 4](#etapas-3-e-4-modelagem), sem deixar de lado as melhorias a serem realizadas nos artefatos iniciais. Com isso em mente, pode-se afirmar que a aplicação de técnicas e conceitos aprendidos em sala foi realizada com sucesso durante o projeto.
+
+O outro objetivo do projeto, não menos importante que o primeiro apresentado, era analisar um aplicativo. O MEI foi escolhido após a elaboração e análise dos diferentes [Rich Pictures](../Planejamento/SitesAnalisados.md) elaborados pelos integrantes do grupo. Após a escolha do aplicativo, foi possível iniciar a aplicação dos conceitos e ténicas aprendidos, por meio da realização das fases do projeto.
+
+Todos os integrantes presentes nas tabelas de [Artefatos](#artefatos) participaram ativamente do projeto. Seja por meio da elaboração direta de artefatos ou da realização de pesquisas e entrevistas com os usuários, todos participaram dando o melhor de si. Todos concordam: houve grande desenvolvimento de softskills. As mais notáveis foram:
+
+* Organização;
+* Planejamento;
+* Resiliência.
+
+A seguir, confira um resumo dos resultados mais notáveis do projeto.
+
+### <a>Perfil do Usuário</a>
+O [Perfil do Usuário](../Tarefas/perfilUsuario.md) identificado pelo grupo é semelhante ao perfil encontrado em estudos realizados por outros pesquisadores [2]. Esse fato dá suporte aos dados obtidos pelo grupo, que são compatíveis com os obtidos por meio de pesquisas oficiais de grandes empresas.
+
+### <a>Protótipo de Alta Fidelidade</a>
+O [Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/index.md) foi elaborado pelo integrante [João Lucas](https://github.com/HacKairos), em colaboração com [Arthur Taylor](https://github.com/Eruel6), e aprovado por todo o grupo (Ana, Pedro, Thiago e Eduardo). Sua criação visava melhorar pontos críticos, como a segurança do aplicativo, a partir do resultado da análise e modelagem de requisitos. Confira aqui o [Protótipo]([https://www.figma.com/proto/YVsTmRLQiocQb1d258RRZE/MEI?node-id=1%3A11&starting-point-node-id=1%3A9](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F9MHpLCsADuC4ZvVwzR6Dbj%2FUntitled%3Fnode-id%3D6%253A2%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D6%253A2%26show-proto-sidebar%3D1)).
 
 ## <a>V&V</a>
 ### <a>Verificação</a>
