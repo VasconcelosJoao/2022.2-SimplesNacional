@@ -290,8 +290,8 @@ E para representar melhor cada etapa da Execução do projeto foi realizada uma 
 
 <center>
 
-| Etapa |                              Video                              |
-| :---: | :-------------------------------------------------------------: |
+| Etapa |                   Video                   |
+| :---: | :---------------------------------------: |
 |  1ª   | [Link aqui](https://youtu.be/fPk5NnAmyGs) |
 |  2ª   | [Link aqui](https://youtu.be/GDX784RFX-8) |
 |  3ª   | [Link aqui](https://youtu.be/S741_WSpXfQ) |
