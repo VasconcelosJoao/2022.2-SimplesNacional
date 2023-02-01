@@ -512,14 +512,14 @@ A tabela 23 abaixo apresenta a quantidade total de artefatos criados e revisados
 ## <a>Protótipos</a>
 ### <a>Nível 1</a>
 #### <a>Análise de Tarefas</a>
-Assim como a Análise de tarefa, o storyboard se divide em 3 documentos principais, sendo eles:
+A Análise de tarefa se divide em 3 documentos principais, sendo eles:
 
 * [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas/)
 * [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoRelatoResuStoryboard/)
 * [Relato dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/RelatoResultadosStoryboard/)
 
 #### <a>Storyboard</a>
-A Análise de tarefa se divide em 3 documentos principais, sendo eles:
+Assim como a Análise de tarefa, o storyboard se divide em 3 documentos principais, sendo eles:
 
 * [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/Storyboard/PlanejamentoAvStoryboard/)
 * [Planejamento dos Resultados](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoResAnaliseTarefas/)
