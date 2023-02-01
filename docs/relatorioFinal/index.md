@@ -286,11 +286,29 @@ O Cronograma Executa pode ser visto [aqui](https://interacao-humano-computador.g
 
 *Tabela 14 - Tarefas executadas para a Etapa 7*<br><br>
 
+E para representar melhor cada etapa da Execução do projeto foi realizada uma apresentação, com o grupo apresentando os principais artefatos de cada apresentação, esses videos podem ser encontrados a seguir:
+
+<center>
+
+| Etapa |                                                                                                                Video                                                                                                                 |
+| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/fPk5NnAmyGs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  2ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/GDX784RFX-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  3ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/S741_WSpXfQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  4ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/AFbbv57W1wM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  5ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/qlIrAinpoTk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  6ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/oYBB8K6VYdk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  7ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/BoS_l0CFmos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  8ª   | <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/wzy8QC-K0A4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+
+*Tabela 15 - Lista das gravações realizadas*
+</center>
 
 
 ## <a>Ferramentas</a>
 
 Na tabela a seguir pode ser encontrada as ferramentas utilizadas durante o projeto e suas principais funções:
+<center>
 
 |                                               Logo                                               |    Nome da ferramenta     |                Etapa                |                                            Utilidade                                             |
 | :----------------------------------------------------------------------------------------------: | :-----------------------: | :---------------------------------: | :----------------------------------------------------------------------------------------------: |
@@ -303,6 +321,8 @@ Na tabela a seguir pode ser encontrada as ferramentas utilizadas durante o proje
 |     <img src="./../../assets/ferramentasLogo/lucidchart.png" width="100" height="100"></img>     |    <a>Lucid Chart</a>     |         Análise de Tarefas          |                      Ferramenta utilizada para construir alguns diagramas.                       |
 |       <img src="./../../assets/ferramentasLogo/figma.svg" width="100" height="100"></img>        |       <a>Figma</a>        | Design, Avaliação e Desenvolvimento |                   Utilizado para trabalhar com protótipos de alta fidelidade.                    |
 
+*Tabela 16 - Lista de ferramentas utilizadas*
+</center>
 
 ## <a>Técnicas</a>
 
