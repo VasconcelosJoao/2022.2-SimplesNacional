@@ -565,6 +565,9 @@ A seguir, confira um resumo dos resultados mais notáveis do projeto.
 ### <a>Perfil do Usuário</a>
 O [Perfil do Usuário](../Tarefas/perfilUsuario.md) identificado pelo grupo é semelhante ao perfil encontrado em estudos realizados por outros pesquisadores [2]. Esse fato dá suporte aos dados obtidos pelo grupo, que são compatíveis com os obtidos por meio de pesquisas oficiais de grandes empresas.
 
+### <a>Análise de Tarefas
+A [Análise de Tarefas](../Tarefas/Analise.md) é um artefato que vale a pena ser citado, uma vez que com ele podemos ter um maior entendimento de como as tarefas são realizadas no site do Simples Nacional, mostrando para o grupo pontos falhos que o sistema possuía, com isso podemos sugerir melhorias para que o site atendesse de forma melhor e mais simples as nescessidades de seus usuários.
+
 ### <a>Protótipo de Alta Fidelidade</a>
 O [Protótipo de Alta Fidelidade](../DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/index.md) foi elaborado pelo integrante [João Lucas](https://github.com/HacKairos), em colaboração com [Arthur Taylor](https://github.com/Eruel6), e aprovado por todo o grupo (Ana, Pedro, Thiago e Eduardo). Sua criação visava melhorar pontos críticos, como a segurança do aplicativo, a partir do resultado da análise de tarefas. Confira aqui o [Protótipo]([https://www.figma.com/proto/YVsTmRLQiocQb1d258RRZE/MEI?node-id=1%3A11&starting-point-node-id=1%3A9](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F9MHpLCsADuC4ZvVwzR6Dbj%2FUntitled%3Fnode-id%3D6%253A2%26scaling%3Dcontain%26page-id%3D0%253A1%26starting-point-node-id%3D6%253A2%26show-proto-sidebar%3D1)).
 
